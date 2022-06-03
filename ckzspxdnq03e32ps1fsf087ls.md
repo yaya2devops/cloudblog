@@ -67,11 +67,11 @@ I attempted to gather the certification topics into a single scrollable [page](h
 ### 4. Deeper Dive - Udemy
 
 
-#### **[Alan Rodrigues](https://www.udemy.com/user/b6837a38-3380-4c15-8cd9-aabb118793df/)**
+- **[Alan Rodrigues](https://www.udemy.com/course/microsoft-azure-beginners-guide/)**
 %[https://www.udemy.com/course/microsoft-azure-beginners-guide/]
 
-#### **[Scott Duffy](https://www.udemy.com/user/scottduffy2/)**
-%[https://www.udemy.com/course/az900-azure/#instructor-1]
+- **[Scott Duffy](https://www.udemy.com/course/az900-azure/#instructor-1)**
+
 
 
 
@@ -80,13 +80,10 @@ I attempted to gather the certification topics into a single scrollable [page](h
 
  Last but not least, before the exam day you need to practice some tests, it's a good confidence boost  and really helps passing the exam.
 
-For that I'm referring to this blog:
+For that I'm referring to this **[blog](https://vladtalkstech.com/2022/01/free-practice-questions-for-select-microsoft-certifications.html?fbclid=IwAR0b0kOiWTlAuwezmYJYnPb7Ge7V4SUEnLQrbEM133-ixmQLQ5S5qPBDFbA)**.
 
-%[https://vladtalkstech.com/2022/01/free-practice-questions-for-select-microsoft-certifications.html?fbclid=IwAR0b0kOiWTlAuwezmYJYnPb7Ge7V4SUEnLQrbEM133-ixmQLQ5S5qPBDFbA]
+You can also check  **[whizlabs](https://www.whizlabs.com)**.
 
-You can also check  **whizlabs** :
-
-%[https://www.whizlabs.com]
 
 
 ### Good luck!
