@@ -14,7 +14,7 @@ Foremost, the exam code for the certification is AZ-104, as every time with Micr
  [Click here to see the skills measured](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWy)
 
 
-Watch this (video)[https://www.youtube.com/watch?v=2nxEF1XswIo&t=427s] from **Yatharth Kapoor** before beginning your preparation, where he simply explains some great material for the certification in a short video. <br> I recall viewing it while I was stressed out and it helped me arrange my thoughts.
+Watch this [video](https://www.youtube.com/watch?v=2nxEF1XswIo&t=427s) from **Yatharth Kapoor** before beginning your preparation, where he simply explains some great material for the certification in a short video. <br> I recall viewing it while I was stressed out and it helped me arrange my thoughts.
 
 
 
@@ -22,7 +22,7 @@ Watch this (video)[https://www.youtube.com/watch?v=2nxEF1XswIo&t=427s] from **Ya
 ### Now some compressed material!
 **Andrew Brown course is free and available on freeCodeCamp Youtube channel, covering all the topics of the exam.**
 
-- This (course)[https://www.youtube.com/watch?v=10PbGbTUSAg&t=426s] will get you steps into your preparation.
+- This [course](https://www.youtube.com/watch?v=10PbGbTUSAg&t=426s) will get you steps into your preparation.
 
 
 #### Importantly, you cannot prepare for an Azure certification without going through what ** John Savill ** provides to the community.
