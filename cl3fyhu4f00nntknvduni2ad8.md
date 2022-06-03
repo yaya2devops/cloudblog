@@ -113,7 +113,6 @@ Another way to get started is to study and take the exam. I've found this method
 [HashiCorp Certified: Terraform associate](https://www.hashicorp.com/certification/terraform-associate) is multiple choice exam that relies on a practical experience. <br>
 In this case, Terraform open source [documentation](https://www.terraform.io/docs) is for everyone to learn and experiment this product with.
 
-
 ## Conclusion
 Terraform is a constantly evolving, extremely useful IaC solution that can greatly improve the efficiency of our DevOps.
 We've only covered the fundamentals to get you started in this article; there's a lot more to Terraform that certainly requires more attention.
