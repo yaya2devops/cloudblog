@@ -6,6 +6,7 @@ Following the same rhythm with increasing effort, I was able to get certified as
 
 
  ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1650075475678/jgecqAgFc.png)
+ 
 Microsoft offers a variety of foundational certifications with the exam code XX-900, depending on the field of interest.
 
 **if you are completely new to the cloud, AZ-900; it should be your first target.**
