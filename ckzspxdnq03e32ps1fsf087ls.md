@@ -53,11 +53,11 @@ Sample for the AZ-900
 
 He is also an inspiring fitness guy who will probably encourage you to start going to the gym if you haven't yet. 
 
-[John's Youtube Playlist](https://www.youtube.com/watch?v=pY0LnKiDwRA&list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3)
+- [John's Youtube Playlist](https://www.youtube.com/watch?v=pY0LnKiDwRA&list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3)
 
 ### 3. My Notes!
 
-![image_2022-05-25_014007531.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653435606950/EMB2HrzvA.png align="left")
+![image_2022-05-25_014007531.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653435606950/EMB2HrzvA.png)
 
 I attempted to gather the certification topics into a single scrollable [page](https://cloud.itzyahya.tech/A-AZ900) that can be used offline; I hope this is useful.
 
