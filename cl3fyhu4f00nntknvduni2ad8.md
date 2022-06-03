@@ -21,7 +21,7 @@ For instance, setting up such a complex architecture the traditional approach ca
 
 
 
-It's important to note that each cloud provider have their own IaC tool.  <br>
+It's important to note that each cloud provider have their own IaC tool.
 These tools are useful when working with a specific cloud.<br> When a new service release is available here, for example, it may take some time before it is  accessible in an external product like Terraform.  <br>However, **Cloud Providers IaC tools can only be used within their own services.**
 
 
@@ -101,7 +101,7 @@ You can find a ready-to-use modules in the [Terraform Registry](https://registry
 ### Hands-On
 The best way to learn about terraform is to do it yourself.
 With a hands-on approach, you'll quickly grasp the material and improve with each keystroke. <br>
-[Terraform Best practices](https://www.terraform-best-practices.com) is a good option to consider along the way.
+- [Terraform Best practices](https://www.terraform-best-practices.com) is a good option to consider along the way.
 
 ### Terraform Certification
 
