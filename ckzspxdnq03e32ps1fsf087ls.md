@@ -68,8 +68,6 @@ I attempted to gather the certification topics into a single scrollable [page](h
 
 
 - **[Alan Rodrigues](https://www.udemy.com/course/microsoft-azure-beginners-guide/)**
-%[https://www.udemy.com/course/microsoft-azure-beginners-guide/]
-
 - **[Scott Duffy](https://www.udemy.com/course/az900-azure/#instructor-1)**
 
 
