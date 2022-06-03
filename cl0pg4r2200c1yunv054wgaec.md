@@ -30,8 +30,8 @@ He is having a [playlist](https://www.youtube.com/watch?v=VOod_VNgdJk&list=PLlVt
 
 
 ### Bonus Tip:
-** If you are preparing for this exam, try to build things with the services provided by Azure in parallel with your study.
-Such things that you will thank yourself for later. **
+**If you are preparing for this exam, try to build things with the services provided by Azure in parallel with your study.
+Such things that you will thank yourself for later.**
 
  In sum, it's an interesting certification that brings more joy to continuously keep learning on track, ** good luck! **
 
