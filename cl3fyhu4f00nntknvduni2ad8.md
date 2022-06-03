@@ -7,7 +7,7 @@
 # Infrastructure As Code (IaC)
 
 
-![IaC files.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653311067910/kOfSuTBEs.png align="left")
+![IaC files.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653311067910/kOfSuTBEs.png)
 
 As the name implies, IaC refers to **the management and provisioning of infrastructure using code rather than dealing with a graphical user interface and tapping here and there**. Although it does seem simple, a significant problem had to be resolved. <br>
 For instance, setting up such a complex architecture the traditional approach can take days of configuration while using an IaC tool can save you a considerable amount of time and assist you in achieving the levels of agility required to construct a successful route.
