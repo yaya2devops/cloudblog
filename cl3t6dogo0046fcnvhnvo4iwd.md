@@ -76,5 +76,5 @@ Continuous integration and continuous delivery are two independent concepts that
 
 **Continuous delivery:**<br> The tested code from continuous integration is automatically distributed in numerous settings by a manual trigger in the following step of the process. It is an approach in which code updates are packaged and automatically deployed to production.
 
-### Thoughts
+### Pipeline
 Now, I'd like to keep track of my changes. Rather than redeploying the app, I want the content uploaded to a cloud-based Git repository (best known GitHub or Gitlab) and when pushed, it should affect on my real-time application. We can accomplish this by configuring a pipeline to support the CI/CD process.
