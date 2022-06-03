@@ -31,24 +31,24 @@ For someone new to the cloud, it is challenging to choose the right material.
 
 ![image_2022-02-18_175427.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1645203268383/2sC1Bgb7m.png)
 
-** It should appear at the top of the search engine **
+**It should appear at the top of the search engine**
 
 You can find the skills measured for any MS certification in the official documentation for the exam, in the section below. Sample for the AZ-900:
 ![SKILLSOUTLINE.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1645199357604/SP4RtGgM8.png)
 
-** The Documentation contains all the parts that you are going to be tested on, the day of the exam **
+** The Documentation contains all the parts that you are going to be tested on, the day of the exam**
 
 %[https://docs.microsoft.com/en-us/]
 
 ###  1.  Adam Marczak - Azure for Everyone- Microsoft MVP
-** Adam come up with an amazing Azure content: a playlist course on YouTube followed by a Study Guide. **
+**Adam come up with an amazing Azure content: a playlist course on YouTube followed by a Study Guide.**
 
 %[https://www.youtube.com/watch?v=NPEsD6n9A_I&list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM]
 %[https://marczak.io/az-900/]
 
 
 ### 2. John Savill's Technical Training
-** John is a Principal Technical Architect at Microsoft and his YouTube channel is enriched with Azure technologies. **
+**John is a Principal Technical Architect at Microsoft and his YouTube channel is enriched with Azure technologies.**
 
 He is also an inspiring fitness guy who will probably encourage you to start going to the gym if you haven't yet. 
 
