@@ -55,7 +55,7 @@ He is also an inspiring fitness guy who will probably encourage you to start goi
 
 - [John's Youtube Playlist](https://www.youtube.com/watch?v=pY0LnKiDwRA&list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3)
 
-### 3. My Notes!
+### 3. [My Notes](https://cloud.itzyahya.tech)
 
 ![image_2022-05-25_014007531.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653435606950/EMB2HrzvA.png)
 
