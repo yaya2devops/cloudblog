@@ -1,2 +1,1 @@
-# _blogs_archive
-Yahya's Archived Blogs
+# Yahya's Archived Blogs
