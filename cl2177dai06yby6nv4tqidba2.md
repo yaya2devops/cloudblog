@@ -22,10 +22,10 @@ Above all, let's discuss some key points:
 - You can perform the assessment as much time as you need before the certificate expiry date.
 
 
-#####  As for the passing score ** for the assessment **, it used to be 70% then Microsoft lowered it to 60%, and at the present time ** the passing score is down to 53% **. Thus, if you score 53% and above, congrats. 
+#####  As for the passing score **for the assessment**, it used to be 70% then Microsoft lowered it to 60%, and at the present time **the passing score is down to 53%**. Thus, if you score 53% and above, congrats. 
  ##### Some certifications, despite that, need 60% minimum.
 
-** If you don’t pass the renewal assessment before your certification expires, you must earn the certification again by passing the required exam. **
+**If you don’t pass the renewal assessment before your certification expires, you must earn the certification again by passing the required exam.**
 
 
 ### Summary
