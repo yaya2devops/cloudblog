@@ -14,7 +14,7 @@ For more details about the certifications Journey, Microsoft provides an answer 
 Quickly check out these links and come back to complete the rest.
    
 - **Azure Training Journey:**
-https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWD4tL?fbclid=IwAR1-WlEbmq6naL2ASRSWdyojhX6vZteipyb6TfA85mCgq-JpwCmwAODS69A  
+[https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWD4tL?fbclid=IwAR1-WlEbmq6naL2ASRSWdyojhX6vZteipyb6TfA85mCgq-JpwCmwAODS69A](https://t.ly/kyI7)  
 - **Become Microsoft Certified:**
 https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 
