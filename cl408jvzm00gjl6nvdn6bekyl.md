@@ -36,23 +36,23 @@ I'll include the most popular and well-known free services in this section. Then
 - First, you must've been having your source code ready on your local machine.
 -  Log in to your GitHub account and upload your files to a [repo](https://docs.github.com/en/get-started/quickstart/create-a-repo).
 
-![hh.PNG](https://cdn.hashnode.com/res/hashnode/image/upload/v1654367111237/L84hsnPKT.PNG align="left")
+![hh.PNG](https://cdn.hashnode.com/res/hashnode/image/upload/v1654367111237/L84hsnPKT.PNG)
 > When you're finished, your repo should look of this kind.
 
 - Use the chosen service to host the application.
 
 Log in to Netlify Click on **Add a new site**, then **Import an existent project**.
 
-![NETLIFY.PNG](https://cdn.hashnode.com/res/hashnode/image/upload/v1654367858164/jNW1NapB9.PNG align="left")
+![NETLIFY.PNG](https://cdn.hashnode.com/res/hashnode/image/upload/v1654367858164/jNW1NapB9.PNG)
 
 
 This window will appear, showing you which remote repository your project is using. Let's just get going with GitHub in our example.
-![net2.PNG](https://cdn.hashnode.com/res/hashnode/image/upload/v1654367957447/4dQn8_eml.PNG align="left")
+![net2.PNG](https://cdn.hashnode.com/res/hashnode/image/upload/v1654367957447/4dQn8_eml.PNG)
 
 
 Finally, click on configure Netlify on Github, which will prompt you for your github credentials before permitting the repo of that particular project to be allowed by Netlify.
 
-![net3.PNG](https://cdn.hashnode.com/res/hashnode/image/upload/v1654368182565/0hriyTr4z.PNG align="left")
+![net3.PNG](https://cdn.hashnode.com/res/hashnode/image/upload/v1654368182565/0hriyTr4z.PNG)
 
 > All you have to do now is click deploy and wait a few seconds for your site to go live.
 
