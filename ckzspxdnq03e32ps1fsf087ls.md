@@ -51,7 +51,7 @@ You can find the skills measured for any MS certification in the official docume
 
 He is also an inspiring fitness guy who will probably encourage you to start going to the gym if you haven't yet. 
 
-[John's Youtube Playlist](https://www.youtube.com/watch?v=pY0LnKiDwRA&list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3)
+- [**John's Youtube Playlist**](https://www.youtube.com/watch?v=pY0LnKiDwRA&list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3)
 
 ### 3. [My Notes](https://cloud.itzyahya.tech)
 
