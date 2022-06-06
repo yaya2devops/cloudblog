@@ -24,17 +24,17 @@ To reap the benefits of CloudFlare, you must update your nameserver. Follow the 
 ## Setup Azure Blob Storage Custom Domain
 To get started, first create an Azure Storage in the Azure portal, then deploy your application to a container within this service.
 
-![My Application Container.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653940337556/a5Puqs2v_.png)
+![My Application Container.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653940337556/a5Puqs2v_.png align="left")
 
 
 > Make sure your Static Web App is enabled if you're going to host static content like html pages.
 
 
-![STATIC.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653940360849/GFRxVgGJ9.png)
+![STATIC.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653940360849/GFRxVgGJ9.png align="left")
 
 Second, go to **networking** then custom domain. Enter these settings in CloudFlare, then return and write down your domain.
 
-![NETWORKING.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653943290606/fzhpKp1aM.png)
+![NETWORKING.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653943290606/fzhpKp1aM.png align="left")
 
 
 
@@ -43,7 +43,7 @@ Second, go to **networking** then custom domain. Enter these settings in CloudFl
 That's how you should end up with your final collection of records.
 
 
-> ![Untitled (1600 × 400 px).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653940520367/JkeoR672p.png)
+> ![Untitled (1600 × 400 px).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653940520367/JkeoR672p.png align="left")
 
 
 
@@ -57,7 +57,7 @@ Enter the desired domain and strict SSL on this page. Your application will be p
 
 
 
-![pagerule.PNG](https://cdn.hashnode.com/res/hashnode/image/upload/v1653940513212/O0WKONYXy.PNG)
+![pagerule.PNG](https://cdn.hashnode.com/res/hashnode/image/upload/v1653940513212/O0WKONYXy.PNG align="left")
 
 
 
@@ -66,7 +66,7 @@ Enter the desired domain and strict SSL on this page. Your application will be p
 # Bonus, CI/CD
 ### Overview
 
-![Renew & Stay Certified (3).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653941937138/mauBqmQpV.png)
+![Renew & Stay Certified (3).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653941937138/mauBqmQpV.png align="left")
 Continuous integration and continuous delivery are two independent concepts that are commonly used together under the term CI/CD.
 
 **Continuous integration:**<br> CI is a development technique that automates the building, testing, and merging of application code updates.
