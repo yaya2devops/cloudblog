@@ -7,7 +7,7 @@
 # Infrastructure As Code (IaC)
 
 
-![IaC files.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653311067910/kOfSuTBEs.png)
+![IaC files.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653311067910/kOfSuTBEs.png align="left")
 
 As the name implies, IaC refers to **the management and provisioning of infrastructure using code rather than dealing with a graphical user interface and tapping here and there**. Although it does seem simple, a significant problem had to be resolved. <br>
 For instance, setting up such a complex architecture the traditional approach can take days of configuration while using an IaC tool can save you a considerable amount of time and assist you in achieving the levels of agility required to construct a successful route.
@@ -17,11 +17,11 @@ For instance, setting up such a complex architecture the traditional approach ca
 ## Cloud Providers IaC
 
 
-![over.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653311294174/G97dVfo2r.png)
+![over.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653311294174/G97dVfo2r.png align="left")
 
 
 
-It's important to note that each cloud provider have their own IaC tool.
+It's important to note that each cloud provider have their own IaC tool.  <br>
 These tools are useful when working with a specific cloud.<br> When a new service release is available here, for example, it may take some time before it is  accessible in an external product like Terraform.  <br>However, **Cloud Providers IaC tools can only be used within their own services.**
 
 
@@ -32,7 +32,7 @@ Terraform by HashiCorp is an infrastructure as code tool that allows you to prov
 ### Overview
 
 
-![5.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653221233055/V_BUpB8lX.png)
+![5.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653221233055/V_BUpB8lX.png align="left")
 
 
 Say i'm working at a company "A" and my job is to carry out an Azure storage, an Amazon DynamoDB and Google Compute Enginer VM etc..<br>
@@ -101,17 +101,18 @@ You can find a ready-to-use modules in the [Terraform Registry](https://registry
 ### Hands-On
 The best way to learn about terraform is to do it yourself.
 With a hands-on approach, you'll quickly grasp the material and improve with each keystroke. <br>
-- [Terraform Best practices](https://www.terraform-best-practices.com) is a good option to consider along the way.
+[Terraform Best practices](https://www.terraform-best-practices.com) is a good option to consider along the way.
 
 ### Terraform Certification
 
-![tfcert.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653221441459/e2GB5lxQ6.png)
+![tfcert.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653221441459/e2GB5lxQ6.png align="left")
 
 
 Another way to get started is to study and take the exam. I've found this method useful since deadlines push to your limits. <br>
 
 [HashiCorp Certified: Terraform associate](https://www.hashicorp.com/certification/terraform-associate) is multiple choice exam that relies on a practical experience. <br>
 In this case, Terraform open source [documentation](https://www.terraform.io/docs) is for everyone to learn and experiment this product with.
+
 
 ## Conclusion
 Terraform is a constantly evolving, extremely useful IaC solution that can greatly improve the efficiency of our DevOps.
