@@ -9,7 +9,7 @@ Microsoft Build is a yearly conference for anyone interested in Windows, Cloud N
 
 ### Attending the event
 
-![image_2022-05-25_141814063.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653481093954/pfNlIs-kG.png align="left")
+![image_2022-05-25_141814063.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653481093954/pfNlIs-kG.png)
 First, you must register.  Sessions are being streamed [Live](https://mybuild.microsoft.com/en-US/home) right now.
 Microsoft is putting on a 48-hour marathon of Build content, from 24 to 26 May. You can plan your schedule to attend the sessions that are most relevant to you.
 
