@@ -5,4 +5,4 @@
 - [Why HashiCorp Terraform?](cl3fyhu4f00nntknvduni2ad8.md)
 - [Microsoft Build: Cloud Skills Challenge | Free Microsoft Certification Voucher](cl3lnuupa01583znvcyol8uwg.md)
 - [Host Your Application Using Azure Blob Storage & CloudFlare | DNS Configuration](cl3t6dogo0046fcnvhnvo4iwd.md)
-- [NotLocalHost | Free Hosting & Serverless Services](cl408jvzm00gjl6nvdn6bekyl.md)
+- [NotLocalHost | Free Hosting & Serverless Services](cl408jvzm00gjl6nvdn6bekyl.md) 
