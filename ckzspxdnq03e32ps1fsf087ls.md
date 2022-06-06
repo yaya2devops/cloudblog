@@ -6,6 +6,7 @@ Following the same rhythm with increasing effort, I was able to get certified as
 
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1650075475678/jgecqAgFc.png)
+
 Microsoft offers a variety of foundational certifications with the exam code XX-900, depending on the field of interest.
 
 **if you are completely new to the cloud, AZ-900; it should be your first target.**
@@ -35,9 +36,8 @@ For someone new to the cloud, it is challenging to choose the right material.
 You can find the skills measured for any MS certification in the official documentation for the exam, in the section below. Sample for the AZ-900:
 ![SKILLSOUTLINE.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1645199357604/SP4RtGgM8.png)
 
-**The Documentation contains all the parts that you are going to be tested on, the day of the exam**
+**The [Documentation](https://docs.microsoft.com/en-us/) contains all the parts that you are going to be tested on, the day of the exam**
 
-%[https://docs.microsoft.com/en-us/]
 
 ###  1.  Adam Marczak - Azure for Everyone- Microsoft MVP
 **Adam come up with an amazing Azure content: a playlist course on YouTube followed by a Study Guide.**
@@ -55,7 +55,7 @@ He is also an inspiring fitness guy who will probably encourage you to start goi
 
 ### 3. [My Notes](https://cloud.itzyahya.tech)
 
-![image_2022-05-25_014007531.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653435606950/EMB2HrzvA.png align="left")
+![image_2022-05-25_014007531.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653435606950/EMB2HrzvA.png)
 
 I attempted to gather the certification topics into a single scrollable [page](https://cloud.itzyahya.tech/A-AZ900) that can be used offline; I hope this is useful.
 
