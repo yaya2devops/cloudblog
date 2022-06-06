@@ -18,7 +18,7 @@ Microsoft is putting on a 48-hour marathon of Build content, from 24 to 26 May. 
 # Cloud Skills Challenge
 Cloud Skills challenge is initiated with the build event, and remains going.<br> The challenge began on **May 24, 2022 and will end on June 21, 2022**.
 
-![cloudskills.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653492856465/IuYWQkVmX.png align="left")
+![cloudskills.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653492856465/IuYWQkVmX.png)
 
 
 
