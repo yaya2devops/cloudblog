@@ -9,7 +9,7 @@ It's self-evident that using the cloud rather than on-premise technology can sav
 There are, however, numerous practices that I will list from which you can benefit in order to reduce your costs and spend more wisely.
 
 # Cost Estimation
-Before deploying any resources, the first step in answering our query is to estimate.
+Before deploying any resources, the first step in answering our query is to estimate.<br>
 These set of tools would be useful prior to a cloud migration.
 
 - [Total Cost of Ownership (TCO) Calculator:](https://azure.microsoft.com/en-us/pricing/tco/calculator/) To estimate the savings of the desired solution versus on-premise. You can enter what you're currently using into the TCO Calculator and have it convert it to Azure equivalent.
