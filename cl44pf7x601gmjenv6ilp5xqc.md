@@ -65,6 +65,27 @@ When a large quantity of cpu is operating, one of the most important variables i
 ### Locations & Regions
 Azure products have different prices depending on you deploy them. If at all possible, use them in locations and regions where they are less expensive.
 
+---
+
+# Scenarios
+### Carry AWS Expenses
+Yes, you can track the costs of a different cloud provider, such as AWS, and bring them into Azure by establishing a [connector](https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/aws-integration-set-up-configure).
+
+### Existent Report System
+To gain automated access to Azure resource cost and usage data. 
+<br> [Azure Consumption API](https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/consumption-api-overview) can be used.
+
+
+### Export Capability
+This [feature](https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/tutorial-export-acm-data?tabs=azure-portal) allows you to submit billing data to the Storage service on a monthly or weekly basis.
+
+
+---
+
+
+# Summary
+The possibilities and methods used to optimize costs are endless. There's always something new to benefit from. However, adopting certain best practices for utilizing these novel technologies would undoubtedly aid us in optimizing and progressing.
+
 
 
 
