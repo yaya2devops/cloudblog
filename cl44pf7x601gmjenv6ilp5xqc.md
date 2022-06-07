@@ -48,6 +48,31 @@ With the Azure Cost Management connector for Power BI Desktop, you can create po
 ![azure-cost-management-00b.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1654638943794/p_QKucQjb.png)
 
 
+---
+
+# Cost-Influencing 
+Factors to consider when utilizing Azure that may affect the price.
+ ### Subscription 
+There are three main types of subscriptions available, **free, pay-as-you-go, and member offers**.
+> It's necessary to think about each one in terms of your requirements.
+
+ ### Azure Reservations
+By committing to one-year or three-year agreements for several products, Azure Reservations can help you save money. You can get a discount on the resources you use if you commit. When compared to pay-as-you-go charges, reservations can save you up to 70 % on your resource costs.
+
+ ### Resource Type & Usage
+When a large quantity of cpu is operating, one of the most important variables in the price is the service; some services are free, while others pay a lot. Likewise the duration of the service should be something to regard.
+
+### Locations & Regions
+Azure products have different prices depending on you deploy them. If at all possible, use them in locations and regions where they are less expensive.
+
+
+
+
+
+
+
+
+
 
 
 
