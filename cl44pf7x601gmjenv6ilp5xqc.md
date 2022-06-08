@@ -63,7 +63,7 @@ By committing to one-year or three-year agreements for several products, Azure R
 When a large quantity of cpu is operating, one of the most important variables in the price is the service; some services are free, while others pay a lot. Likewise the duration of the service should be something to regard.
 
 ### Locations & Regions
-Azure products have different prices depending on you deploy them. If at all possible, use them in locations and regions where they are less expensive.
+Azure products have different prices depending on where you deploy them. If at all possible, use them in locations and regions where they are less expensive.
 
 ---
 
