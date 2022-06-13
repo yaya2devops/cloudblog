@@ -1,4 +1,7 @@
+
 # [Yahya's Blogs](https://blog.yahya-abulhaj.dev)
+---
+- [Microsoft Certified: Azure Developer Associate | Study Guide](cl4c2j31m03r1jpnv9ulhf87o.md)
 - [Cost Management and Cloud Migration | Microsoft Azure Edition](cl44pf7x601gmjenv6ilp5xqc.md) 
 - [NotLocalHost | Free Hosting & Serverless Services](cl408jvzm00gjl6nvdn6bekyl.md) 
 - [Host Your Application Using Azure Blob Storage & CloudFlare | DNS Configuration](cl3t6dogo0046fcnvhnvo4iwd.md)
