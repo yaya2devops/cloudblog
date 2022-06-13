@@ -54,7 +54,7 @@ This step isn't imperative. Yet when it comes to Microsof Azure, though, [Scott 
 
 
 ## Wind-up
-You'll have no excuse now that you've got these resources to start learning with. Find a vision and work toward it; you will discover that passion will develop along the way.<br> **Let's go!**
+You'll have no excuse now that you've got these resources to start learning with. Find a vision and work toward it; you will discover that passion will develop along the way. **Let's go!**
 
 
 
