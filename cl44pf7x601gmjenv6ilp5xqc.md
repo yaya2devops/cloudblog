@@ -17,7 +17,7 @@ These set of tools would be useful prior to a cloud migration.
 When you know exactly what you need in Azure and want to look up the price for resources that you already have.
 
 ---
-
+  
 # Azure Cost Management + Billing
 Azure Cost Management + Billing is a multi-cloud pricing management service that aides you in making the best use and control of Azure and other cloud resources including AWS and GCP.
 
