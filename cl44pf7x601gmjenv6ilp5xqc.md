@@ -7,7 +7,7 @@
 When shifting to the cloud, one of the most crucial things to keep in mind is how to better manage your resources and spend as little money as possible.
 It's self-evident that using the cloud rather than on-premise technology can save you a large sum of cash.
 There are, however, numerous practices that I will list from which you can benefit in order to reduce your costs and spend more wisely.
-
+ 
 # Cost Estimation
 Before deploying any resources, the first step in answering our query is to estimate.<br>
 These set of tools would be useful prior to a cloud migration.
