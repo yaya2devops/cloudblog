@@ -16,7 +16,7 @@ It appears reasonable to start learning C#, which ranked eighth among the most p
 ## The Initial Step
 Scott Hanselman is what we refer to as a ".net guru". He has extensive knowledge of the .NET ecosystem and this video of his is an excellent introduction to your inquiries.
 
-%[https://www.youtube.com/watch?v=bEfBfBQq7EE]
+- [What is .NET? What's C# and F#? What's the .NET Ecosystem?](https://www.youtube.com/watch?v=bEfBfBQq7EE)
 
 ### More CSharp Resources
 - [C# documentation](https://docs.microsoft.com/en-us/dotnet/csharp/)
@@ -29,20 +29,19 @@ Scott Hanselman is what we refer to as a ".net guru". He has extensive knowledge
 
 ## Microsoft Learn
 Microsoft Learn will always provide you with what you necessitate. Isn't it enjoyable to read anyway?
-
-%[https://docs.microsoft.com/en-us/learn/certifications/exams/az-204]
+- [AZ-204 - Microsoft Learn](https://docs.microsoft.com/en-us/learn/certifications/exams/az-204)
 
 
 ## Alan Rodrigues
 Alan has made his entire Udemy course available for free on YouTube. This is a great resource for delving into the exam objective in a lecture with a thorough explanation.
 
-%[https://www.youtube.com/playlist?list=PLLc2nQDXYMHpekgrToMrDpVtFtvmRSqVt]
+- [Alan's Course](https://www.youtube.com/playlist?list=PLLc2nQDXYMHpekgrToMrDpVtFtvmRSqVt)
 
 
 ##  Microsoft Official Courseware
 This [AZ-204 Courseware](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/) is a collection of 12 hands-on labs that correspond to the exam desired outcomes.
 
-%[https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure]
+- [Github repo](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure)
 
 
 ## Udemy
