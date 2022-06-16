@@ -34,7 +34,7 @@ Feature flags are a way to test major updates before they are released. Because 
 
 ---
 
-## The Workflow
+# The Workflow
 
 ### What is an Artifact?
 Artifact is an unintended consequence of the software development process. It could include the project source code, dependencies, binaries, or resources, and it could be expressed in a different ways based on the technology. An AMI, a Docker image, or a JAR file are all examples of Artifcats.
