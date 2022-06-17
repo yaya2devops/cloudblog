@@ -16,11 +16,14 @@ Harness.io is a tool that used to be part of the CD category and has since grown
 ###  Continuous Delivery
  CD is Harness primary solution. As they have stated Harness CD is a Self-Service Continuous Delivery module that allows engineers to deploy on-demand without the use of scripts, plugins, version dependencies, toil, downtime, or frustration.
 
+![harness.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1655489756667/60voGLk7K.png align="left")
 ### Continuous Integration
 The first step towards automating your software delivery is continuous integration.
 [Drone Ci](https://www.drone.io) is Harness' open source platform for automating software development and testing. Committing the code to a repository triggers the Drone CI.
 ### Cloud Cost Management
 Control and cost management over your workload. <br>
+
+![costs.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1655489778246/JEq0AwglE.png align="left")
 These are some of its key features.
 - **Cost Transparency** Valuable insights into the used, idle, and unallocated resources in your workloads and clusters.
 - **Optimization** Lowering your overall cloud spend by identifying mishandled resources and eliminating waste.
@@ -54,7 +57,7 @@ Are you aware that Harness is a viable option for you?
 
 
 
- 
+
 
 
 
