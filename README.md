@@ -1,6 +1,7 @@
 
 # [Yahya's Blogs](https://blog.yahya-abulhaj.dev)
 ---
+- [IT - General Culture](cl4jtecwk009feznv65aofji7.md)
 - [Automate the CI/CD Pipeline using Harness.io](cl4ep2z6802gozunvdd0ugc5s.md)
 - [Microsoft Certified: Azure Developer Associate | Study Guide](cl4c2j31m03r1jpnv9ulhf87o.md)
 - [Cost Management and Cloud Migration | Microsoft Azure Edition](cl44pf7x601gmjenv6ilp5xqc.md) 
