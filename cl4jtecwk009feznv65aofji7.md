@@ -9,7 +9,7 @@ This was a project for my dev bootcamp, and I enjoyed working on it so much that
 - Mention a few of use-case applications.
 - Redirect you to resources that you can use term-related.
 
-> **__NOTE:__** If you prefer Notion, follow this [link](https://itzyahya.notion.site/itzyahya/General-Culture-7b31bf0a72ca4a77b4eea2458ec37e31).
+> **__NOTE:__** If you prefer Notion, follow this [link](https://itzyahya.notion.site/General-Culture-7b31bf0a72ca4a77b4eea2458ec37e31).
 
 ---
 
