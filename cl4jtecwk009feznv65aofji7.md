@@ -234,7 +234,7 @@ manufacturing process contributed to incidents of product failure.
 
 ---
 
-## Dev Culture
+# Dev Culture
 
 ### Assembly
 
@@ -509,7 +509,7 @@ to collaborate on non-linear development by tracking changes in the source code.
     
 ---
 
-## In-depth Culture
+# In-depth Culture
 
 ### HTML & CSS
 
@@ -967,7 +967,7 @@ Today, Go is used for a variety of applications like cloud and server-side appli
     
 ---
 
-## Server Stuff
+# Server Stuff
 
 ### VPS
     
