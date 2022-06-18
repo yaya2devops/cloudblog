@@ -880,9 +880,9 @@ Today, Go is used for a variety of applications like cloud and server-side appli
     
 **Get started:** [Rust Programming Course for Beginners - Tutorial](https://www.youtube.com/watch?v=MsocPEZBd-M)
     
-    
+---    
 
-## Database Stuff
+# Database Stuff
 
 ### SQL
     
