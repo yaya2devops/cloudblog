@@ -78,7 +78,7 @@ voice assistants, and social media monitoring tools.
   real-life environment.
     
 **Use case:**
-- Augmented reality (AR):** Medical training is now using augmented reality. 
+- **Augmented reality (AR):** Medical training is now using augmented reality. 
   Its applications range from MRI to performing extremely delicate surgery.
        
 - **Virtual reality (VR):** entertainment (particularly video games), 
