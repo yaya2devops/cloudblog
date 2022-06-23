@@ -1,5 +1,5 @@
 ## Passing Microsoft Azure Administrator Associate Certification
-
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1654533771084/-iNL1W-cT.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm)
 #### Just after you are done with the foundation, things are becoming more serious now. You'll need a good practice with Azure for this level.
 ![azure-administrator-associate-600x600.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1647184133907/9qM-u0VO6.png)
 
