@@ -1,4 +1,5 @@
-## Automate the CI/CD Pipeline using Harness.io
+# Automate the CI/CD Pipeline using Harness.io
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1655412104295/eCliRNBao.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm)
 
 # Introduction
 Many firms have implemented continuous integration and spent numerous hours automating scripts, but they are unable to keep up with continuous delivery, owing to the complexity of the process.
