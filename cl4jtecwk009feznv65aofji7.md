@@ -1,5 +1,5 @@
 ## IT - General Culture
-
+![costsana.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1655552361732/cZOuFqkXe.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm)
 # 👋 About
 I've done this project as part of my Bootcamp, and because I had so much fun creating it, I decided to publish it. <br>
 This article will include some key terms commonly used in the IT industry.
