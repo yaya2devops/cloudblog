@@ -1,9 +1,9 @@
 ## IT - General Culture
 
-# About
-This was a project for my dev bootcamp, and I enjoyed working on it so much that I decided to share it. As a corollary, this will include some of the key terms frequently used in the IT industry.
-
-## Structure
+# 👋 About
+I've done this project as part of my Bootcamp, and because I had so much fun creating it, I decided to publish it. <br>
+This article will include some key terms commonly used in the IT industry.
+## 🧱Structure
 - State the term
 - Provide an easy-to-understand explanation.
 - Mention a few of use-case applications.
