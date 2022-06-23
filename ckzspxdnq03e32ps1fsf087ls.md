@@ -1,4 +1,6 @@
-## Getting started with Microsoft Azure Fundamentals Certifications
+# Getting started with Microsoft Azure Fundamentals Certifications
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1654533741102/L78RQdSZn.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm)
 
 As a fresh start, I will include a path to resources that I experienced and helped me earn AZ-900, DP-900, AI-900, PL-900 & SC-900 respectively Azure, Data, Artificial Intelligence, Power Platform & Microsoft Security, Compliance and Identity Fundamentals.
 
