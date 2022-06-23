@@ -1,4 +1,5 @@
-## Microsoft Certified: The Renewal Process
+# Microsoft Certified: The Renewal Process
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1654534236024/kF3Q_QtUd.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm)
 
 #### Microsoft role-based and specialty certifications expire every year unless they’re renewed. 
 You passed your exam today, six months later you can renew your certification and extend it for another year and a half. Microsoft will notify you via email. 
