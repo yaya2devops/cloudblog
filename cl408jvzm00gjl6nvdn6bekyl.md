@@ -1,5 +1,5 @@
 ## NotLocalHost  | Free Hosting & Serverless  Services
-
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1654534353789/xUF7O-H68.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm)
 # Serverless
 Serverless is a development methodology that enables developers to create and execute apps without having to worry about monitoring servers. Simply put, you don't have to worry about vertical and horizontal application scalability. <br>
 
