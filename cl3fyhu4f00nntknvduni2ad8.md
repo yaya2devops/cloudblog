@@ -1,6 +1,6 @@
 ## Why HashiCorp Terraform?
 
-
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1654533973941/efCkeGx-2.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm)
 
 ---
 
