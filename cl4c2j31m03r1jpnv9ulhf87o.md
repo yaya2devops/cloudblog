@@ -1,4 +1,5 @@
-## Microsoft Certified: Azure Developer Associate | Study Guide
+# Microsoft Certified: Azure Developer Associate | Study Guide
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1655082935687/GYpwTd6wk.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm)
 
 # Motivation
 I'm not going to use any of the fancy terms that's frequently cast off to characterize an examination's broad topics. The AZ-204 is for those who have an aim of learning about the cloud's development side, get to know some technologies and establish a discipline in the process.
