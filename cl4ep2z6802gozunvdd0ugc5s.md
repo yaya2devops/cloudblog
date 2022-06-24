@@ -1,5 +1,4 @@
-# Automate the CI/CD Pipeline using Harness.io
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1655412104295/eCliRNBao.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm)
+## Automate the CI/CD Pipeline using Harness.io
 
 # Introduction
 Many firms have implemented continuous integration and spent numerous hours automating scripts, but they are unable to keep up with continuous delivery, owing to the complexity of the process.
@@ -9,6 +8,7 @@ In addition to the fact that CI and CD are vastly dissimilar.
 
 As part of the process, Harness performs continuous verification and includes an artificial intelligence layer to guarantee that nothing went wrong in terms of quality, security and performance. 
 
+> [What is a pipeline?](https://blog.yahya-abulhaj.dev/host-your-application-using-azure-blob-storage-and-cloudflare-or-dns-configuration#heading-bonus-cicd). 
 
 # Harness Solutions
 Harness.io is a tool that used to be part of the CD category and has since grown to include four main products. It is now a CI/CD platform that can be used to build and ship code while progressively innovating and adding new features.
@@ -17,14 +17,14 @@ Harness.io is a tool that used to be part of the CD category and has since grown
 ###  Continuous Delivery
  CD is Harness primary solution. As they have stated Harness CD is a Self-Service Continuous Delivery module that allows engineers to deploy on-demand without the use of scripts, plugins, version dependencies, toil, downtime, or frustration.
 
-![harness.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1655489756667/60voGLk7K.png)
+![harness.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1655489756667/60voGLk7K.png align="left")
 ### Continuous Integration
 The first step towards automating your software delivery is continuous integration.
 [Drone Ci](https://www.drone.io) is Harness' open source platform for automating software development and testing. Committing the code to a repository triggers the Drone CI.
 ### Cloud Cost Management
 Control and cost management over your workload. <br>
 
-![costs.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1655489778246/JEq0AwglE.png)
+![costs.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1655489778246/JEq0AwglE.png align="left")
 These are some of its key features.
 - **Cost Transparency** Valuable insights into the used, idle, and unallocated resources in your workloads and clusters.
 - **Optimization** Lowering your overall cloud spend by identifying mishandled resources and eliminating waste.
