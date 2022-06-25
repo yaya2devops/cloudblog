@@ -62,6 +62,8 @@ Artifact is an unintended consequence of the software development process. It co
 As large corporations already have their own DevOps cycle in place.<br> Harness is an excellent option to consider for businesses just getting started in the DevOps space and aiming to increase their agility. <br>
 Are you aware that Harness is a viable option for you?
 
+> [Where to go next?](https://github.com/harness/harness-cd-community)
+
 
 
 
