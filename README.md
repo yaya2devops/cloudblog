@@ -1,6 +1,11 @@
 
-# [Yahya's Blogs](https://blog.yahya-abulhaj.dev)
----
+## Welcome to the Blog Repository.
+My main focus is on my passion, which is to become a <strong> DevOps Engineer </strong> & add value to businesses. <br> So this is where I'll write about some topics that come to mind as insights and inspiration about cloud, DevOps, infrastructure as code, and anything else related to information technology.
+
+
+
+
+### Current Blog List
 - [IT - General Culture](cl4jtecwk009feznv65aofji7.md)
 - [Automate the CI/CD Pipeline using Harness.io](cl4ep2z6802gozunvdd0ugc5s.md)
 - [Microsoft Certified: Azure Developer Associate | Study Guide](cl4c2j31m03r1jpnv9ulhf87o.md)
@@ -13,3 +18,5 @@
 - [Passing Microsoft Azure Administrator Associate Certification](cl0pg4r2200c1yunv054wgaec.md)
 - [Getting started with Microsoft Azure Fundamentals Certifications](ckzspxdnq03e32ps1fsf087ls.md)
 
+
+Please read [about this repository](about.md) for more information.
