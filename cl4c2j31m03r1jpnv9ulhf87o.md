@@ -1,5 +1,4 @@
-# Microsoft Certified: Azure Developer Associate | Study Guide
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1655082935687/GYpwTd6wk.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm)
+## Microsoft Certified: Azure Developer Associate | Study Guide
 
 # Motivation
 I'm not going to use any of the fancy terms that's frequently cast off to characterize an examination's broad topics. The AZ-204 is for those who have an aim of learning about the cloud's development side, get to know some technologies and establish a discipline in the process.
@@ -17,7 +16,7 @@ It appears reasonable to start learning C#, which ranked eighth among the most p
 ## The Initial Step
 Scott Hanselman is what we refer to as a ".net guru". He has extensive knowledge of the .NET ecosystem and this video of his is an excellent introduction to your inquiries.
 
-- [What is .NET? What's C# and F#? What's the .NET Ecosystem?](https://www.youtube.com/watch?v=bEfBfBQq7EE)
+%[https://www.youtube.com/watch?v=bEfBfBQq7EE]
 
 ### More CSharp Resources
 - [C# documentation](https://docs.microsoft.com/en-us/dotnet/csharp/)
@@ -30,19 +29,20 @@ Scott Hanselman is what we refer to as a ".net guru". He has extensive knowledge
 
 ## Microsoft Learn
 Microsoft Learn will always provide you with what you necessitate. Isn't it enjoyable to read anyway?
-- [AZ-204 - Microsoft Learn](https://docs.microsoft.com/en-us/learn/certifications/exams/az-204)
+
+%[https://docs.microsoft.com/en-us/learn/certifications/exams/az-204]
 
 
 ## Alan Rodrigues
 Alan has made his entire Udemy course available for free on YouTube. This is a great resource for delving into the exam objective in a lecture with a thorough explanation.
 
-- [Alan's Course](https://www.youtube.com/playlist?list=PLLc2nQDXYMHpekgrToMrDpVtFtvmRSqVt)
+%[https://www.youtube.com/playlist?list=PLLc2nQDXYMHpekgrToMrDpVtFtvmRSqVt]
 
 
 ##  Microsoft Official Courseware
 This [AZ-204 Courseware](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/) is a collection of 12 hands-on labs that correspond to the exam desired outcomes.
 
-- [Github repo](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure)
+%[https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure]
 
 
 ## Udemy
