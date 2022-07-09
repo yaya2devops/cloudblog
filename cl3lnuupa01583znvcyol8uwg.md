@@ -1,5 +1,5 @@
-# Microsoft Build: Cloud Skills Challenge | Free Microsoft Certification Voucher
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1654534126364/4l_0BztdU.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm)
+## Microsoft Build: Cloud Skills Challenge | Free Microsoft Certification Voucher
+
 
 
 
@@ -9,7 +9,7 @@ Microsoft Build is a yearly conference for anyone interested in Windows, Cloud N
 
 ### Attending the event
 
-![image_2022-05-25_141814063.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653481093954/pfNlIs-kG.png)
+![image_2022-05-25_141814063.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653481093954/pfNlIs-kG.png align="left")
 First, you must register.  Sessions are being streamed [Live](https://mybuild.microsoft.com/en-US/home) right now.
 Microsoft is putting on a 48-hour marathon of Build content, from 24 to 26 May. You can plan your schedule to attend the sessions that are most relevant to you.
 
@@ -18,7 +18,7 @@ Microsoft is putting on a 48-hour marathon of Build content, from 24 to 26 May. 
 # Cloud Skills Challenge
 Cloud Skills challenge is initiated with the build event, and remains going.<br> The challenge began on **May 24, 2022 and will end on June 21, 2022**.
 
-![cloudskills.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653492856465/IuYWQkVmX.png)
+![cloudskills.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653492856465/IuYWQkVmX.png align="left")
 
 
 
@@ -52,6 +52,22 @@ You must finish **one** of these eight challenge tracks within the above-mention
 
 
 You can pick any certification later from the List if you change your mind about your chosen path.
+
+
+## How to Schedule Your Exam ?
+ Google your exam code then navigate to the official Microsoft Learn site<br>
+<strong>Or</strong><br>
+👉 Browse to the Search Bar and type `https://aka.ms/<YourExamCode>`<br>
+👉 Scroll down press <strong>Schedule Exam</strong>
+![Untitled design.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1657364975234/ceO0iXB4F.gif)
+👉 You will be directed to the registration page; fill out your personal information and click the continue button.<br>
+
+The discounts available to you will be displayed on the following page.<br>
+![Untitled design (2).gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1657365014926/r_0_iM5Vc.gif)
+👉 Claim your discount <br>
+If you used a different email address, simply record it and check for eligibility.<br>
+ 👉 Finally continue with the scheduling process.
+> Best wishes; what you're doing is incredible.
 
 
 ## Add up
