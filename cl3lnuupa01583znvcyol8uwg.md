@@ -54,27 +54,16 @@ You must finish **one** of these eight challenge tracks within the above-mention
 You can pick any certification later from the List if you change your mind about your chosen path.
 
 
-- [Azure Developer Challenge](https://docs.microsoft.com/en-us/learn/challenges?id=b1ac64ec-f0d3-45fa-beee-f230f9a75e81&WT.mc_id=cloudskillschallenge_b1ac64ec-f0d3-45fa-beee-f230f9a75e81)
-- [IoT Developer Challenge](https://docs.microsoft.com/en-us/learn/challenges?id=bfb93ddb-548a-4fd7-9ec6-b33fcb6c62ef&WT.mc_id=cloudskillschallenge_bfb93ddb-548a-4fd7-9ec6-b33fcb6c62ef)
-- [Azure Cosmos DB Developer Challenge](https://docs.microsoft.com/en-us/learn/challenges?id=0bdd75d2-7737-4c9c-bcb0-bfaf4cc8ec56&WT.mc_id=cloudskillschallenge_0bdd75d2-7737-4c9c-bcb0-bfaf4cc8ec56)
-- [Microsoft 365: Building Applications and Solutions Challenge](https://docs.microsoft.com/en-us/learn/challenges?id=a054de25-7f94-44b7-b71b-5eb53c50ec36&WT.mc_id=cloudskillschallenge_a054de25-7f94-44b7-b71b-5eb53c50ec36)
-- [Microsoft Security: Who Hacked? Challenge](https://docs.microsoft.com/en-us/learn/challenges?id=1e3f64af-3cc8-4b5c-9b9a-78c998c1a45f&WT.mc_id=cloudskillschallenge_1e3f64af-3cc8-4b5c-9b9a-78c998c1a45f)
-- [Data and AI: Who Hacked? Challenge](https://docs.microsoft.com/en-us/learn/challenges?id=6e76f1bd-257e-48d5-875b-b6f1e25cf028&WT.mc_id=cloudskillschallenge_6e76f1bd-257e-48d5-875b-b6f1e25cf028)
-- [Power Platform: Functional Consultant Challenge](https://docs.microsoft.com/en-us/learn/challenges?id=5e63d921-91c6-4408-9714-e56647dae6dc&WT.mc_id=cloudskillschallenge_5e63d921-91c6-4408-9714-e56647dae6dc)
-- [Power Platform: App Maker Challenge](https://docs.microsoft.com/en-us/learn/challenges?id=39fc2a74-9bae-4ce4-b190-1449ee76207d&WT.mc_id=cloudskillschallenge_39fc2a74-9bae-4ce4-b190-1449ee76207d)
-
-
-You can pick any certification later from the List if you change your mind about your chosen path.
 
 
 ## How to Schedule Your Exam ?
  Google your exam code then navigate to the official Microsoft Learn site<br>
 <strong>Or</strong><br>
-👉 Browse to the Search Bar and type `https://aka.ms/<YourExamCode>`<br>
+👉 Browse to the Search Bar and type `https://aka.ms/<YourExamCode>`<br><br>
 👉 Scroll down press <strong>Schedule Exam</strong>
 ![Untitled design.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1657364975234/ceO0iXB4F.gif)
 👉 You will be directed to the registration page; fill out your personal information and click the continue button.<br>
-
+<br>
 The discounts available to you will be displayed on the following page.<br>
 ![Untitled design (2).gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1657365014926/r_0_iM5Vc.gif)
 👉 Claim your discount <br>
