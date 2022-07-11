@@ -131,13 +131,13 @@ For Windows, open Powershell as an administrator and run the following command.
 Refer to [Get Docker](https://docs.docker.com/get-docker/) for further details regarding the installation on different OS. It's a very simple process, which is again why Docker has become so popular.
 ##  Frequently Used Commands
 ```docker
-docker build // Builds an <image> from a Dockerfile
-docker tag   // Tags an <image>
-docker images // Lists <images>
 docker run   // Runs a <container> based on an <image>
 docker push  // Pushes an <image> to a registry 
 docker pull  // Pulls an <image> from a repository
 docker ps    // Lists <containers>
+docker build // Builds an <image> from a Dockerfile
+docker tag   // Tags an <image>
+docker images // Lists <images>
 docker system prune // Remove unused <containers> and <images>
 ```
 
