@@ -129,7 +129,7 @@ For Windows, open Powershell as an administrator and run the following command.
 ``` Start-Process '.\win\build\Docker Desktop Installer.exe' -Wait install ```
 
 Refer to [Get Docker](https://docs.docker.com/get-docker/) for further details regarding the installation on different OS. It's a very simple process, which is again why Docker has become so popular.
-## Common Commands
+##  Frequently Used Commands
 ```docker
 docker build // Builds an <image> from a Dockerfile
 docker tag   // Tags an <image>
