@@ -82,7 +82,7 @@ It is the foundation and the central part of the entire Docker system. Docker En
 ### Docker Client 
 Docker clients allow users to interact with Docker. When a docker command is executed, the client sends it to the Docker daemon, which executes it. Docker commands make use of the Docker API. The Docker client can interact with multiple daemons.
 
-> Docker daemon (dockerd) manages Docker objects such as images, containers, networks, and volumes by listening for Docker API requests.
+> Docker daemon (dockerd) manages Docker objects by listening for Docker API requests.
 
 ### Docker Objets
 When you work with Docker, you use images, containers, volumes, and networks; all of these are Docker objects.
