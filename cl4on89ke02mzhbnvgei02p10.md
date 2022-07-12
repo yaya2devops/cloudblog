@@ -145,7 +145,7 @@ docker system prune // Remove unused <containers> and <images>
 
 
 
-##  Will Containers replace VMs?
+#  Will Containers replace VMs?
 
 Although containerization has many benefits, some experts believe that virtual machines will still be needed in specific circumstances. <br> 👉 This is true because virtual machines and containerization both have unique features that support various solutions.
 
