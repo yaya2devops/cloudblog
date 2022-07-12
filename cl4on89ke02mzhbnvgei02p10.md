@@ -50,7 +50,7 @@ On a single machine, several containers can run simultaneously as separate proce
  
 Another notable comparison is the modest weight of containers.
  Containers can handle more applications than virtual machines, take up less space and eliminate the need for additional operating systems. 
-![VM1 (1600 × 840 px).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657560760280/Ugz-9SHtW.png align="left")
+![VM1 (1600 × 840 px).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657560760280/Ugz-9SHtW.png)
 
 
 As a result of using the same OS, containers cost less. <br>
