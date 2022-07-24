@@ -1,13 +1,13 @@
-## Why HashiCorp Terraform? Exam Resources
+## Why HashiCorp Terraform?
 
-
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1654533973941/efCkeGx-2.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm)
 
 ---
 
 # Infrastructure As Code (IaC)
 
 
-![IaC files.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653311067910/kOfSuTBEs.png align="left")
+![IaC files.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653311067910/kOfSuTBEs.png)
 
 As the name implies, IaC refers to **the management and provisioning of infrastructure using code rather than dealing with a graphical user interface and tapping here and there**. Although it does seem simple, a significant problem had to be resolved. <br>
 For instance, setting up such a complex architecture the traditional approach can take days of configuration while using an IaC tool can save you a considerable amount of time and assist you in achieving the levels of agility required to construct a successful route.
@@ -17,8 +17,7 @@ For instance, setting up such a complex architecture the traditional approach ca
 ## Cloud Providers IaC
 
 
-![over.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653311294174/G97dVfo2r.png align="left")
-
+![over.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653311294174/G97dVfo2r.png)
 
 
 It's important to note that each cloud provider have their own IaC tool.  <br>
@@ -32,7 +31,7 @@ Terraform by HashiCorp is an infrastructure as code tool that allows you to prov
 ### Overview
 
 
-![5.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653221233055/V_BUpB8lX.png align="left")
+![5.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653221233055/V_BUpB8lX.png)
 
 
 Say i'm working at a company "A" and my job is to carry out an Azure storage, an Amazon DynamoDB and Google Compute Enginer VM etc..<br>
@@ -105,13 +104,15 @@ With a hands-on approach, you'll quickly grasp the material and improve with eac
 
 ### Terraform Certification
 
-![tfcert.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653221441459/e2GB5lxQ6.png align="left")
+![tfcert.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653221441459/e2GB5lxQ6.png)
 
 
 Another way to get started is to study and take the exam. I've found this method useful since deadlines push to your limits. <br>
 
 [HashiCorp Certified: Terraform associate](https://www.hashicorp.com/certification/terraform-associate) is multiple choice exam that relies on a practical experience. <br>
 In this case, Terraform open source [documentation](https://www.terraform.io/docs) is for everyone to learn and experiment this product with.
+
+
 
 #### Certification Resources
 
@@ -121,7 +122,7 @@ In this case, Terraform open source [documentation](https://www.terraform.io/doc
 - [Deploy Infra in the Azure Cloud using Terraform](https://www.udemy.com/course/deploy-infra-in-the-cloud-using-terraform/)
 - [Andrew Brown Platform](https://www.exampro.co/terraform
 )
-- []()
+- [Bryan Krausen Practice Tests](https://www.udemy.com/course/terraform-associate-practice-exam/)
 
 
 
