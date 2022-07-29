@@ -6,7 +6,7 @@ My main focus is on my passion, which is to become a <strong> DevOps Engineer </
 
 
 ### Current Blog List
-- Loading
+- [Git/GitHub Workflow in 80 seconds](cl66cnu2l003izqnv9rkl2y0w.md)
 - [Containers, Docker | What exactly is that?](cl4on89ke02mzhbnvgei02p10.md)
 - [IT - General Culture](cl4jtecwk009feznv65aofji7.md)
 - [Automate the CI/CD Pipeline using Harness.io](cl4ep2z6802gozunvdd0ugc5s.md)
