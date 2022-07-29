@@ -49,7 +49,7 @@ Git is the most popular version control system. It keeps track of the changes yo
 - `code .` to edit your work in VS Code, save it, and then return to the terminal
 - Create your git repository using `git init`
 - Add your current files to the git repository `git add`
-- It's time to push your modifications by using the `git commit`
+- It's time to commit your modifications by using the `git commit`
 - Connect your git repository to the external repository `git remote`
 - `Push` and observe the magic.
 
