@@ -20,6 +20,6 @@ My main focus is on my passion, which is to become a <strong> DevOps Engineer </
 - [Passing Microsoft Azure Administrator Associate Certification](cl0pg4r2200c1yunv054wgaec.md)
 - [Getting started with Microsoft Azure Fundamentals Certifications](ckzspxdnq03e32ps1fsf087ls.md)
 
-> [Feature Request?](https://feedback.hashnode.com/p/the-total-number-of-blog-views-on-your-hashnode-profile)
+> [Feature Request?](https://feedback.hashnode.com/p/the-total-number-of-blog-views-on-your-hashnode-profile) **If you saw it, please upvote!**
 
 Please read [about this repository](about.md) for more information.
