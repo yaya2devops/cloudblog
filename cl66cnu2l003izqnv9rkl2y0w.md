@@ -1,5 +1,4 @@
-# Git/GitHub Workflow in 80 seconds
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1659018589276/oxgGf-iav.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm">
+## Git/GitHub Workflow in 80 seconds
 
 > This article began with the intention of demonstrating that Git and GitHub are not the same thing.
 
@@ -7,9 +6,10 @@
 Linux has revolutionized using only the command line, as evidenced by the fact that the user interface we have today as a default was only a feature available to administrators a decade ago and scarcely employed. 
 <br> **Mastering the command line is one of the most powerful things you can do.**
 
-##  [81 Seconds Workflow](https://www.youtube.com/watch?v=qwO_X6h8rVM)😆
+##  81 Seconds Workflow😆
 I've included a brief video describing the Git/GitHub workflow. <br>**Please read the information provided below to make the most of it.**
 
+%[https://www.youtube.com/watch?v=qwO_X6h8rVM]
 
 # Prerequisite
 ## Linux Commands
