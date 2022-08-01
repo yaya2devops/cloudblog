@@ -34,7 +34,7 @@ For further details, you can consult the excellent [GitLab documentation](https:
 For an improved algorithm you can run the following commands then copy again.
 - `ssh-keygen -o -f ~/.ssh/id_rsa`<br>
 - ` ssh-keygen -o -t rsa -b 4096 -C "email@example.com"`
-- 
+
 ##  [82 Seconds Workflow](https://www.youtube.com/watch?v=qwO_X6h8rVM)😆
 I've included a brief video describing the Git/GitHub workflow. <br>**Please read the information provided below to make the most of it.**
 
