@@ -1,5 +1,6 @@
-## Azure Cloud Security | Sentinel And Defender
+# Azure Cloud Security | Sentinel And Defender
 
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1659451510570/GigxwP0Dd.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm">
 
 # Microsoft Sentinel
 
