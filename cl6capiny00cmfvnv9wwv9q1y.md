@@ -84,6 +84,7 @@ Defender comes in a variety of flavors depending on the application; some of the
 
 # Project: EventHub
 > Sending logs and establishing monitoring use cases with Sentinel/Defender.
+
 ## The Objective 🥅
 
 
@@ -110,8 +111,8 @@ Defender comes in a variety of flavors depending on the application; some of the
 
 > N.B: Integrate in the LogicApps part as required.
 
-### B Develop surveillance use cases
-The development of use cases and the parameterization of monitoring attributes will be in T&M.
+### B: Develop surveillance use cases
+
 > [Use cases for implementing the MITRE ATT&CK® framework](https://resources.infosecinstitute.com/topic/use-cases-for-implementing-the-mitre-attck-framework/)
 
 
