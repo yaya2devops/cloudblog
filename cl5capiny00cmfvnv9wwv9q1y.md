@@ -42,28 +42,28 @@ So I'm focusing more on the journey for the sake of progress, and below is the W
 ## HashiCorp
 | **HashiCorp Certifications**                                 | **Exam Code** | **Price**   | **Status**|
 |:--------                                                     | :--------:    | --------:   | --------: |
-| [HashiCorp Terraform Associate]()                                |  AZ-900       |   70.5$     |   ✅   |
-| [HashiCorp Consul Associate](https://www.hashicorp.com/certification/consul-associate)                                   |   DP-900      |   70.5$     |   ⌛️   |
-| [HashiCorp Vault Associate](https://www.hashicorp.com/certification/vault-associate)                                    |  AI-900       |   70.5$     |   ⌛️   |
-| [HashiCorp Vault Pro](https://www.hashicorp.com/certification/vault-operations-professional)                                          |   SC-900      |   295$      |   ⌛️   |
-| **Total:**                                                   |    🗅          |   436$     |   ⌛️   |
+| [HashiCorp Terraform Associate]()                                |  AZ-900       |   $70.5     |   ✅   |
+| [HashiCorp Consul Associate](https://www.hashicorp.com/certification/consul-associate)                                   |   DP-900      |   $70.5     |   ⌛️   |
+| [HashiCorp Vault Associate](https://www.hashicorp.com/certification/vault-associate)                                    |  AI-900       |   $70.5     |   ⌛️   |
+| [HashiCorp Vault Pro](https://www.hashicorp.com/certification/vault-operations-professional)                                          |   SC-900      |   $295      |   ⌛️   |
+| **Total:**                                                   |    🗅          |   $436     |   ⌛️   |
 
 ## Kubernetes
 | **K8S Certifications**                                       | **Exam Code** | **Price**   | **Status**|
 |:--------                                                     | :--------:    | --------:   | --------: |
-| [KCNA](https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/)                                                          |  KCNA        |   250$      |   ⌛️   |
-| [CKAD](https://www.cncf.io/certification/ckad/)                                                          |   CKAD       |   375$      |   ⌛️   |
-| [CKA](https://www.cncf.io/certification/cka/)                                                           | CKA        |   375$      |   ⌛️   |
-| [CKS](https://www.cncf.io/certification/cks/)                                                           |   CKS       |   375$      |   ⌛️   |
-| **Total:**                                                   |    🗅          |   1,375$    |   ⌛️   |
+| [Kubernetes and Cloud Native Associate](https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/)                                                          |  KCNA        |   $250      |   ⌛️   |
+| [Certified Kubernetes Application Developer](https://www.cncf.io/certification/ckad/)                                                          |   CKAD       |   $375     |   ⌛️   |
+| [Certified Kubernetes Administrator](https://www.cncf.io/certification/cka/)                                                           | CKA        |   $375     |   ⌛️   |
+| [Certified Kubernetes Security Specialist](https://www.cncf.io/certification/cks/)                                                           |   CKS       |   $375      |   ⌛️   |
+| **Total:**                                                   |    🗅          |   $1,375    |   ⌛️   |
 
 ## Linux
 | **Linux Certifications**                                       | **Exam Code** | **Price**   | **Status**|
 |:--------                                                     | :--------:    | --------:   | --------: |
-| [LFCS](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/)                                                          |  LFCS       |   395$     |   ⌛️   |
-| [RHCSA](https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam)                                                          |   RHCSA      |   450$     |   ⌛️   |
-| [RHCE](https://www.redhat.com/en/services/training/ex294-red-hat-certified-engineer-rhce-exam-red-hat-enterprise-linux-8)                                                          | RHCE         |   450$      |   ⌛️   |
-| **Total:**                                                   |    🗅          |   1,295$    |   ⌛️   |
+| [Linux Foundation Certified System Administrator](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/)                                                          |  LFCS       |   $395     |   ⌛️   |
+| [Red Hat Certified System Administrator](https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam)                                                          |   RHCSA      |   $450     |   ⌛️   |
+| [Red Hat Certified Engineer](https://www.redhat.com/en/services/training/ex294-red-hat-certified-engineer-rhce-exam-red-hat-enterprise-linux-8)                                                          | RHCE         |   $450      |   ⌛️   |
+| **Total:**                                                   |    🗅          |   $1,295    |   ⌛️   |
 
 
 
