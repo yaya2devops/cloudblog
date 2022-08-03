@@ -12,20 +12,20 @@ So I'm focusing more on the journey for the sake of progress, and below is the W
 ## Microsoft Azure
 | **Microsoft Certifications**                                    | **Exam Code** | **Price** | **Status**|
 |:--------                                                        | :--------:    | --------: | --------: |
-| [Microsoft Azure Fundamentals]()                                    |  AZ-900       |   $69     |   ✅   |
-| [Microsoft Azure Data Fundamentals]()                                |   DP-900      |   $69     |   ✅   |
-| [Microsoft Azure AI Fundamentals]()                                  |  AI-900       |   $69     |   ✅   |
-| [Microsoft Security, Compliance, and Identity Fundamentals]()        |   SC-900      |   $69     |   ✅   |
-| [Microsoft Power Platform Fundamentals]()                            |   PL-900      |   $69     |   ✅   |
-| [Microsoft Azure Administrator Associate]()                          |   AZ-104      |   $110    |   ✅   |
-| [Microsoft Azure Developer Associate]()                             |   AZ-204      |   $110    |   ✅   |
-| [Microsoft Azure Network Engineer Associate]()                       |   AZ-700      |   $110    |   ✅   |
-| [Microsoft Azure Security Engineer Associate]()                      |   AZ-500      |   $110    |   ✅   |
-| [Microsoft Security Operations Analyst Associate]()                 |   SC-200      |   $110    |   ✅   |
-| [Microsoft DevOps Engineer Expert]()                                |   AZ-400      |   $110    |   ✅   |
-| [Microsoft Certified: Azure Solutions Architect Expert]()            |   AZ-305      |   $110    |   ✅   |
-| [Microsoft Certified: CyberSecurity Architect Expert]()              |   SC-100      |   $110    |   ⌛️   |
-| **Total:**                                                      |   🗅           |   $math   |   ⌛️   |
+| [Microsoft Azure Fundamentals](https://docs.microsoft.com/en-us/certifications/exams/az-900)                                    |  AZ-900       |   $69     |   ✅   |
+| [Microsoft Azure Data Fundamentals](https://docs.microsoft.com/en-us/certifications/exams/dp-900)                                |   DP-900      |   $69     |   ✅   |
+| [Microsoft Azure AI Fundamentals](https://docs.microsoft.com/en-us/certifications/exams/ai-900)                                  |  AI-900       |   $69     |   ✅   |
+| [Microsoft Security, Compliance, and Identity Fundamentals](https://docs.microsoft.com/en-us/certifications/exams/sc-900)        |   SC-900      |   $69     |   ✅   |
+| [Microsoft Power Platform Fundamentals](https://docs.microsoft.com/en-us/certifications/exams/pl-900)                            |   PL-900      |   $69     |   ✅   |
+| [Microsoft Azure Administrator Associate](https://docs.microsoft.com/en-us/certifications/exams/az-104)                          |   AZ-104      |   $110    |   ✅   |
+| [Microsoft Azure Developer Associate](https://docs.microsoft.com/en-us/certifications/exams/az-204)                             |   AZ-204      |   $110    |   ✅   |
+| [Microsoft Azure Network Engineer Associate](https://docs.microsoft.com/en-us/certifications/exams/az-700)                       |   AZ-700      |   $110    |   ✅   |
+| [Microsoft Azure Security Engineer Associate](https://docs.microsoft.com/en-us/certifications/exams/az-500)                      |   AZ-500      |   $110    |   ✅   |
+| [Microsoft Security Operations Analyst Associate](https://docs.microsoft.com/en-us/certifications/exams/sc-200)                 |   SC-200      |   $110    |   ✅   |
+| [Microsoft DevOps Engineer Expert](https://docs.microsoft.com/en-us/certifications/exams/az-400)                                |   AZ-400      |   $110    |   ✅   |
+| [Microsoft Certified: Azure Solutions Architect Expert](https://docs.microsoft.com/en-us/certifications/exams/az-305)            |   AZ-305      |   $110    |   ✅   |
+| [Microsoft Certified: CyberSecurity Architect Expert](https://docs.microsoft.com/en-us/certifications/exams/sc-100)              |   SC-100      |   $110    |   ⌛️   |
+| **Total:**                                                      |   🗅           |   $1,225   |   ⌛️   |
 
 
 ## Amazon Web Services
