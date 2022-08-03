@@ -21,6 +21,16 @@ My main focus is on my passion, which is to become a <strong> DevOps Engineer </
 - [Passing Microsoft Azure Administrator Associate Certification](cl0pg4r2200c1yunv054wgaec.md)
 - [Getting started with Microsoft Azure Fundamentals Certifications](ckzspxdnq03e32ps1fsf087ls.md)
 
+### Loading Blog List
+- [ ] [Cloud Native | The Bigger Picture]()
+- [ ] [KUBERNETES | The Containers Orchestrator]()
+- [ ] [GitLab For DevOps]()
+- [ ] [Microsoft Certified: Azure Security Engineer Associate | Study Guide]()
+- [ ] [Microsoft Certified: Azure Network Engineer Associate | Study Guide]()
+- [ ] [Microsoft Certified: DevOps Engineer Expert | Study Guide]()
+- [ ] [Microsoft Certified: Azure Solutions Architect Expert | Study Guide]()
+
+
 > [Feature Request?](https://feedback.hashnode.com/p/the-total-number-of-blog-views-on-your-hashnode-profile) **If you saw it, please upvote!**
 
 Please read [about this repository](about.md) for more information.
