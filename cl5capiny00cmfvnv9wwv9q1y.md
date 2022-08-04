@@ -31,21 +31,21 @@ So I'm focusing more on the journey for the sake of progress, and below is the W
 ## Amazon Web Services
 | **AWS Certifications**                                          | **Exam Code** | **Price** | **Status**|
 |:--------                                                        | :--------:    | --------: | --------: |
-| [AWS Certified Cloud Practitioner](https://aws.amazon.com/fr/certification/certified-cloud-practitioner/)                                 |  AZ-900       |   $100     |   ⌛️   |
-| [AWS Certified Solutions Architect Associate](https://aws.amazon.com/fr/certification/certified-solutions-architect-associate/)                      |   DP-900      |   $150     |   ⌛️   |
-| [AWS Certified SysOps Admin Associate](https://aws.amazon.com/fr/certification/certified-sysops-admin-associate/)                             |  AI-900       |   $150     |   ⌛️   |
-| [AWS Certified Developer Associate](https://aws.amazon.com/fr/certification/certified-developer-associate/)                                |   SC-900      |   $150     |   ⌛️   |
-| [AWS Certified Solutions Architect Professional](https://aws.amazon.com/fr/certification/certified-solutions-architect-professional/)                   |   PL-900      |   $300     |   ⌛️   |
-| [AWS Certified DevOps Engineer Professional](https://aws.amazon.com/fr/certification/certified-devops-engineer-professional/)                      |   AZ-104      |   $300     |   ⌛️   |
+| [AWS Certified Cloud Practitioner](https://aws.amazon.com/fr/certification/certified-cloud-practitioner/)                                 |  CLF-C01       |   $100     |   ⌛️   |
+| [AWS Certified Solutions Architect Associate](https://aws.amazon.com/fr/certification/certified-solutions-architect-associate/)                      |   SAA-C02      |   $150     |   ⌛️   |
+| [AWS Certified SysOps Admin Associate](https://aws.amazon.com/fr/certification/certified-sysops-admin-associate/)                             |  SOA-C02      |   $150     |   ⌛️   |
+| [AWS Certified Developer Associate](https://aws.amazon.com/fr/certification/certified-developer-associate/)                                |   DVA-C01      |   $150     |   ⌛️   |
+| [AWS Certified Solutions Architect Professional](https://aws.amazon.com/fr/certification/certified-solutions-architect-professional/)                   |   SAP-C01      |   $300     |   ⌛️   |
+| [AWS Certified DevOps Engineer Professional](https://aws.amazon.com/fr/certification/certified-devops-engineer-professional/)                      |   DOP-C01      |   $300     |   ⌛️   |
 | **Total:**                                                      |     🗅         |   1,150$   |   ⌛️   |
 
 ## HashiCorp
 | **HashiCorp Certifications**                                 | **Exam Code** | **Price**   | **Status**|
 |:--------                                                     | :--------:    | --------:   | --------: |
-| [HashiCorp Terraform Associate]()                                |  AZ-900       |   $70.5     |   ✅   |
-| [HashiCorp Consul Associate](https://www.hashicorp.com/certification/consul-associate)                                   |   DP-900      |   $70.5     |   ⌛️   |
-| [HashiCorp Vault Associate](https://www.hashicorp.com/certification/vault-associate)                                    |  AI-900       |   $70.5     |   ⌛️   |
-| [HashiCorp Vault Pro](https://www.hashicorp.com/certification/vault-operations-professional)                                          |   SC-900      |   $295      |   ⌛️   |
+| [HashiCorp Terraform Associate]()                                |  TA-002-P       |   $70.5     |   ✅   |
+| [HashiCorp Consul Associate](https://www.hashicorp.com/certification/consul-associate)                                   |   🗅      |   $70.5     |   ⌛️   |
+| [HashiCorp Vault Associate](https://www.hashicorp.com/certification/vault-associate)                                    |  🗅       |   $70.5     |   ⌛️   |
+| [HashiCorp Vault Pro](https://www.hashicorp.com/certification/vault-operations-professional)                                          |   🗅      |   $295      |   ⌛️   |
 | **Total:**                                                   |    🗅          |   $436     |   ⌛️   |
 
 ## Kubernetes
