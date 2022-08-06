@@ -6,6 +6,7 @@ My main focus is on my passion, which is to become a <strong> DevOps Engineer </
 
 
 ### Current Blog List
+- [To-Do Certifications](cl6hrtp700640wtnv79x09z8r.md)
 - [Azure Cloud Security | Sentinel And Defender](cl6capiny00cmfvnv9wwv9q1y.md)
 - [Git/GitHub Workflow in 80 seconds](cl66cnu2l003izqnv9rkl2y0w.md)
 - [Containers, Docker | What exactly is that?](cl4on89ke02mzhbnvgei02p10.md)
