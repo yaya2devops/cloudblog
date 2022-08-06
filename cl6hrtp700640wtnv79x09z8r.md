@@ -44,7 +44,7 @@ So I'm focusing more on the journey for the sake of progress, and below is the W
 | [	AWS Certified Security - Specialty](https://aws.amazon.com/fr/certification/certified-devops-engineer-professional/)                      |   SCS-C01      |   $150     |   ⌛️   |
 | [AWS Certified DevOps Engineer Professional](https://aws.amazon.com/fr/certification/certified-devops-engineer-professional/)                      |   DOP-C01      |   $300     |   ⌛️   ||   DVA-C01      |   $150     |   ⌛️   |
 | [AWS Certified Solutions Architect Professional](https://aws.amazon.com/fr/certification/certified-solutions-architect-professional/)                   |   SAP-C01      |   $300     |   ⌛️   |
-| **Total:**                                                      |     🗅         |   math$   |   ⌛️   |
+| **Total:**                                                      |     🗅         |   $2,050   |   ⌛️   |
 
 ## HashiCorp
 | **HashiCorp Certifications**                                 | **Exam Code** | **Price**   | **Status**|
@@ -75,5 +75,5 @@ So I'm focusing more on the journey for the sake of progress, and below is the W
 
 
 
-**Total of totals (excluding material costs):** 4,366$
+**Total of totals (excluding material costs):** 6,381$
 > Who knows when these will be done or if I will actually finish, i'm in anyway.
