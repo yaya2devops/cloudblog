@@ -42,7 +42,7 @@ So I'm focusing more on the journey for the sake of progress, and below is the W
 | [	AWS Certified Machine Learning - Specialty](https://aws.amazon.com/fr/certification/certified-devops-engineer-professional/)                      |  MLS-C01      |   $150     |   ⌛️   |
 | [	AWS Certified: SAP on AWS - Specialty](https://aws.amazon.com/fr/certification/certified-devops-engineer-professional/)                      |   	PAS-C01      |   $150     |   ⌛️   |
 | [	AWS Certified Security - Specialty](https://aws.amazon.com/fr/certification/certified-devops-engineer-professional/)                      |   SCS-C01      |   $150     |   ⌛️   |
-| [AWS Certified DevOps Engineer Professional](https://aws.amazon.com/fr/certification/certified-devops-engineer-professional/)                      |   DOP-C01      |   $300     |   ⌛️   ||   DVA-C01      |   $150     |   ⌛️   |
+| [AWS Certified DevOps Engineer Professional](https://aws.amazon.com/fr/certification/certified-devops-engineer-professional/)                      |   DOP-C01      |   $300     |   ⌛️   |
 | [AWS Certified Solutions Architect Professional](https://aws.amazon.com/fr/certification/certified-solutions-architect-professional/)                   |   SAP-C01      |   $300     |   ⌛️   |
 | **Total:**                                                      |     🗅         |   $2,050   |   ⌛️   |
 
