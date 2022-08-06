@@ -1,5 +1,5 @@
-# Azure Cloud Security | Sentinel And Defender
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1659451510570/GigxwP0Dd.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm">
+## Azure Cloud Security | Sentinel And Defender
+
 
 # Microsoft Sentinel
 
@@ -16,7 +16,7 @@ Azure Sentinel is a cloud-native SIEM & SOAR solution that collects data from mu
 
 ## Architecture
 
-![3.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659465636763/4-lE0GdpO.png)
+![3.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659465636763/4-lE0GdpO.png align="left")
 
 
 
@@ -66,11 +66,14 @@ Write machine learning in various programming languages such as Python.
 ---
 # Defender
 
-![4.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659465659404/5U1XS1SvK.png)
+![4.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659465659404/5U1XS1SvK.png align="left")
 
 Azure Defender (CSPM) can be thought of as an upgrade to Azure Security Center (ASC), a dashboard available in the Azure portal that provides an overview of all of your assets in Azure and non-Azure environments, as well as a set of scores and recommendations to properly secure them.
 
 **Azure Sentinel** includes a wide range of data connectors. Among them is Azure Defender.
+
+> [Connect Microsoft Defender for Cloud alerts to Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/connect-defender-for-cloud)
+
 
 Defender comes in a variety of flavors depending on the application; some of them are listed below.
 - Microsoft Defender for Cloud (Azure Security Center)
@@ -81,41 +84,57 @@ Defender comes in a variety of flavors depending on the application; some of the
 > [Microsoft Defender for Cloud pricing](https://azure.microsoft.com/en-us/pricing/details/defender-for-cloud/)
 
 ---
-
 # Project: EventHub
 > Sending logs and establishing monitoring use cases with Sentinel/Defender.
+
+**Decision tree**: Determine how many workspaces are required for this project **❓**
+
+![](https://i.imgur.com/jSOvhdP.jpg)
 
 ## The Objective 🥅
 
 
 ### A: Send logs to Sentinel
 
-- Configuring log ingestion from **Sharepoint**
-- Putting the ingestion into production and validating the correlation of the logs has. 
- <br>👉**Estimation in hours: 12**
-- Configuring log ingestion from **Teams**
-- Putting the ingestion into production and validating the correlation of the logs has.
- <br>👉**Estimation in hours: 12**
-- Configuring log ingestion from **Azure SQL managed**
-- Putting the ingestion into production and validating the correlation of the logs has.
-<br>👉**Estimation in hours: 12**
-- Configuring log ingestion from **Dynamics 365 Sales**
-- Putting the ingestion into production and validating the correlation of the logs has.
-<br>👉**Estimation in hours: 12**
-- Configuring log ingestion from **Power Apps**
-- Putting the ingestion into production and validating the correlation of the log has.
-<br>👉**Estimation in hours: 12** 
-- Configuring log ingestion from **AAD**
-- Putting the ingestion into production and validating the correlation of the logs has.
-<br>👉**Estimation in hours: 12** <br>
+#### Sentinel Migration:
+![](https://i.imgur.com/Y0sfQYZ.png)
 
-> N.B: Integrate in the LogicApps part as required.
+**Tasks:**
+
+#### Task1📝:
+- Configuring log ingestion from **Sharepoint**
+- Putting the ingestion into production and validating the correlation of the logs. 
+ <br><br>
+- Configuring log ingestion from **Teams**
+- Putting the ingestion into production and validating the correlation of the logs.
+<br><br>
+> [Monitor Logs from Azure Sentinel (Sharepoint, Teams)](https://nanddeepnachanblogs.com/posts/2021-03-14-monitor-o365-logs-azure-sentinel/)
+
+---
+#### Task2📝:
+- Configuring log ingestion from **Dynamics 365 Sales**
+- Putting the ingestion into production and validating the correlation of the logs.
+<br><br>
+- Configuring log ingestion from **Power Apps**
+- Putting the ingestion into production and validating the correlation of the log.
+
+> [Office 365 Management API data into Azure Sentinel](https://github.com/Azure/Azure-Sentinel/tree/master/DataConnectors/O365%20Data)
+
+---
+#### Task3📝:
+- Configuring log ingestion from **AAD**
+- Putting the ingestion into production and validating the correlation of the logs.
+<br><br>
+- Configuring log ingestion from **Azure SQL Managed Instance**
+- Putting the ingestion into production and validating the correlation of the logs.
+<br><br>
+
 
 ### B: Develop surveillance use cases
 
-> [Use cases for implementing the MITRE ATT&CK® framework](https://resources.infosecinstitute.com/topic/use-cases-for-implementing-the-mitre-attck-framework/)
+> [SIEM – USE CASE WRITING GUIDE]()
 
+The development of use cases and the parameterization of monitoring attributes will be in T&M.
 
-
-
+Consult the **[MITRE ATT&CK® framework](https://resources.infosecinstitute.com/topic/use-cases-for-implementing-the-mitre-attck-framework/).** <br>
 
