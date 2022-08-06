@@ -36,15 +36,15 @@ So I'm focusing more on the journey for the sake of progress, and below is the W
 | [AWS Certified Solutions Architect Associate](https://aws.amazon.com/fr/certification/certified-solutions-architect-associate/)                      |   SAA-C02      |   $150     |   ⌛️   |
 | [AWS Certified SysOps Admin Associate](https://aws.amazon.com/fr/certification/certified-sysops-admin-associate/)                             |  SOA-C02      |   $150     |   ⌛️   |
 | [AWS Certified Developer Associate](https://aws.amazon.com/fr/certification/certified-developer-associate/)       |  DVA-C01      |   $150     |   ⌛️   |  
-| [AWS Certified Advanced Networking - Specialty](https://aws.amazon.com/fr/certification/certified-advanced-networking-specialty/)                      |   ANS-C01      |   $150     |   ⌛️   |
-| [AWS Certified Data Analytics - Specialty](https://aws.amazon.com/fr/certification/certified-data-analytics-specialty/)                      |   DAS-C01	      |   $150     |   ⌛️   |
-| [AWS Certified Database - Specialty](https://aws.amazon.com/fr/certification/certified-database-specialty/)                      |   DBS-C01      |   $150    |   ⌛️   |
-| [	AWS Certified Machine Learning - Specialty](https://aws.amazon.com/fr/certification/certified-machine-learning-specialty/)                      |  MLS-C01      |   $150     |   ⌛️   |
-| [	AWS Certified: SAP on AWS - Specialty](https://aws.amazon.com/fr/certification/certified-sap-on-aws-specialty/)                      |   	PAS-C01      |   $150     |   ⌛️   |
-| [	AWS Certified Security - Specialty](https://aws.amazon.com/fr/certification/certified-security-specialty/)                      |   SCS-C01      |   $150     |   ⌛️   |
+| [AWS Certified Advanced Networking - Specialty](https://aws.amazon.com/fr/certification/certified-advanced-networking-specialty/)                      |   ANS-C01      |   $300     |   ⌛️   |
+| [AWS Certified Data Analytics - Specialty](https://aws.amazon.com/fr/certification/certified-data-analytics-specialty/)                      |   DAS-C01	      |   $300     |   ⌛️   |
+| [AWS Certified Database - Specialty](https://aws.amazon.com/fr/certification/certified-database-specialty/)                      |   DBS-C01      |   $300    |   ⌛️   |
+| [	AWS Certified Machine Learning - Specialty](https://aws.amazon.com/fr/certification/certified-machine-learning-specialty/)                      |  MLS-C01      |   $300     |   ⌛️   |
+| [	AWS Certified: SAP on AWS - Specialty](https://aws.amazon.com/fr/certification/certified-sap-on-aws-specialty/)                      |   	PAS-C01      |   $300     |   ⌛️   |
+| [	AWS Certified Security - Specialty](https://aws.amazon.com/fr/certification/certified-security-specialty/)                      |   SCS-C01      |   $300     |   ⌛️   |
 | [AWS Certified DevOps Engineer Professional](https://aws.amazon.com/fr/certification/certified-devops-engineer-professional/)                      |   DOP-C01      |   $300     |   ⌛️   |
 | [AWS Certified Solutions Architect Professional](https://aws.amazon.com/fr/certification/certified-solutions-architect-professional/)                   |   SAP-C01      |   $300     |   ⌛️   |
-| **Total:**                                                      |     🗅         |   $2,050   |   ⌛️   |
+| **Total:**                                                      |     🗅         |   $math   |   ⌛️   |
 
 ## HashiCorp
 | **HashiCorp Certifications**                                 | **Exam Code** | **Price**   | **Status**|
@@ -75,5 +75,5 @@ So I'm focusing more on the journey for the sake of progress, and below is the W
 
 
 
-**Total of totals (excluding material costs):** 6,381$
+**Total of totals (excluding material costs):** math$
 > Who knows when these will be done or if I will actually finish, i'm in anyway.
