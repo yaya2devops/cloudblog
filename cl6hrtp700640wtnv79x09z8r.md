@@ -49,7 +49,7 @@ So I'm focusing more on the journey for the sake of progress, and below is the W
 ## HashiCorp
 | **HashiCorp Certifications**                                 | **Exam Code** | **Price**   | **Status**|
 |:--------                                                     | :--------:    | --------:   | --------: |
-| [HashiCorp Terraform Associate]()                                |  TA-002-P       |   $70.5     |   ✅   |
+| [HashiCorp Terraform Associate](https://www.hashicorp.com/certification/terraform-associate)                                |  TA-002-P       |   $70.5     |   ✅   |
 | [HashiCorp Consul Associate](https://www.hashicorp.com/certification/consul-associate)                                   |   🗅      |   $70.5     |   ⌛️   |
 | [HashiCorp Vault Associate](https://www.hashicorp.com/certification/vault-associate)                                    |  🗅       |   $70.5     |   ⌛️   |
 | [HashiCorp Vault Pro](https://www.hashicorp.com/certification/vault-operations-professional)                                          |   🗅      |   $295      |   ⌛️   |
