@@ -5,7 +5,7 @@
 
 Certifications do not work like magic neither the solution. So there is no pass this and become this; rather, it is a never-ending process of learning and attracting the right knowledge to find your final answer, if one exists at all.
 
-At this point, I've discovered that certs are extremely useful in terms of staying disciplined and adhering to deadlines, which is a high organizational skill itself, in addition to the amazing knowledge you'll gain.
+At this point, I've discovered that certs are extremely useful in terms of staying disciplined and adhering to deadlines, which is a high organizational skill itself, in addition to the to the astounding information you'll learn.
 
 So I'm focusing more on the journey for the sake of progress, and below is the Wishlist I intend to pursue!
 
