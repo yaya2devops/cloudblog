@@ -6,7 +6,8 @@
 A stale device is one that has been registered with Azure AD but has not been used to access any cloud apps for an extended period of time.
 
 To clear the entire environment, both AAD & Azure resources must be checked.
-![clean.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1660314717039/oMZYWOFOl.png align="left")
+
+![Untitled design (3).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1660316921234/8XjgUSyOA.png)
 > It will be easier to find related resources if you inspect within the resource groups.
 
 ## Azure Active Directory Cleanup
