@@ -115,5 +115,5 @@ Run the runbook to test if it worked.
 
 > [Helpful Link!](https://dev.to/azure/keep-your-azure-subscription-clean-automatically-mmi) 
 
-### Next
+### NEXT
 It is possible that you will experience an account that has been in a sleep mode for an extended period of time, as I did. So having a clearer vision of what to consider is a good first step. Good luck cleaning up the total mess. More research is required!
