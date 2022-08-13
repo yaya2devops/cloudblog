@@ -1,11 +1,11 @@
 
-## Welcome to the Blog Repository.
+# Welcome to the Blog Repository.
 My main focus is on my passion, which is to become a <strong> DevOps Engineer </strong> & add value to businesses. <br> So this is where I'll write about some topics that come to mind as insights and inspiration about cloud, DevOps, infrastructure as code, and anything else related to information technology.
 
 
 
 
-### Current Blog List
+## Current Blog List
 - [Cleaning up your Microsoft Azure Account](cl6qlb6t005xmgenv7say1gvg.md)
 - [To-Do Certifications](cl6hrtp700640wtnv79x09z8r.md)
 - [Azure Cloud Security | Sentinel And Defender](cl6capiny00cmfvnv9wwv9q1y.md)
@@ -23,10 +23,18 @@ My main focus is on my passion, which is to become a <strong> DevOps Engineer </
 - [Passing Microsoft Azure Administrator Associate Certification](cl0pg4r2200c1yunv054wgaec.md)
 - [Getting started with Microsoft Azure Fundamentals Certifications](ckzspxdnq03e32ps1fsf087ls.md)
 
-### Loading Blog List
+## Loading Blog List
+### DevOps
 - [ ] [Cloud Native | The Bigger Picture]()
 - [ ] [KUBERNETES | The Containers Orchestrator]()
+- [ ] [Helm Charts]()
 - [ ] [GitLab For DevOps]()
+- [ ] [Jenkins For DevOps]()
+- [ ] [Automation with Python]()
+- [ ] [Management Config with Ansible]()
+- [ ] [Monitoring]()
+
+### Certification Study Guides
 - [ ] [Microsoft Certified: Azure Security Engineer Associate | Study Guide]()
 - [ ] [Microsoft Certified: Azure Network Engineer Associate | Study Guide]()
 - [ ] [Microsoft Certified: DevOps Engineer Expert | Study Guide]()
