@@ -13,10 +13,9 @@ Microsoft offers a variety of foundational certifications with the exam code XX-
 For more details about the certifications Journey, Microsoft provides an answer to the query and gives a deeper view.
 Quickly check out these links and come back to complete the rest.
    
-- **Azure Training Journey:**
-https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWD4tL?fbclid=IwAR1-WlEbmq6naL2ASRSWdyojhX6vZteipyb6TfA85mCgq-JpwCmwAODS69A  
-- **Become Microsoft Certified:**
-https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- **[Azure Training Journey](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWD4tL?fbclid=IwAR1-WlEbmq6naL2ASRSWdyojhX6vZteipyb6TfA85mCgq-JpwCmwAODS69A  )**
+
+- **[Become Microsoft Certified](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI)**
 
 **The first approach is relax**, it's an entry level certifications.
 Microsoft fundamentals are designed to ensure that you have a good foundation on the skills that are measured in the exam & being able to describe them.
