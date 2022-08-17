@@ -1,5 +1,5 @@
-# Azure Cloud Security | Sentinel And Defender
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1659451510570/GigxwP0Dd.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm">
+## Cloud Security | Sentinel And Defender
+
 
 # Microsoft Sentinel
 
@@ -16,7 +16,7 @@ Azure Sentinel is a cloud-native SIEM & SOAR solution that collects data from mu
 
 ## Architecture
 
-![3.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659465636763/4-lE0GdpO.png)
+![3.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659465636763/4-lE0GdpO.png align="left")
 
 
 
@@ -66,11 +66,14 @@ Write machine learning in various programming languages such as Python.
 ---
 # Defender
 
-![4.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659465659404/5U1XS1SvK.png)
+![4.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659465659404/5U1XS1SvK.png align="left")
 
 Azure Defender (CSPM) can be thought of as an upgrade to Azure Security Center (ASC), a dashboard available in the Azure portal that provides an overview of all of your assets in Azure and non-Azure environments, as well as a set of scores and recommendations to properly secure them.
 
 **Azure Sentinel** includes a wide range of data connectors. Among them is Azure Defender.
+
+> [Connect Microsoft Defender for Cloud alerts to Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/connect-defender-for-cloud)
+
 
 Defender comes in a variety of flavors depending on the application; some of them are listed below.
 - Microsoft Defender for Cloud (Azure Security Center)
@@ -87,8 +90,6 @@ Defender comes in a variety of flavors depending on the application; some of the
 **Decision tree**: Determine how many workspaces are required for this project **❓**
 
 ![](https://i.imgur.com/jSOvhdP.jpg)
-
----
 
 ## The Objective 🥅
 
