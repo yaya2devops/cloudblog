@@ -51,6 +51,7 @@ So I'm focusing more on the journey for the sake of progress, and below is the W
 |:--------                                                     | :--------:    | --------:   | --------: |
 | [GCP Cloud Digital Leader](https://cloud.google.com/certification/cloud-digital-leader)                                                          |  CDL|   $99|   ⌛️   |
 | [Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer)                                                          |  ACE|   $125     |   ⌛️   |
+| **Total:**                                                      |   🗅           |   $Still thinking|   ⌛️   |
 
 ## HashiCorp
 | **HashiCorp Certifications**                                 | **Exam Code** | **Price**   | **Status**|
