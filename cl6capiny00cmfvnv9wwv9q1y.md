@@ -132,6 +132,7 @@ Defender comes in a variety of flavors depending on the application; some of the
 ### B: Develop surveillance use cases
 
 > [SIEM – USE CASE WRITING GUIDE]()
+
 Consult the **[MITRE ATT&CK® framework](https://resources.infosecinstitute.com/topic/use-cases-for-implementing-the-mitre-attck-framework/).** <br>
 
 >I'd been debating a color for this one **for a while** and couldn't come up with anything creative, haha,  I'm including it anyway.
