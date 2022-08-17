@@ -46,6 +46,12 @@ So I'm focusing more on the journey for the sake of progress, and below is the W
 | [AWS Certified Solutions Architect Professional](https://aws.amazon.com/fr/certification/certified-solutions-architect-professional/)                   |   SAP-C01      |   $300     |   ⌛️   |
 | **Total:**                                                      |     🗅         |   $2,950|   ⌛️   |
 
+## Google Cloud Platform
+| **GCP Certifications**                                       | **Exam Code** | **Price**   | **Status**|
+|:--------                                                     | :--------:    | --------:   | --------: |
+| [GCP Cloud Digital Leader](https://cloud.google.com/certification/cloud-digital-leader)                                                          |  CDL|   $99|   ⌛️   |
+| [Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer)                                                          |  ACE|   $125     |   ⌛️   |
+
 ## HashiCorp
 | **HashiCorp Certifications**                                 | **Exam Code** | **Price**   | **Status**|
 |:--------                                                     | :--------:    | --------:   | --------: |
