@@ -117,4 +117,4 @@ Run the runbook to test if it worked.
 > [Helpful Link!](https://dev.to/azure/keep-your-azure-subscription-clean-automatically-mmi) 
 
 ### NEXT
-As I did, you may encounter an account that has been in sleep mode for a while. So having a clearer vision of what to consider is a good first step. Good luck cleaning up the mess. More investigation is required!
+As I did, you may encounter an account that has been in sleep mode for a while. So having a clearer vision of what to consider is a good first step. Good luck cleaning up the mess. More investigation is [required!](https://blog.yahya-abulhaj.dev/microsoft-intune-control-over-your-devices)
