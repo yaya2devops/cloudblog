@@ -17,6 +17,7 @@ The user must fit one of the responsibilities listed below in order to begin the
 - Global Administrator
 - Cloud Device Administrator
 - Intune Service Administrator
+> Hmm, what is [Microsoft Intune](https://blog.yahya-abulhaj.dev/microsoft-intune-control-over-your-devices)
 
 ### Timestamp
 A timestamp is a string of characters or encoded information that indicates the time and date of an occurrence
