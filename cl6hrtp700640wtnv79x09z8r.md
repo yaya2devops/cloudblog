@@ -32,7 +32,7 @@ So I'm focusing more on the journey for the sake of progress, and below is the W
 ## Amazon Web Services
 | **AWS Certifications**                                          | **Exam Code** | **Price** | **Status**|
 |:--------                                                        | :--------:    | --------: | --------: |
-| [AWS Certified Cloud Practitioner](https://aws.amazon.com/fr/certification/certified-cloud-practitioner/)                                 |  CLF-C01       |   $100     |   ⌛️   |
+| [AWS Certified Cloud Practitioner](https://aws.amazon.com/fr/certification/certified-cloud-practitioner/)                                 |  CLF-C01       |   $100 (scheduled)    |   ⌛️   |
 | [AWS Certified Solutions Architect Associate](https://aws.amazon.com/fr/certification/certified-solutions-architect-associate/)                      |   SAA-C02      |   $150     |   ⌛️   |
 | [AWS Certified SysOps Admin Associate](https://aws.amazon.com/fr/certification/certified-sysops-admin-associate/)                             |  SOA-C02      |   $150     |   ⌛️   |
 | [AWS Certified Developer Associate](https://aws.amazon.com/fr/certification/certified-developer-associate/)       |  DVA-C01      |   $150     |   ⌛️   |  
