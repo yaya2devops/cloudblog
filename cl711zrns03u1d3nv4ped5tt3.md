@@ -1,6 +1,6 @@
 ## AWS Certified: Cloud Practitioner Certification
 
-# Hey, If I fail tomorrow, lol, here are the resources that helped me prepare for the exam.
+# Hey, I'll be taking the exam tomorrow; in any case, here are the resources that helped me prepare.
 - AWS DOCs
 - AWS SKILL BUILDER Technical essentials
 - AWS Cloud Practitioner Essentials course by AWS.
