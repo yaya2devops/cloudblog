@@ -7,6 +7,8 @@ My primary focus is on my passion: becoming a DevOps Engineer and adding value t
 
 
 ## Current Blog List
+- [AWS Certified: Cloud Practitioner Certification](cl711zrns03u1d3nv4ped5tt3.md)
+- [Microsoft Intune | Control Over Your Devices](cl6z1spwg006ebinvalgaf0n8.md)
 - [Cleaning up your Microsoft Azure Account](cl6qlb6t005xmgenv7say1gvg.md)
 - [To-Do Certifications](cl6hrtp700640wtnv79x09z8r.md)
 - [Azure Cloud Security | Sentinel And Defender](cl6capiny00cmfvnv9wwv9q1y.md)
