@@ -9,7 +9,6 @@
 - Stephane 390 practice tests on Udemy
 - Neal DigitalCloud (Platform: Blogs, Resources)
 - Neal 500 practice tests on Udemy
-- Amit Playlist on Youtube
 - Rishab Kumar Notes 
 > Else, this will also be posted on LinkedIn.
 
