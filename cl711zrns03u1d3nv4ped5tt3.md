@@ -13,3 +13,8 @@
 > Else, this will also be posted on LinkedIn.
 
 # Best regards, 
+
+---
+
+## Hey again, unlike Microsoft, AWS takes time to generate the score report. 
+## But yeah, congratulations. Passed! ☝️
