@@ -9,6 +9,8 @@
 - [Stephane 390Practice Tests on Udemy](https://www.udemy.com/course/practice-exams-aws-certified-cloud-practitioner/)
 - [Neal DigitalCloud (Platform: Blogs, Resources)](https://digitalcloud.training/)
 - [Neal 500Practice Tests on Udemy](https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exams-c/)
+- [Rishab Notes](https://notes.rishab.cloud/aws-cloudpractitioner)
+
 > Else, this will also be posted on LinkedIn.
 
 # Best regards, 
@@ -16,4 +18,4 @@
 ---
 
 ## Hey again, unlike Microsoft, AWS takes time to generate the score report. 
-## But yeah, congratulations. Passed! ☝️
+## But yeah, congratulations. Passed! 🚀☝️
