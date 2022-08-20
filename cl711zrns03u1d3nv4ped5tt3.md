@@ -1,15 +1,14 @@
 ## AWS Certified: Cloud Practitioner Certification
 
 # Hey, I'll be taking the exam tomorrow; in any case, here are the resources that helped me prepare.
-- AWS DOCs
-- AWS SKILL BUILDER Technical essentials
-- AWS Cloud Practitioner Essentials course by AWS.
-- Andrew Brown
-- Stephane Course
-- Stephane 390 practice tests on Udemy
-- Neal DigitalCloud (Platform: Blogs, Resources)
-- Neal 500 practice tests on Udemy
-- Rishab Kumar Notes 
+- [AWS DOCs](https://docs.aws.amazon.com/)
+- [AWS Technical Essentials](https://explore.skillbuilder.aws/learn/course/1851/play/45289/aws-technical-essentials)
+- [AWS Cloud Practitioner Essentials course by AWS](https://explore.skillbuilder.aws/learn/course/9449/exam-prep-aws-certified-cloud-practitioner)
+- [Andrew Brown Course](https://www.youtube.com/watch?v=SOTamWNgDKc)
+- [Stephane Course](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
+- [Stephane 390Practice Tests on Udemy](https://www.udemy.com/course/practice-exams-aws-certified-cloud-practitioner/)
+- [Neal DigitalCloud (Platform: Blogs, Resources)](https://digitalcloud.training/)
+- [Neal 500Practice Tests on Udemy](https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exams-c/)
 > Else, this will also be posted on LinkedIn.
 
 # Best regards, 
