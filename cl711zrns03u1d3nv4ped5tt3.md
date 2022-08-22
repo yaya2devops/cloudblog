@@ -32,7 +32,6 @@
 |[500 Practice Tests on Udemy](https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exams-c/)      |     |   ✔️   |
 | [Rishab Notes](https://notes.rishab.cloud/aws-cloudpractitioner)      |  ✔️    |      |
 
-> Else, this will also be posted on LinkedIn.
 
 # Best regards, 
 
