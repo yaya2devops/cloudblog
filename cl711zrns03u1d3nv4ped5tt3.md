@@ -16,7 +16,7 @@
 - [Neal 500Practice Tests on Udemy](https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exams-c/)
 - [Rishab Notes](https://notes.rishab.cloud/aws-cloudpractitioner)
 
-> Structure
+> You'll have more structure now.
 
 | |  Usage|     |
 |:-------- |:--------:| --------:|
