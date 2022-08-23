@@ -18,7 +18,7 @@ The materials listed below were used to help me prepare for networking and its a
 | |  Usage|     |
 |:-------- |:--------:| --------:|
 | <b>Material<b>🏗️        |  <b>FREE<b>   |     <b>PAIED<b> |
-| [Azure for Networ Engineers DOCs](https://docs.aws.amazon.com/)      |  ✔️    |     |
+| [Azure for Network Engineers DOCs](https://docs.aws.amazon.com/)      |  ✔️    |     |
 | [Exam DOCs](https://docs.aws.amazon.com/)      |  ✔️    |     |
 |[Skills measured]()      |     ✔️ |      |
 |[AZ-700 Study Playlist](https://www.youtube.com/playlist?list=PLlVtbbG169nGeFODKRZhjqdSxFpSPXVOa)      | ✔️      |     |
