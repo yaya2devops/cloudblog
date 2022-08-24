@@ -1,5 +1,5 @@
-## Cloud Security | Sentinel And Defender
-
+# Azure Cloud Security | Sentinel And Defender
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1659451510570/GigxwP0Dd.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm">
 
 # Microsoft Sentinel
 
@@ -16,7 +16,7 @@ Azure Sentinel is a cloud-native SIEM & SOAR solution that collects data from mu
 
 ## Architecture
 
-![3.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659465636763/4-lE0GdpO.png align="left")
+![3.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659465636763/4-lE0GdpO.png)
 
 
 
@@ -66,14 +66,11 @@ Write machine learning in various programming languages such as Python.
 ---
 # Defender
 
-![4.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659465659404/5U1XS1SvK.png align="left")
+![4.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659465659404/5U1XS1SvK.png)
 
 Azure Defender (CSPM) can be thought of as an upgrade to Azure Security Center (ASC), a dashboard available in the Azure portal that provides an overview of all of your assets in Azure and non-Azure environments, as well as a set of scores and recommendations to properly secure them.
 
 **Azure Sentinel** includes a wide range of data connectors. Among them is Azure Defender.
-
-> [Connect Microsoft Defender for Cloud alerts to Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/connect-defender-for-cloud)
-
 
 Defender comes in a variety of flavors depending on the application; some of them are listed below.
 - Microsoft Defender for Cloud (Azure Security Center)
@@ -86,15 +83,17 @@ Defender comes in a variety of flavors depending on the application; some of the
 ---
 # Project: EventHub
 > Sending logs and establishing monitoring use cases with Sentinel/Defender.
-
-## About
+> 
+## Idea
 As part of getting started on this project, I've also considered studying for the Microsoft Operations Analyst Associate exam. It was good, and I passed it. If you feel the same way, Check the [materials](https://blog.yahya-abulhaj.dev/microsoft-certified-security-operations-analyst-associate-study-guide) I used to prepare.
 
 > Let's go
-
+> 
 **Decision tree**: Determine how many workspaces are required for this project **❓**
 
 ![](https://i.imgur.com/jSOvhdP.jpg)
+
+---
 
 ## The Objective 🥅
 
@@ -139,8 +138,7 @@ As part of getting started on this project, I've also considered studying for th
 
 > [SIEM – USE CASE WRITING GUIDE]()
 
-Check the **[MITRE ATT&CK® framework](https://resources.infosecinstitute.com/topic/use-cases-for-implementing-the-mitre-attck-framework/).** from here.<br>
-
+Consult the **[MITRE ATT&CK® framework](https://resources.infosecinstitute.com/topic/use-cases-for-implementing-the-mitre-attck-framework/).** <br>
 
 >I'd been debating a color for this one **for a while** and couldn't come up with anything creative, haha,  I'm including it anyway.
-![Renew & Stay Certified (17).gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1660780135878/drH9_17ZN.gif align="left")
+![Renew & Stay Certified (17).gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1660780135878/drH9_17ZN.gif)
