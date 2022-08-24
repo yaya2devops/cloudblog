@@ -14,7 +14,7 @@ The materials listed below were used to help me prepare for networking and its a
 -  [Full Course, Udemy](https://www.udemy.com/course/azure-exam-700/)
 - [Full Course V2, Udemy](https://www.udemy.com/course/az700-azure/) 
 
-# Structure
+# Structured
 | |  Usage|     |
 |:-------- |:--------:| --------:|
 | <b>Material<b>🏗️        |  <b>FREE<b>   |     <b>PAIED<b> |
