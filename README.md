@@ -7,6 +7,8 @@ My primary focus is on my passion: becoming a DevOps Engineer and adding value t
 
 
 ## Current Blog List
+- [Microsoft Certified: Security Operations Analyst Associate | Study Guide](cl77oke4h00un0jnv0oix9g19.md)
+- [Microsoft Certified: Azure Security Engineer Associate | Study Guide](cl76khwu800lfbmnvh3edho0z.md)
 - [Microsoft Certified: Azure Network Engineer Associate | Study Guide](cl76acexn02mo32nvfwix8fuh.md)
 - [AWS Certified: Cloud Practitioner Certification](cl711zrns03u1d3nv4ped5tt3.md)
 - [Microsoft Intune | Control Over Your Devices](cl6z1spwg006ebinvalgaf0n8.md)
