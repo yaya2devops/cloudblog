@@ -13,7 +13,7 @@
 - [Courseware, Hands-on](https://microsoftlearning.github.io/AZ500-AzureSecurityTechnologies/)
 
 
-# Structure
+# Structured
 
 | |  Usage|     |
 |:-------- |:--------:| --------:|
