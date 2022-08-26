@@ -1,3 +1,3 @@
-## Microsoft Certified: Azure Solutions Architect Expert | Study Guide
+## Microsoft Certified: Azure Solutions Architect Expert | Resources
 
 > Init
