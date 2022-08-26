@@ -1,4 +1,4 @@
-## Microsoft Certified: DevOps Engineer Expert | Study Guide
+## Microsoft Certified: DevOps Engineer Expert | Resources
 
 # DevOps
 > init
