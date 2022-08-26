@@ -1,3 +1,3 @@
-## Microsoft Certified:CyberSecurity Expert | Resources
+## Microsoft Certified:CyberSecurity Architect Expert | Resources
 
 > Init
