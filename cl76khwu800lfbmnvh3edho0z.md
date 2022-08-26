@@ -1,4 +1,4 @@
-## Microsoft Certified: Azure Security Engineer Associate | Study Guide
+## Microsoft Certified: Azure Security Engineer Associate | Resources
 
 # Azure Security Engineer Material
 
