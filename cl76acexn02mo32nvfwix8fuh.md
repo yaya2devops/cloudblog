@@ -1,4 +1,4 @@
-## Microsoft Certified: Azure Network Engineer Associate | Study Guide
+## Microsoft Certified: Azure Network Engineer Associate | Resources
 
 ## Networking
 The proper networking solution can support your company develop and expand. Not only will it allow employees to conveniently share information, increasing performance, but it will also save approximately of bandwidth utilization, adaptability, and data protection. It's incredible to say that networking is the basis of everything in TECH.
