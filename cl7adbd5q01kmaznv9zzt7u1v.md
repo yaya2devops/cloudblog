@@ -1,3 +1,3 @@
-## Microsoft Certified:CyberSecurity Expert | Study Guide
+## Microsoft Certified: Azure Solutions Architect Expert | Study Guide
 
 > Init
