@@ -1,3 +1,3 @@
-## Microsoft Certified:CyberSecurity Expert | Study Guide
+## Microsoft Certified:CyberSecurity Expert | Resources
 
 > Init
