@@ -1,4 +1,4 @@
-## Microsoft Certified: Security Operations Analyst Associate | Study Guide
+## Microsoft Certified: Security Operations Analyst Associate | Resources
 
 ## Security Operations
 SC-200 is a robust security exam that covers lots of Microsoft Security operations. <br> 
