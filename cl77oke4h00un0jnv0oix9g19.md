@@ -19,7 +19,7 @@ Check it out from [here](https://blog.yahya-abulhaj.dev/cloud-security-sentinel-
 - []() 
 - []() 
 
-# Structure
+# Structured
 
 |                      |  Usage    |     |
 |:--------             |    :--------:| --------:|
