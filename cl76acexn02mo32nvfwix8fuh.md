@@ -1,7 +1,9 @@
 ## Microsoft Certified: Azure Network Engineer Associate | Resources
 
 ## Networking
-The proper networking solution can support your company develop and expand. Not only will it allow employees to conveniently share information, increasing performance, but it will also save approximately of bandwidth utilization, adaptability, and data protection. It's incredible to say that networking is the basis of everything in TECH.
+Networking was and continues to be an excellent entry point into information technology. Having the fundamentals down pat, combined with good development experience, will lead to a prosperous career in this industry. If coding isn't a good fit for you right now, you may start focusing on your weak spots and developing your networking skills. Such abilities may lead to a career in administration and you can keep climbing from there.
+
+Technically speaking, a strong networking solution will aid your company's expansion and prosper. Employees will be able to communicate information easily, improving productivity, and it will also save on bandwidth usage, adaptability, and data protection. 
 
 The materials listed below were used to help me prepare for networking and its application in the Azure cloud.
 
