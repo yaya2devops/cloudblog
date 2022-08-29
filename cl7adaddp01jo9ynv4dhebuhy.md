@@ -1,7 +1,7 @@
 ## Microsoft Certified: DevOps Engineer Expert | Resources
 
 # DevOps
-> init
+
 - []() 
 - []() 
 - []() 
@@ -11,7 +11,7 @@
 - []() 
 - []() 
 
-# Structure
+# Structured Exam Material
 
 |                      |  Usage    |     |
 |:--------             |    :--------:| --------:|
