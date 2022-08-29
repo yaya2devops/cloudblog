@@ -1,3 +1,21 @@
 ## Microsoft Certified: Azure Solutions Architect Expert | Resources
 
-> Init
+# Architect
+
+# Solutions Architect
+
+
+# Structured Exam Material
+
+|                      |  Usage    |     |
+|:--------             |    :--------:| --------:|
+| <b>Material<b>🏗️    |  <b>FREE<b>   |     <b>PAIED<b> |
+|                      |  ✔️          |                 |
+| []()                 |  ✔️          |                 |
+|  []()                |               |           ✔️   |
+|  []()                |   ✔️         |            ✔️   |
+|  []()                |               |           ✔️   |
+|   []()               |  ✔️          |                 |
+|   []()               |  ✔️          |                 |
+|   []()               |  ✔️          |                 |
+|   []()               |  ✔️          |                 |
