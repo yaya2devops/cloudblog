@@ -20,10 +20,9 @@ The user must fit one of the responsibilities listed below to begin the cleaning
 ## Policy
 To effectively remove obsolete equipment from your environment, you should implement a related policy. You can use policy to ensure that your account for all factors related to obsolete technology.
 
-### 1: Device Menu Blade
-Within the Azure portal, you will see a list of devices that are enrolled. Simply click and enter your login information. Following this link: 
+### 1: [Device Menu Blade](https://portal.azure.com/#blade/Microsoft_AAD_IAM/DevicesMenuBlade/Devices)
+Within the Azure portal, you will see a list of devices that are enrolled. Simply click and enter your login information. Following the title hyperlink.
 
-https://portal.azure.com/#blade/Microsoft_AAD_IAM/DevicesMenuBlade/Devices
 
 Usage **the timestamp parameter**, which is a string of characters or encoded data that indicates the time and date of an event. Within the powershell it's also refered to: ApproximateLastLogonTimestamp.
 
