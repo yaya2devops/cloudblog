@@ -27,19 +27,19 @@ https://portal.azure.com/#blade/Microsoft_AAD_IAM/DevicesMenuBlade/Devices
 
 Usage **the timestamp parameter**, which is a string of characters or encoded data that indicates the time and date of an event. Within the powershell it's also refered to: ApproximateLastLogonTimestamp.
 
-#### Get devices to CSV: 
+#### Get devices to CSV
 
 ``` 
 Get-AzureADDevice -All:$true | select-object -Property AccountEnabled, DeviceId, DeviceOSType, DeviceOSVersion, DisplayName, DeviceTrustType, ApproximateLastLogonTimestamp | export-csv devicelist-summary.csv -NoTypeInformation
 ``` 
 
-#### Disable Devices:
+#### Disable Devices
 ``` 
  $dt = (Get-Date).AddDays(-90) $Devices = Get-AzureADDevice -All:$true | Where {$_.ApproximateLastLogonTimeStamp -le $dt}  foreach ($Device in $Devices) {Set-AzureADDevice -ObjectId $Device.ObjectId -AccountEnabled $false}
 ``` 
 
 
-#### Delete Devices:
+#### Delete Devices
 ``` 
 $dt = (Get-Date).AddDays(-120) $Devices = Get-AzureADDevice -All:$true | Where {($_.ApproximateLastLogonTimeStamp -le $dt) -and ($_.AccountEnabled -eq $false)} foreach ($Device in $Devices) { Remove-AzureADDevice -ObjectId $Device.ObjectId}
 ``` 
@@ -65,7 +65,7 @@ The following PowerShell commands as administrator can be used to clean up azure
 
 # Azure Resources Cleanup
 In the case of unused resources, we can delete them automatically with a powershell script. You must use the ExpiresOn tag on the resources and then specify a date that is earlier than today.
-## Script:
+## Script
 
 ``` 
 $connectionName = "AzureRunAsConnection"
@@ -109,8 +109,8 @@ foreach($resourceGroup in $rgs){
 
 ```
 
-## Implementation
-### Implementation of the Script:
+## Implementation of the Script
+
 
 #### 1- Import Modules
 -  Create an Azure Automation within the portal
