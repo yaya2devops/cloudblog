@@ -12,14 +12,6 @@ This exam is a great way to get started in the motion. It will introduce you to 
 
  Examinees will also be able to experiment with terms like CI/CD and how the lifecycle works, from making changes and committing them to a remote repository to pushing the code to production and continuously monitoring, tracking, and innovating your application.
 
-- []() 
-- []() 
-- []() 
-- []() 
-- []() 
-- []() 
-- []() 
-- []() 
 
 
 # Structured Exam Material
