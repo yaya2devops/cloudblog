@@ -7,6 +7,7 @@ My primary focus is on my passion: becoming a DevOps Engineer and adding value t
 
 
 ## Current Blog List
+- [Microsoft Certified: DevOps Engineer Expert | Resources](cl7adaddp01jo9ynv4dhebuhy.md)
 - [Microsoft Certified: Security Operations Analyst Associate | Resources](cl77oke4h00un0jnv0oix9g19.md)
 - [Microsoft Certified: Azure Security Engineer Associate | Resources](cl76khwu800lfbmnvh3edho0z.md)
 - [Microsoft Certified: Azure Network Engineer Associate | Resources](cl76acexn02mo32nvfwix8fuh.md)
@@ -41,7 +42,6 @@ My primary focus is on my passion: becoming a DevOps Engineer and adding value t
 - [ ] [Monitoring]()
 
 ### Certification Study Guides
-- [ ] [Microsoft Certified: DevOps Engineer Expert | Resources](cl7adaddp01jo9ynv4dhebuhy.md)
 - [ ] [Microsoft Certified: Azure Solutions Architect Expert | Resources](cl7adbd5q01kmaznv9zzt7u1v.md)
 - [ ] [Microsoft Certified: Cybersecurity Architect Expert | Resources](cl7ade2ca01kb9ynvfc4n9me9.md)
 
