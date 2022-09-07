@@ -8,6 +8,8 @@ It's most plausible the same with cloud. The simplest way to describe a solution
 
 The Azure Solutions Architect Expert certification is a powerful exam that focuses on designing a wide range of cloud services. I recommend that you review the most of the materials provided below, which assisted me in absorbing the knowledge required to sit and pass this exam.
 
+**Prerequisite :**  The candidate must pass the [az-104](https://blog.yahya-abulhaj.dev/passing-microsoft-azure-administrator-associate-certification) exam  to earn the  AZ-305 badge.
+
 # Structured Exam Material
 
 |                      |  Usage    |     |
