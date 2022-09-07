@@ -1,4 +1,4 @@
-# Containers, Docker | What exactly is that?
+## Containers, Docker | What exactly is that?
 
 # The Innovation
 It is important to understand how virtual machines work moving to containers in order to get started with docker effectively. <br>
@@ -14,11 +14,11 @@ A Virtual Machine (VM) is a compute resource that runs programs and deploys apps
 ### Why not begin with VMs first?
 
 
-![VM1 (1600 × 840 px) (2).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657573150673/s04iPcV_Z.png)
+![VM1 (1600 × 840 px) (2).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657573150673/s04iPcV_Z.png align="left")
 #### Oracle VM VirtualBox
 [VirtualBox](https://www.virtualbox.org) is virtualization software that runs on multiple platforms. It enables users to use their existing computer to run multiple operating systems.
 
-> To start utilizing VirtualBox and get your VM up and running, follow these instructions.
+> To start using VirtualBox and get your VM up and running, follow these instructions.
 
 - [Download](https://www.virtualbox.org/wiki/Downloads) VirtualBox
 - [Download](https://support.system76.com/articles/install-pop/) the desired operating system's ISO file (Ubunto, Centos..)
@@ -50,7 +50,7 @@ On a single machine, several containers can run simultaneously as separate proce
  
 Another notable comparison is the modest weight of containers.
  Containers can handle more applications than virtual machines, take up less space and eliminate the need for additional operating systems. 
-![VM1 (1600 × 840 px).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657560760280/Ugz-9SHtW.png)
+![VM1 (1600 × 840 px).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657560760280/Ugz-9SHtW.png align="left")
 
 
 As a result of using the same OS, containers cost less. <br>
@@ -65,14 +65,14 @@ The same is true for software containers, and docker in particular revolutionize
 #  Docker
 
 
-![VM1 (1600 × 840 px) (5).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657651330340/t_vn4YJcC.png)
+![VM1 (1600 × 840 px) (5).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657651330340/t_vn4YJcC.png align="left")
 Docker is an open source software platform that simplifies the process of creating, running, managing, and distributing containers that hold your application. Although there are other market competitors, Docker ended up winning the containers game due to its simplicity.
 
 
 As previously stated, containers are the foundation to start using docker. You'll also need a good understanding of computers and the command line. <br>Before we get into the technical stuff, let's go over the theory behind Docker and what functions it have, since, in my opinion, this is important for architectural perspective.
 ## Architecture
 
-![VM1 (1600 × 840 px) (3).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657580301789/_waVdExFP.png)
+![VM1 (1600 × 840 px) (3).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657580301789/_waVdExFP.png align="left")
 ### Docker Engine
 It is the foundation and the central part of the entire Docker system. Docker Engine is a client-server architecture application. It is set up on the host machine. The Docker engine is made up of three parts
 
