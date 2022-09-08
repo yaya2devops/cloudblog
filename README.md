@@ -39,7 +39,7 @@ My primary focus is on my passion: Becoming a **DevOps Engineer** and adding **v
 - [ ] [Jenkins For DevOps]()
 - [ ] [Automation with Python]()
 - [ ] [Management Config with Ansible]()
-- [ ] [Monitoring]()
+- [ ] [Monitoring w/ Prometheus]()
 
 ### Certification Study Guides
 - [ ] [Microsoft Certified: Azure Solutions Architect Expert | Resources](cl7adbd5q01kmaznv9zzt7u1v.md)
