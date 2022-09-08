@@ -7,6 +7,7 @@ My primary focus is on my passion: Becoming a **DevOps Engineer** and adding **v
 
 
 ## Current Blog List
+- [Microsoft Certified: Azure Solutions Architect Expert | Resources](cl7adbd5q01kmaznv9zzt7u1v.md)
 - [Microsoft Certified: DevOps Engineer Expert | Resources](cl7adaddp01jo9ynv4dhebuhy.md)
 - [Microsoft Certified: Security Operations Analyst Associate | Resources](cl77oke4h00un0jnv0oix9g19.md)
 - [Microsoft Certified: Azure Security Engineer Associate | Resources](cl76khwu800lfbmnvh3edho0z.md)
@@ -42,7 +43,6 @@ My primary focus is on my passion: Becoming a **DevOps Engineer** and adding **v
 - [ ] [Monitoring w/ Prometheus]()
 
 ### Certification Study Guides
-- [ ] [Microsoft Certified: Azure Solutions Architect Expert | Resources](cl7adbd5q01kmaznv9zzt7u1v.md)
 - [ ] [Microsoft Certified: Cybersecurity Architect Expert | Resources](cl7ade2ca01kb9ynvfc4n9me9.md)
 
 
