@@ -15,14 +15,13 @@ The Azure Solutions Architect Expert certification is a powerful exam that focus
 |                      |  Usage    |     |
 |:--------             |    :--------:| --------:|
 | <b>Material<b>🏗️    |  <b>FREE<b>   |     <b>PAIED<b> |
-|                      |  ✔️          |                 |
-| []()                 |  ✔️          |                 |
-|  []()                |               |           ✔️   |
-|  []()                |   ✔️         |            ✔️   |
-|  []()                |               |           ✔️   |
-|   []()               |  ✔️          |                 |
-|   []()               |  ✔️          |                 |
-|   []()               |  ✔️          |                 |
-|   []()               |  ✔️          |                 |
+|      [AZ-104 Study Guide](https://blog.yahya-abulhaj.dev/passing-microsoft-azure-administrator-associate-certification)                  |  ✔️          |                 |
+| [AZ305 DOCs](https://docs.microsoft.com/en-us/certifications/exams/az-305 )             |  ✔️          |                 |
+|  [AZ-305 Playlist, John Savill](https://www.youtube.com/playlist?list=PLlVtbbG169nHSnaP4ae33yQUI3zcmP5nP)                | ✔️               |              |
+|  [Review Questions and Answers](https://www.youtube.com/watch?v=PPJYQeh26Tg)                |   ✔️         |               |
+|  [Udemy Course, Alan](https://www.udemy.com/course/exam-az-microsoft-azure-exam-role1/)                |               |           ✔️   |
+|   [Udemy Course, Scott](https://www.udemy.com/course/az301-azure/)               |        |✔️                |
+|   [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)               |  ✔️          |                 |
+
 
 # Best regards,
