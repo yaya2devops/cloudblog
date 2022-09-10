@@ -2,7 +2,7 @@
 
 #### Microsoft events are a great way of 'em to showcase and articulate their latest technologies along with giving back to the community.
 
-Microsoft also hosts [Build event](https://blog.yahya-abulhaj.dev/microsoft-build-2022-cloud-skills-challenge-free-microsoft-certification-voucher) once a year and they do fantastic work!
+Microsoft also hosts [Build event](cl3lnuupa01583znvcyol8uwg.md) once a year and they do fantastic work!
 
 # Microsoft Ignite 
 
