@@ -7,6 +7,7 @@ My primary focus is on my passion: Becoming a **DevOps Engineer** and adding **v
 
 
 ## Current Blog List
+- [Microsoft Ignite Event: Free Exam Voucher](cl7w1bl6q0855w8nv1chlawa6.md)
 - [Microsoft Certified: Azure Solutions Architect Expert | Resources](cl7adbd5q01kmaznv9zzt7u1v.md)
 - [Microsoft Certified: DevOps Engineer Expert | Resources](cl7adaddp01jo9ynv4dhebuhy.md)
 - [Microsoft Certified: Security Operations Analyst Associate | Resources](cl77oke4h00un0jnv0oix9g19.md)
