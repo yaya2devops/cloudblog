@@ -66,7 +66,9 @@ You can pick any certification later from the List if you change your mind about
 👉 You will be directed to the registration page; fill out your personal information and click the continue button.<br>
 <br>
 The discounts available to you will be displayed on the following page.<br>
+
 ![Untitled design (2).gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1657365014926/r_0_iM5Vc.gif)
+
 👉 Claim your discount <br>
 If you used a different email address, simply record it and check for eligibility.<br>
  👉 Finally continue with the scheduling process.
