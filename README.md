@@ -1,8 +1,6 @@
 
 # Welcome to the Blog Repository.
 My primary focus is on my passion: Becoming a **DevOps Engineer** and adding **value** to businesses. <br> So this is where I'll write about some thoughts that come to mind as insights & inspiration about cloud, DevOps, infrastructure as code, and anything else related to information technology. 
-> The more I write, the stronger this habit becomes!
-
 
 
 
