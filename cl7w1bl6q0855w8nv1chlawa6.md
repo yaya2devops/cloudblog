@@ -22,7 +22,7 @@ The event will feature experts livestreaming their experiences and the technolog
 
 Microsoft provides these [tasks](https://www.microsoft.com/en-us/cloudskillschallenge/ignite/registration/2022?ocid=cloudskillschallenge_ignite22_email_cnl) to complete before **November 18th**.
 
-Enroll in one of them and complete the challenge to 100% before the deadline to be eligible for a free exam voucher.
+Enroll in one of them and complete the challenge to 100% untill the deadline to be eligible for a free exam voucher.
 
 Vouchers that are not used by February 15, 2023 will be marked as **expired** and no longer available for use.
 
