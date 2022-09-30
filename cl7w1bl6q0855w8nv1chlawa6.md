@@ -24,8 +24,12 @@ Microsoft provides these [tasks](https://www.microsoft.com/en-us/cloudskillschal
 
 Enroll in one of them and complete the challenge to 100% untill the deadline to be eligible for a free exam voucher.
 
+<br>
+
 Vouchers that are not used by February 15, 2023 will be marked as **expired** and no longer available for use.
 
 Eligible  **2022 Ignite Exams** can be found [here](https://www.microsoft.com/en-us/cloudskillschallenge/ignite/officialrules/2022?ocid=cloudskillschallenge_ignite22_email_cnl)
+
+<br>
 
 Keep doing it, tomorrows knowledge is FUN!
