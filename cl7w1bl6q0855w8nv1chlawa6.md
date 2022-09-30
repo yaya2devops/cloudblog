@@ -16,7 +16,7 @@ The event will feature experts livestreaming their experiences and the technolog
 
 # [Register Here](https://ignite.microsoft.com/en-US/home)
 
-![ignite event.PNG](https://cdn.hashnode.com/res/hashnode/image/upload/v1662819125951/3aNsw2BPI.PNG align="left")
+![ignite event.PNG](https://cdn.hashnode.com/res/hashnode/image/upload/v1662819125951/3aNsw2BPI.PNG)
 
 > Update, 29 September 2022
 
