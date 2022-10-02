@@ -1,5 +1,5 @@
 
-# Welcome to the Blog Repository.
+# Welcome to the Cloud Blogs Repository.
 The cloud, I believe, has played a significant role in my journey. Currently a DevOps guy working on improving his multi-cloud skills, including Azure, Google Cloud Platform, and Amazon Web Services, while adding **value** to businesses. <br> So this is where I'll write about some insights and inspiration about cloud, DevOps, infrastructure as code, and anything else related to information technology that come to mind.
 
 
