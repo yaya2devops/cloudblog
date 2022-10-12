@@ -1,4 +1,4 @@
-## Microsoft Ignite Event: Free Exam Voucher
+# Microsoft Ignite Event: Free Exam Voucher
 
 #### Microsoft events are a great way of 'em to showcase and articulate their latest technologies along with giving back to the community.
 
@@ -16,7 +16,9 @@ The event will feature experts livestreaming their experiences and the technolog
 
 # [Register Here](https://ignite.microsoft.com/en-US/home)
 
-![ignite event.PNG](https://cdn.hashnode.com/res/hashnode/image/upload/v1662819125951/3aNsw2BPI.PNG)
+![ignite event.PNG](https://cdn.hashnode.com/res/hashnode/image/upload/v1662819125951/3aNsw2BPI.PNG align="left")
+
+---
 
 > Update, 29 September 2022
 
@@ -24,12 +26,21 @@ Microsoft provides these [tasks](https://www.microsoft.com/en-us/cloudskillschal
 
 Enroll in one of them and complete the challenge to 100% untill the deadline to be eligible for a free exam voucher.
 
-<br>
 
 Vouchers that are not used by February 15, 2023 will be marked as **expired** and no longer available for use.
 
 Eligible  **2022 Ignite Exams** can be found [here](https://www.microsoft.com/en-us/cloudskillschallenge/ignite/officialrules/2022?ocid=cloudskillschallenge_ignite22_email_cnl)
 
-<br>
-
 Keep doing it, tomorrows knowledge is FUN!
+
+---
+
+> update 12Oct2022, event init
+
+I was pretty excited about [Protect everything challenge](https://learn.microsoft.com/fr-fr/training/challenges?id=7a06394f-6963-44b8-b21c-807c0079fe38&WT.mc_id=cloudskillschallenge_7a06394f-6963-44b8-b21c-807c0079fe38&ocid=cloudskillschallenge_ignite22_email_cnl) , and now that it's finally here, it appears that I've already covered the entirety of the material, lol. Event's over.
+
+
+![challenge.PNG](https://cdn.hashnode.com/res/hashnode/image/upload/v1665611076757/SmGsmbMAa.PNG align="left")
+
+I will undoubtedly choose another track to complete along the way. Happy learning!
+
