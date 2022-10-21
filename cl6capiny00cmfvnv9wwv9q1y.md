@@ -1,4 +1,4 @@
-# Cloud Security | Sentinel And Defender
+# Cloud Security | The power of Sentinel
 
 
 # Microsoft Sentinel
