@@ -1,10 +1,13 @@
-## Microsoft Certified: Azure Solutions Architect Expert | Resources
+# Microsoft Certified: Azure Solutions Architect Expert | Resources
 
 
-# Solutions Architect
-A Solutions Architect is in charge of assessing an organization's business needs and determining how your team can meet those needs through the use of software and infra. The architect must be skilled in a variety of areas, including technology, industry knowledge, communication, stakeholder management, leadership, problem solving, decision making, and negotiation.
+# Solutions Architect 
 
-It's most plausible the same with cloud. The simplest way to describe a solutions architect is someone who can experiment with cloud services and create effective designs through their combination. This individual is expected to know when to use what and architect the technical vision for a specific market solution.
+Microsoft solutions architect is responsible for designing, developing, and deploying Microsoft-based solutions. They work with customers to understand their business needs and then design a solution that meets those needs. Solutions architects also work with developers to ensure that the solution is implemented correctly and works as expected.
+
+The architect must be skilled in a variety of areas, including technology, industry knowledge, communication, stakeholder management, leadership, problem solving, decision making, and negotiation.
+
+The simplest way to describe a solutions architect is someone who can experiment with cloud services and create effective designs through their combination. This individual is expected to know when to use what and architect the technical vision for a specific market solution.
 
 The Azure Solutions Architect Expert certification is a powerful exam that focuses on designing a wide range of cloud services. I recommend that you review the most of the materials provided below, which assisted me in absorbing the knowledge required to sit and pass this exam.
 
