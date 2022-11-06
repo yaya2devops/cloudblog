@@ -1,4 +1,4 @@
-# Microsoft Certified:CyberSecurity Architect Expert | In Process⌛
+# Microsoft Certified:CyberSecurity Architect Expert | Resources
 
 
 # Cybersecurity Architect
@@ -9,6 +9,10 @@ Candidate must have a deep understanding of both computer science and informatio
 
 
 As the world becomes more and more digital, Cybersecurity is becoming increasingly important. Microsoft is a leader in this field, providing innovative solutions to help keep people and businesses safe online. From comprehensive security suites to individual tools like our password manager, Microsoft is making it easier than ever for businesses to protect their data and applications in the cloud.
+
+## The  SC-100 Exam
+
+The Microsoft Cybersecurity Exam is a comprehensive exam that tests your knowledge and skills in cybersecurity. The exam covers a wide range of topics, including network security, computer security, data security, and more. The exam is designed to challenge you and ensure that you are prepared for the real world of cybersecurity.
 
 
 - []() 
