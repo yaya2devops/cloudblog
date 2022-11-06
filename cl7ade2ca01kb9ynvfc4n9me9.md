@@ -1,6 +1,5 @@
 # Microsoft Certified:CyberSecurity Architect Expert | In Process⌛
 
-> 2022 is full.
 
 # Cybersecurity Architect
 Cybersecurity is the practice of protecting information from unauthorized access or theft. It includes measures to protect data, networks, and devices from attack, damage, or unauthorized access. Cybersecurity is a growing concern for businesses and individuals as more sensitive information is stored online.
