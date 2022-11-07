@@ -5,6 +5,7 @@ The term “SecOps” is a combination of the words “Security” and “Operat
 
 So, secOps refers to a company's integration of internal information security and IT operations procedures to enhance communication and lower risks.
 
+## The SC-200 Exam
 If you have a previous Cybersecurity background and want to broaden it with the latests technologies and implement SecOps practices. This can be a **wise** decision.
 SC-200 is a robust security challenge that covers lots of Microsoft Security operations. <br> 
 
