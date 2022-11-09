@@ -87,7 +87,4 @@ Your first step should be with connecting to the data sources that you require. 
 
 Honestly, Sentinel is a really powerfull tool for anyone wishing to get more aware and improve his/her work ethics along the way. 
 
----
 
->I'd been debating a color for this one **for a while** and couldn't come up with anything creative, haha,  I'm including it anyway.
-![Renew & Stay Certified (17).gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1660780135878/drH9_17ZN.gif)
