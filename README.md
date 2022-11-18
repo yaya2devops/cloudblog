@@ -7,7 +7,7 @@ The cloud, I believe, has played a significant role in my journey. Currently a D
 
 Here where I'll write about some insights and inspiration about cloud, DevOps, infrastructure as code, and anything else related to information technology that come to mind.
  
-
+ 
 
 ## Current Blog List
 - [Microsoft Ignite Event: Free Exam Voucher](cl7w1bl6q0855w8nv1chlawa6.md)
