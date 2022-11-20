@@ -23,7 +23,7 @@ The Microsoft Cybersecurity Exam is a comprehensive exam that tests your knowled
 | <b>Material<b>🏗️    |  <b>FREE<b>   |     <b>PAIED<b> |
 |   [Official Docs](https://learn.microsoft.com/en-us/certifications/exams/sc-100)                          |  ✔️          |                 |
 |  [John's Study Cram](https://www.youtube.com/watch?v=2Qu5gQjNQh4&ab_channel=JohnSavill%27sTechnicalTraining)                |     ✔️          |              |
-|  [Alan's Udemy Course](https://www.udemy.com/course/azure200/)                |   ✔️         |            ✔️   |
+|  [Alan's Udemy Course](https://www.udemy.com/course/azure200/)                |          |            ✔️   |
 |  [SC-100 Playlist](https://www.youtube.com/playlist?list=PLlVtbbG169nHcbeVtWUfP8BeEjGniBJeb)                |        ✔️       |             |
 
 
