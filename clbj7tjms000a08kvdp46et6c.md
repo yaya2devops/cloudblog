@@ -4,7 +4,7 @@
 
 The idea of a pipeline is important to any team, as it helps them efficiently complete tasks and move projects forward.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1670767652098/sdEwPc7ke.png)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1670767652098/sdEwPc7ke.png align="center")
 
 A "pipeline" can be defined as the series of steps or stages that must occur for a project to reach completion each backed by specific tools. The exact nature of this sequence varies from team to team, depending on their specific needs and goals. For example, one development team may have an extensive testing phase while another might opt for fewer tests but more frequent code reviews.
 
@@ -14,17 +14,19 @@ Pipelines should also include activities related to communication between stakeh
 
 # Key Phases
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1670768159785/RdlExn9Ja.png)
+The phases listed below can represent a pipeline; tools and names are subject to change. However, the principles do not, therefore the stages emphasize quick interaction, collaboration, and feedback. Speed. Quality.
 
-# Version Control
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1670769040125/WDAglyDNz.png align="center")
+
+## Version Control
 
 Version control like git is an invaluable tool for developers, allowing them to track and manage changes to their codebase over time. With version control, developers can easily collaborate on projects by creating different versions of the same project or tracking changes made by other members of a team. It also allows for easy rollbacks when needed, making debugging and testing much simpler tasks.
 
-# Continuous Integration Systems
+## Continuous Integration Systems
 
 Continuous integration systems with Jenkins on top provide a comprehensive, automated solution for software development teams to manage and deploy their code to other systems, including Teams City. Also notable is the use of CI as a service by Travis CI and Circle CI.
 
-# Build
+## Build
 
 Build tools are programs that automate the process of creating an executable application from source code, and they come in many different forms.
 
@@ -35,7 +37,7 @@ Build tools are programs that automate the process of creating an executable app
     Both of these tools offer powerful advantages for developing robust applications quickly and efficiently, and there is much more that you can use, such as Packer by Hachicorp when you build infrastructure.
     
 
-# Testing
+## Test
 
 DevOps testing aims to achieve the ideal balance between goals, feedback cycles, and skills among the development, QA, and operations teams.
 
@@ -79,7 +81,7 @@ Tools for this use case include:
 *   Otto
     
 
-# Artifact Repository
+## Artifact Repository
 
 Now that the code has been built and tested. It must be stored in your repository.  
 An Artifact repository provides a secure, centralized storage location for all artifacts related to the project, such as source code, binaries and documentation.
@@ -97,7 +99,7 @@ Examples of artifact repositories that you can use:
 *   Amazon S3
     
 
-# Deployment
+## Deployment
 
 Our code has been written, tested, and saved. What remains?  
 Deployment. The stage at which we transfer the project in its current state to the production environment for end-user access
@@ -115,6 +117,6 @@ The following are some of the tools for your deployment workflow
 
 One important aspect to consider after deployment is to continuously monitor your system and receive alerts. Monitoring is a top-tier discipline that both DevOps and SRE must be familiar with. It's more for SRE, but I encourage DevOps to have it as well. Monitoring instills awareness.
 
-## Assumption
+### Assumption
 
 It's worth noting that tools evolve. Because new developments emerge all the time, technology is always in flux. Technological products change, as does the way they are used. To stay in business, you must be aware of technological advancements that are relevant to your industry. What matters most is understanding the underlying principles of the entire culture and adapting to ever-changing technologies.
