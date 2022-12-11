@@ -40,7 +40,9 @@ Here where I'll write about some insights and inspiration about cloud, DevOps, i
 ## Loading Blog List
 ### DevOps
 - [ ] [Cloud Native | The Bigger Picture]()
-- [ ] [KUBERNETES | The Containers Orchestrator]() # soon
+- [ ] [YAML]()
+- [ ] [KUBERNETES | The Containers Orchestrator]()
+- [ ] [SRE | Intro]()
 - [ ] [Helm Charts]()
 - [ ] [GitLab For DevOps]()
 - [ ] [Jenkins For DevOps]()
