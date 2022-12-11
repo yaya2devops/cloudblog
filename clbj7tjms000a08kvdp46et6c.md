@@ -1,7 +1,10 @@
-# Let's Explain a Pipeline?
+# Let's Explain a Pipeline
 
-The idea of a pipeline is important to any team, as it helps them efficiently complete tasks and move projects forward.  
+# Overview
+
   
+The idea of a pipeline is important to any team, as it helps them efficiently complete tasks and move projects forward.
+
 A "pipeline" can be defined as the series of steps or stages that must occur for a project to reach completion. The exact nature of this sequence varies from team to team, depending on their specific needs and goals. For example, one development team may have an extensive testing phase while another might opt for fewer tests but more frequent code reviews.
 
 Each stage in the pipeline requires different tools and processes that allow teams to work together effectively toward achieving their objectives. Version control systems such as Git are used by developers so they can collaborate on changes without overwriting each other’s code; automated test suites ensure quality assurance; continuous integration servers compile all changes into deployable versions quickly; deployment automation tools manage deployments across multiple environments with minimal manual effort; monitoring solutions provide feedback about how applications are performing in production environments - all these elements contribute towards creating an efficient software delivery process for every individual project or product release cycle.
@@ -22,11 +25,11 @@ Continuous integration systems with Jenkins on top provide a comprehensive, auto
 
 Build tools are essential for any software development process, and they come in many different forms.
 
-*   A language-specific build tool such as Rust or C# helps developers create efficient applications with minimal effort.  
+*   A language-specific build tool such as Rust or C# helps developers create efficient applications with minimal effort.
     
 *   Using a workflow approach with Maven to build projects that allow users to manage dependencies and automate processes such as compilation, testing, packaging, and deployment.
     
-    /Both of these tools offer powerful advantages for developing robust applications quickly and efficiently, and there is much more that you can use, such as Packer by Hachicorp when you build infrastructure.
+    Both of these tools offer powerful advantages for developing robust applications quickly and efficiently, and there is much more that you can use, such as Packer by Hachicorp when you build infrastructure.
     
 
 ## Test
@@ -35,15 +38,15 @@ Build tools are essential for any software development process, and they come in
 
 Unit testing is an important part of the software development process, as it ensures that individual units of code are functioning correctly.
 
-\*\*Go Lang\*\* (Golint, Gofmt) and \*\*Ruby\*\* (Rubocop) are two popular programming languages that allow developers to perform unit tests.  
-  
+Go Lang (Golint, Gofmt) and Ruby (Rubocop) are two popular programming languages that allow developers to perform unit tests.
+
 You can also run JUnit for Java-based applications.
 
 ### Integration-Test
 
 Integration testing is a type of software testing that verifies the interactions between different components or systems. It ensures that all elements within an application are working together as intended and also checks for any discrepancies in data exchange between various modules.
 
-*   UI-Testing, Sellinum
+*   UI-Testing, Selenium
     
 *   Acceptance Testing, SAUCE Labs
     
@@ -56,9 +59,9 @@ Integration testing is a type of software testing that verifies the interactions
 
 ### Local Testing
 
-Local testing is an essential part of the development process, as it allows developers to run their entire application locally. It gives developers the opportunity to test out features and functionality in a safe and secure environment before pushing them into production, helping ensure that any changes are bug-free and perform optimally. Ultimately, this helps speed up the development process while ensuring quality results for users when they interact with your product or service.
+Local testing is an essential part of the development process, as it allows developers to run their entire application locally. It allows developers to test out features and functionality in a safe and secure environment before pushing them into production, helping ensure that any changes are bug-free and performed optimally. Ultimately, this helps speed up the development process while ensuring quality results for users when they interact with your product or service.
 
-Tools for this use-case include:
+Tools for this use case include:
 
 *   Vagrant
     
@@ -88,7 +91,7 @@ Examples of artifact repositories that you can use:
 Our code has been written, tested, and saved. What remains?  
 Deployment.
 
-Following are a tools for your deployement workflow
+Following are tools for your deployment workflow
 
 *   Rundeck
     
@@ -101,4 +104,4 @@ Following are a tools for your deployement workflow
 
 ### Output
 
-It's worth noting that tools evolve over time. The more important thing is to understand the underlying principles of the entire culture and to adapt to ever-changing technologies.
+It's worth noting that tools evolve. The more important thing is to understand the underlying principles of the entire culture and to adapt to ever-changing technologies.
