@@ -69,7 +69,7 @@ Tools for this use case include:
 *   Otto
     
 
-### Artifact Repository
+## Artifact Repository
 
 Now that the code has been built and tested. It must be stored in your repository.  
 An Artifact Repository provides a secure, centralized storage location for all artifacts related to the project such as source code, binaries and documentation.
@@ -87,7 +87,7 @@ Examples of artifact repositories that you can use:
 *   Amazon S3
     
 
-### Deployment
+## Deployment
 
 Our code has been written, tested, and saved. What remains?  
 Deployment.
