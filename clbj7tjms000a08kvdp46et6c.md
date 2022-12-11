@@ -78,7 +78,7 @@ Tools for this use case include:
 ## Artifact Repository
 
 Now that the code has been built and tested. It must be stored in your repository.  
-An Artifact Repository provides a secure, centralized storage location for all artifacts related to the project such as source code, binaries and documentation.
+An Artifact repository provides a secure, centralized storage location for all artifacts related to the project, such as source code, binaries and documentation.
 
 Examples of artifact repositories that you can use:
 
@@ -109,6 +109,6 @@ The following are some of the tools for your deployment workflow
 *   Deployinator
     
 
-### Output
+### Assumption
 
-It's worth noting that tools evolve. The more important thing is to understand the underlying principles of the entire culture and to adapt to ever-changing technologies.
+It's worth noting that tools evolve. Because new developments emerge all the time, technology is always in flux. Technological products evolve, as does the way they are used. To stay in business, you must be aware of technological advancements that are relevant to your industry. What matters most is understanding the underlying principles of the entire culture and adapting to ever-changing technologies.
