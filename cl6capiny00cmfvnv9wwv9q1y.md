@@ -46,15 +46,15 @@ Workbooks have a wide range of applications, from simple data presentation to co
 
 ### Hunting (look for something)
 
-**Query and get insights using KQL** Run the desired KQL and get results to improve your insights on the data.  
+**Query and get insights using KQL** Run the desired KQL and get results to improve your insights on the data.
 
-### 6- Notebooks
+### Notebooks
 
 **Query and get insights using ML** Built on top of Jupiter Notebooks, a pattern to look for things, security informations. Write machine learning in various programming languages such as Python.
 
 > [Sentinel Pricing](https://azure.microsoft.com/fr-fr/pricing/details/microsoft-sentinel/)
 
-# \[Implement Sentinel Now.\]([https://sentinel.yahya-abulhaj.dev/](https://sentinel.yahya-abulhaj.dev/))
+[Implement Sentinel Now](https://sentinel.yahya-abulhaj.dev/)
 
 * * *
 
