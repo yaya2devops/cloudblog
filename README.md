@@ -10,6 +10,7 @@ Here where I'll write about some insights and inspiration about cloud, DevOps, i
  
 
 ## Current Blog List
+- [Let's Explain a Pipeline](clbj7tjms000a08kvdp46et6c.md)
 - [Microsoft Ignite Event: Free Exam Voucher](cl7w1bl6q0855w8nv1chlawa6.md)
 - [Microsoft Certified: Azure Solutions Architect Expert | Resources](cl7adbd5q01kmaznv9zzt7u1v.md)
 - [Microsoft Certified: DevOps Engineer Expert | Resources](cl7adaddp01jo9ynv4dhebuhy.md)
