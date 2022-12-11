@@ -111,4 +111,4 @@ The following are some of the tools for your deployment workflow
 
 ### Assumption
 
-It's worth noting that tools evolve. Because new developments emerge all the time, technology is always in flux. Technological products evolve, as does the way they are used. To stay in business, you must be aware of technological advancements that are relevant to your industry. What matters most is understanding the underlying principles of the entire culture and adapting to ever-changing technologies.
+It's worth noting that tools evolve. Because new developments emerge all the time, technology is always in flux. Technological products change, as does the way they are used. To stay in business, you must be aware of technological advancements that are relevant to your industry. What matters most is understanding the underlying principles of the entire culture and adapting to ever-changing technologies.
