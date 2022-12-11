@@ -12,6 +12,7 @@ Here where I'll write about some insights and inspiration about cloud, DevOps, i
 ## Current Blog List
 - [Let's Explain a Pipeline](clbj7tjms000a08kvdp46et6c.md)
 - [Microsoft Ignite Event: Free Exam Voucher](cl7w1bl6q0855w8nv1chlawa6.md)
+- [Microsoft Certified: Cybersecurity Architect Expert | Resources](cl7ade2ca01kb9ynvfc4n9me9.md)
 - [Microsoft Certified: Azure Solutions Architect Expert | Resources](cl7adbd5q01kmaznv9zzt7u1v.md)
 - [Microsoft Certified: DevOps Engineer Expert | Resources](cl7adaddp01jo9ynv4dhebuhy.md)
 - [Microsoft Certified: Security Operations Analyst Associate | Resources](cl77oke4h00un0jnv0oix9g19.md)
@@ -48,7 +49,7 @@ Here where I'll write about some insights and inspiration about cloud, DevOps, i
 - [ ] [Monitoring w/ Prometheus]()
 
 ### Certification Study Guides
-- [ ] [Microsoft Certified: Cybersecurity Architect Expert | Resources](cl7ade2ca01kb9ynvfc4n9me9.md)
+- [x] [AWS Certified Developer Associate | Resources]()
 
 
 > [Feature Request?](https://feedback.hashnode.com/p/the-total-number-of-blog-views-on-your-hashnode-profile) **If you saw it, please upvote!**
