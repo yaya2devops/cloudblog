@@ -14,7 +14,7 @@ Pipelines should also include activities related to communication between stakeh
 
 # Key Phases
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1670767944567/E3yQX-4hw.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1670768159785/RdlExn9Ja.png align="center")
 
 ## Version Control
 
