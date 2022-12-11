@@ -82,6 +82,8 @@ Examples of artifact repositories that you can use:
     
 *   Docker hub
     
+*   Azure Storage
+    
 *   Amazon S3
     
 
