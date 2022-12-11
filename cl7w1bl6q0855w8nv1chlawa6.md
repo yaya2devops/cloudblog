@@ -43,6 +43,6 @@ Keep doing it, tomorrows knowledge is FUN!
 
 I was pretty excited about [Protect everything challenge](https://learn.microsoft.com/fr-fr/training/challenges?id=7a06394f-6963-44b8-b21c-807c0079fe38&WT.mc_id=cloudskillschallenge_7a06394f-6963-44b8-b21c-807c0079fe38&ocid=cloudskillschallenge_ignite22_email_cnl) , and now that it's finally here, it appears that I've already covered the entirety of the material, lol. Event's over.
 
-![challenge.PNG](https://cdn.hashnode.com/res/hashnode/image/upload/v1665611076757/SmGsmbMAa.PNG")
+![challenge.PNG](https://cdn.hashnode.com/res/hashnode/image/upload/v1665611076757/SmGsmbMAa.PNG)
 
 I will undoubtedly choose another track to complete along the way. Happy learning!
