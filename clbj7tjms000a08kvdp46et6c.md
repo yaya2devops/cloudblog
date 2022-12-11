@@ -8,7 +8,7 @@ A "pipeline" can be defined as the series of steps or stages that must occur for
 
 Each stage in the pipeline requires different tools and processes that allow teams to work together effectively toward achieving their objectives. Version control systems such as Git are used by developers so they can collaborate on changes without overwriting each other’s code; automated test suites ensure quality assurance; continuous integration servers compile all changes into deployable versions quickly; deployment automation tools manage deployments across multiple environments with minimal manual effort; monitoring solutions provide feedback about how applications are performing in production environments - all these elements contribute towards creating an efficient software delivery process for every individual project or product release cycle.
 
-Finally, pipelines should also include activities related to communication between stakeholders, including customer service representatives who help customers use products correctly or technical support personnel who resolve problems when things go wrong during operation times. This ensures everyone involved has access to up-to-date information regarding progress made throughout the entire process, which allows teams to stay informed at all times while making sure deadlines are met along the way.
+Pipelines should also include activities related to communication between stakeholders, including customer service representatives who help customers use products correctly or technical support personnel who resolve problems when things go wrong during operation times. This ensures everyone involved has access to up-to-date information regarding progress made throughout the entire process, which allows teams to stay informed at all times while making sure deadlines are met along the way.
 
 # Key Phases
 
@@ -22,7 +22,7 @@ Continuous integration systems with Jenkins on top provide a comprehensive, auto
 
 ## Build
 
-Build tools are essential for any software development process, and they come in many different forms.
+Build tools are programs that automate the process of creating an executable application from source code, and they come in many different forms.
 
 *   A language-specific build tool such as Rust or C# helps developers create efficient applications with minimal effort.
     
@@ -33,6 +33,10 @@ Build tools are essential for any software development process, and they come in
 
 ## Test
 
+DevOps testing aims to achieve the ideal balance between goals, feedback cycles, and skills among the development, QA, and operations teams.
+
+It promotes interaction across all three teams while automating software delivery and infrastructure changes.
+
 ### Unit-Test
 
 Unit testing is an important part of the software development process, as it ensures that individual units of code are functioning correctly.
@@ -40,6 +44,8 @@ Unit testing is an important part of the software development process, as it ens
 Go Lang (Golint, Gofmt) and Ruby (Rubocop) are two popular programming languages that allow developers to perform unit tests.
 
 You can also run JUnit for Java-based applications.
+
+When working with the Microsoft Ecosystem and any, c# is a well-known option.
 
 ### Integration-Test
 
@@ -58,7 +64,7 @@ Integration testing is a type of software testing that verifies the interactions
 
 ### Local Testing
 
-Local testing is an essential part of the development process, as it allows developers to run their entire application locally. It allows developers to test out features and functionality in a safe and secure environment before pushing them into production, helping ensure that any changes are bug-free and performed optimally. Ultimately, this helps speed up the development process while ensuring quality results for users when they interact with your product or service.
+Local testing allows developers to run their entire application locally. It enables developers to test features and functionality in a safe and secure environment before releasing them to production, ensuring that any changes are bug-free and performed optimally. Ultimately, this helps speed up the development process while ensuring quality results for users when they interact with your product or service.
 
 Tools for this use case include:
 
@@ -90,9 +96,9 @@ Examples of artifact repositories that you can use:
 ## Deployment
 
 Our code has been written, tested, and saved. What remains?  
-Deployment.
+Deployment. The stage at which we transfer the project in its current state to the production environment for end-user access
 
-Following are tools for your deployment workflow
+The following are some of the tools for your deployment workflow
 
 *   Rundeck
     
