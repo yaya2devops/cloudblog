@@ -109,6 +109,8 @@ The following are some of the tools for your deployment workflow
 *   Deployinator
     
 
+One important aspect to consider after deployment is to continuously monitor your system and receive alerts. Monitoring is a top-tier discipline that both DevOps and SRE must be familiar with. It's more for SRE, but I encourage DevOps to have it as well. Monitoring instills awareness.
+
 ### Assumption
 
 It's worth noting that tools evolve. Because new developments emerge all the time, technology is always in flux. Technological products change, as does the way they are used. To stay in business, you must be aware of technological advancements that are relevant to your industry. What matters most is understanding the underlying principles of the entire culture and adapting to ever-changing technologies.
