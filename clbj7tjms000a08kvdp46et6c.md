@@ -4,6 +4,8 @@
 
 The idea of a pipeline is important to any team, as it helps them efficiently complete tasks and move projects forward.
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1670767652098/sdEwPc7ke.png align="center")
+
 A "pipeline" can be defined as the series of steps or stages that must occur for a project to reach completion each backed by specific tools. The exact nature of this sequence varies from team to team, depending on their specific needs and goals. For example, one development team may have an extensive testing phase while another might opt for fewer tests but more frequent code reviews.
 
 Each stage in the pipeline requires different tools and processes that allow teams to work together effectively toward achieving their objectives. Version control systems such as Git are used by developers so they can collaborate on changes without overwriting each other’s code; automated test suites ensure quality assurance; continuous integration servers compile all changes into deployable versions quickly; deployment automation tools manage deployments across multiple environments with minimal manual effort; monitoring solutions provide feedback about how applications are performing in production environments - all these elements contribute towards creating an efficient software delivery process for every individual project or product release cycle.
@@ -11,6 +13,8 @@ Each stage in the pipeline requires different tools and processes that allow tea
 Pipelines should also include activities related to communication between stakeholders, including customer service representatives who help customers use products correctly or technical support personnel who resolve problems when things go wrong during operation times. This ensures everyone involved has access to up-to-date information regarding progress made throughout the entire process, which allows teams to stay informed at all times while making sure deadlines are met along the way.
 
 # Key Phases
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1670767944567/E3yQX-4hw.png align="center")
 
 ## Version Control
 
