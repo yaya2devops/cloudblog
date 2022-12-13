@@ -1,6 +1,4 @@
-# Cloud Security | Sentinel And Defender
-
-# Microsoft Sentinel
+# On board to Sentinel And Defender
 
 # Why Sentinel
 
@@ -64,22 +62,15 @@ Workbooks have a wide range of applications, from simple data presentation to co
 
 * * *
 
-# Scenarios
-
-*   Use **Azure Event Hub** to **Continuous export of high severity alerts and retrieval from 3rd party SIEM solution**
-    
-*   Use Diagnostics settings in azure AD and stream to an event hub **to Generate alerts from Azure Active Directory**
-    
-
-* * *
-
 # Defender
-
-![4.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659465659404/5U1XS1SvK.png align="left")
 
 Azure Defender (CSPM) can be thought of as an upgrade to Azure Security Center (ASC), a dashboard available in the Azure portal that provides an overview of all of your assets in Azure and non-Azure environments, as well as a set of scores and recommendations to properly secure them.
 
-**Azure Sentinel** includes a wide range of data connectors. Among them is Azure Defender.
+![4.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659465659404/5U1XS1SvK.png align="left")
+
+Microsoft Sentinel and Defender are two of the most powerful cybersecurity tools available today. They both provide advanced protection against a variety of cyber threats, such as malware, ransomware, phishing scams and more. With their comprehensive suite of features and capabilities, they can help organizations protect themselves from malicious attacks while also providing them with valuable insights into their security posture.
+
+The integration between Azure Sentinel and Defender enables users to access all their security events from one single platform without needing multiple tools for different tasks. This makes it easier for IT teams to identify potential threats across multiple systems at once while reducing costs associated with purchasing additional products or services separately. Additionally, this helps improve overall visibility into an organization's environment so they can respond faster when suspicious activity occurs.
 
 > [Connect Microsoft Defender for Cloud alerts to Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/connect-defender-for-cloud)
 
@@ -96,12 +87,12 @@ Defender comes in a variety of flavors depending on the application; some of the
 
 > [Microsoft Defender for Cloud pricing](https://azure.microsoft.com/en-us/pricing/details/defender-for-cloud/)
 
-Your first step should be with connecting to the data sources that you require. Give it atleast 60 minutes in order to start hunting and looking for insights on the workbooks created.
-
-Honestly, Sentinel is a really powerfull tool for anyone wishing to get more aware and improve his/her work ethics along the way.
+Your first step should be with connecting to the data sources that you require. Give it at least 60 minutes.
 
 * * *
 
 # Conclude
 
-Overall Microsoft Sentinal is a great tool for any organization looking for improved cybersecurity protection while still maintaining control over their IT environment without sacrificing performance or scalability needs! Just care about the costs!
+Microsoft Sentinal is a great tool for any organization looking for improved cybersecurity protection while still maintaining control over its IT environment without sacrificing performance or scalability needs! Just care about the costs!
+
+Furthermore, integrating Azure Sentinel and Defender offers organizations a powerful combination that enhances their ability to protect against cyber attacks.
