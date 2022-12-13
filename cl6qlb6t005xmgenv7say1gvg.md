@@ -2,9 +2,21 @@
 
 # Introduction
 
+Maintaining a clean and organized Microsoft Azure environment is essential for any business. Not only does it ensure that the cloud-based platform runs smoothly, but it also helps to protect your data from unauthorized access or malicious attacks. In this essay, I will discuss three key steps to effectively cleaning up your Microsoft Azure environment.
+
+## Taken steps
+
+From my experience, the first step in cleaning up an Azure environment is ensuring that all resources are properly configured and managed correctly. This includes setting appropriate security policies on all accounts, as well as configuring proper resource groups for each application or service you have running in the cloud platform. Additionally, regularly performing maintenance tasks such as patching systems can help keep everything running optimally and reduce potential risks of attack or exploitation by cyber criminals looking for vulnerabilities in outdated software versions.
+
+The second step involves monitoring usage of resources within the system so you can identify areas where more efficient use could be made of them - such as shutting down unused services which are still consuming valuable compute power unnecessarily – thus reducing costs associated with those services being left idle when not needed.. It’s also important to monitor trends over time; if there’s suddenly a sudden spike in usage then this may indicate something untoward going on which needs further investigation immediately before any damage can be done due to malicious activity taking place without detection until too late!
+
+Finally , keeping track of changes made within the system should be an ongoing process throughout its lifetime. Keeping track allows administrators quickly assess what has changed recently , allowing them address issues swiftly instead having wait while they figure out what was changed last week! This ensures cost savings by avoiding unnecessary downtime caused by misconfigurations resulting unexpected errors occurring during operation.
+
+# Operations
+
 This article describes how to clean AAD devices, user, groups, and Azure resources in an automated manner.
 
-![Untitled design (3).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1660316921234/8XjgUSyOA.png)
+![Untitled design (3).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1660316921234/8XjgUSyOA.png align="left")
 
 > Hint: It will be easier to find related resources if you inspect within the resource groups.
 
@@ -160,4 +172,4 @@ Another great way to get started before cleaning is to expand this [workbook](ht
 
 ### Final Thoughts
 
-As I did, you may encounter an account that has been in sleep mode for a while. So having a clearer vision of what to consider is a good first step. Good luck cleaning up the mess. More investigation is required!
+As I did, you may encounter an account that has been in sleep mode for a while. So having a clearer vision of what to consider is a good first step. By following this article carefully , your business using Microsoft Azures will be able to maintain the environments efficiently with minimal disruption operations due to unplanned outages!
