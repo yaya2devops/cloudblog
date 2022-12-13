@@ -2,7 +2,13 @@
 
 # Microsoft Sentinel
 
-## Overview
+# Why Sentinel
+
+Microsoft Sentinel is an innovative security solution that provides organizations with a comprehensive view of their cybersecurity posture. It leverages the power of cloud computing to provide real-time threat detection and response capabilities, allowing companies to stay ahead of malicious actors and protect their data from being compromised. With its advanced analytics, machine learning algorithms, automated incident response workflows, and integrated reporting features, Microsoft Sentinel helps organizations gain visibility into threats across the entire enterprise so they can act quickly when needed.
+
+It also offers powerful automation capabilities for responding swiftly when incidents do occur—allowing teams more time for proactive measures instead of reactive ones and providing better insights into what happened after an attack occurred so appropriate countermeasures can be taken moving forward..
+
+## Touchpoints
 
 Azure Sentinel is a cloud-native SIEM & SOAR solution that collects data from multiple sources to provide a comprehensive picture of what is going on in your organization.
 
@@ -18,7 +24,7 @@ Azure Sentinel is a cloud-native SIEM & SOAR solution that collects data from mu
 
 ## Architecture
 
-![3.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659465636763/4-lE0GdpO.png)
+![3.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659465636763/4-lE0GdpO.png align="left")
 
 Sentinel is built on top of an analytics workspace, with a machine learning layer added (Intelligence Threat) to investigate and find things clearly and meaningfully in these massive amounts of data.
 
@@ -69,7 +75,7 @@ Workbooks have a wide range of applications, from simple data presentation to co
 
 # Defender
 
-![4.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659465659404/5U1XS1SvK.png)
+![4.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659465659404/5U1XS1SvK.png align="left")
 
 Azure Defender (CSPM) can be thought of as an upgrade to Azure Security Center (ASC), a dashboard available in the Azure portal that provides an overview of all of your assets in Azure and non-Azure environments, as well as a set of scores and recommendations to properly secure them.
 
@@ -96,4 +102,6 @@ Honestly, Sentinel is a really powerfull tool for anyone wishing to get more awa
 
 * * *
 
-> I'd been debating a color for this one **for a while** and couldn't come up with anything creative, haha, I'm including it anyway.
+# Conclude
+
+Overall Microsoft Sentinal is a great tool for any organization looking for improved cybersecurity protection while still maintaining control over their IT environment without sacrificing performance or scalability needs! Just care about the costs!
