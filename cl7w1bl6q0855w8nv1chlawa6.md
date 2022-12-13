@@ -6,7 +6,9 @@ Microsoft also hosts [Build event](https://blog.yahya-abulhaj.dev/microsoft-buil
 
 # Microsoft Ignite
 
-Ignite is a live and online event aimed at professionals and tech enthusiasts looking to advance their careers. The event will feature experts livestreaming their experiences and the technologies that assisted their success, networking, as well as a **challenge** to earn a 165$ exam voucher for free.
+Microsoft Ignite is a conference for IT professionals and those working in technology-related fields. It offers a range of sessions and workshops on various topics, such as cloud computing, data management, and cybersecurity. Attendees can learn about the latest developments and best practices in their field, network with other professionals, and gain valuable insights from industry experts.
+
+Attendees of Microsoft Ignite may have the opportunity to receive an exam voucher as part of their conference experience. Exam vouchers can be used to take certification exams, which can help IT professionals demonstrate their knowledge and expertise in a particular technology or area of study.
 
 *   Coming **12-14 October,** you can register RIGHT NOW.
     
@@ -19,7 +21,7 @@ Ignite is a live and online event aimed at professionals and tech enthusiasts lo
 
 # [Register Here](https://ignite.microsoft.com/en-US/home)
 
-![ignite event.PNG](https://cdn.hashnode.com/res/hashnode/image/upload/v1662819125951/3aNsw2BPI.PNG)
+![ignite event.PNG](https://cdn.hashnode.com/res/hashnode/image/upload/v1662819125951/3aNsw2BPI.PNG align="left")
 
 * * *
 
@@ -43,6 +45,6 @@ Keep doing it, tomorrows knowledge is FUN!
 
 I was pretty excited about [Protect everything challenge](https://learn.microsoft.com/fr-fr/training/challenges?id=7a06394f-6963-44b8-b21c-807c0079fe38&WT.mc_id=cloudskillschallenge_7a06394f-6963-44b8-b21c-807c0079fe38&ocid=cloudskillschallenge_ignite22_email_cnl) , and now that it's finally here, it appears that I've already covered the entirety of the material, lol. Event's over.
 
-![challenge.PNG](https://cdn.hashnode.com/res/hashnode/image/upload/v1665611076757/SmGsmbMAa.PNG)
+![challenge.PNG](https://cdn.hashnode.com/res/hashnode/image/upload/v1665611076757/SmGsmbMAa.PNG align="left")
 
 I will undoubtedly choose another track to complete along the way. Happy learning!
