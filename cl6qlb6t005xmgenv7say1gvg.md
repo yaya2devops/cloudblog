@@ -4,7 +4,7 @@
 
 This article describes how to clean AAD devices, user, groups, and Azure resources in an automated manner.
 
-![Untitled design (3).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1660316921234/8XjgUSyOA.png align="left")
+![Untitled design (3).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1660316921234/8XjgUSyOA.png)
 
 > Hint: It will be easier to find related resources if you inspect within the resource groups.
 
