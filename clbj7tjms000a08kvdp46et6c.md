@@ -4,7 +4,7 @@
 
 The idea of a pipeline is important to any team, as it helps them efficiently complete tasks and move projects forward.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1670767652098/sdEwPc7ke.png)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1670767652098/sdEwPc7ke.png align="center")
 
 A "pipeline" can be defined as the series of steps or stages that must occur for a project to reach completion, each backed by specific tools. The exact nature of this sequence varies from team to team, depending on their specific needs and goals. For example, one development team may have an extensive testing phase, while another might opt for fewer tests but more frequent code reviews.
 
@@ -18,7 +18,7 @@ Pipelines should also include activities related to communication between stakeh
 
 The phases listed below represent a pipeline; tools and names are subject to change. However, the principles do not, therefore the stages emphasize quick interaction, collaboration, and feedback. Speed & Quality.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1670769040125/WDAglyDNz.png)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1670769040125/WDAglyDNz.png align="center")
 
 # Version Control
 
@@ -116,6 +116,8 @@ The following are some of the tools for your deployment workflow
     
 *   Deployinator
     
+
+## Monitoring
 
 One important aspect to consider after deployment is to continuously monitor your system and receive alerts. Monitoring is a top-tier discipline that both DevOps and SRE must be familiar with. It's more for SRE, but I encourage DevOps to have it as well. Monitoring instills awareness.
 
