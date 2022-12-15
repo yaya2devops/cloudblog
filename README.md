@@ -10,6 +10,7 @@ Here where I'll write about some insights and inspiration about cloud, DevOps, i
  
 
 ## Current Blog List
+- [ Why Skype for Business is Good for You](clbpl1cvf000308mfdt2h3df6.md)
 - [Let's Explain a Pipeline](clbj7tjms000a08kvdp46et6c.md)
 - [Microsoft Ignite Event: Free Exam Voucher](cl7w1bl6q0855w8nv1chlawa6.md)
 - [Microsoft Certified: Cybersecurity Architect Expert | Resources](cl7ade2ca01kb9ynvfc4n9me9.md)
