@@ -13,7 +13,6 @@ The advantages of using Skype for Business are numerous; here are just some of t
 
 1.  Increased Productivity - With its integrated tools like audio/video calls over the Internet or through a secure private network connection along with file sharing capabilities make it is easier than ever before to collaborate quickly without having to leave your desk chair! This makes tasks more efficient by reducing travel time between meetings which results in increased productivity overall.
     
-
 2.  Improved Security – As mentioned earlier due to its secure private network connections all data transmitted over these channels remains encrypted making sure only authorized individuals have access thus improving overall security levels within an organization's infrastructure significantly compared to traditional methods where conversations could easily be intercepted by third parties if not properly secured beforehand.
     
 3.  Flexibility & Mobility – One great advantage of using this technology is that users don’t need special equipment installed at their location but rather just an internet connection so they can start collaborating instantly regardless if they're located next door or across the globe allowing them freedom when working remotely which increases employee satisfaction resulting higher job performance rates too!.
