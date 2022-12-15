@@ -1,4 +1,4 @@
-# Why i think Skype for bussiness is good for you
+# Why Skype for Business is Good for You
 
 
 ## Opening
