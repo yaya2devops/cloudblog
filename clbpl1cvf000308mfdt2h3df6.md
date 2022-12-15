@@ -25,8 +25,14 @@ The advantages of using Skype for Business are numerous; here are just some of t
 # Skype or Skype for Business
     
 Skype for business will require expenses compared to free Skype. But is it worthwhile?  
-    
-Skype is a good choice for very small organizations or personal use and it may not provide the security you require for your enterprise. Skype for Business is a version of Skype designed specifically for use in big organizations. It has many features that are not available in the regular version of Skype, such as the ability to add more people to online meetings, enterprise-grade security, and integration with Office apps. 
+
+
+If you are part of a small organization or a personal use, **the regular version of Skype** may be sufficient for your needs and can be used at no cost.
+
+However, it may not provide the security you require for your enterprise.
+
+
+**Skype for Business** is a version of Skype designed specifically for use in big organizations. It has many features that are not available in the regular version of Skype, such as the ability to add more people to online meetings, enterprise-grade security, and integration with Office apps. 
 
 Additionally, it allows administrators to manage employee accounts and control access to the system. If you are a part of a large organization, Skype for Business may be a better option for you.  
       
