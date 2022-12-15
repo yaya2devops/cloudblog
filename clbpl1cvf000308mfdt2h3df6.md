@@ -21,7 +21,8 @@ The advantages of using Skype for Business are numerous; here are just some of t
     
 5.  Easy Integration – Integrating existing applications into skype has become very simple thanks to modern technologies available nowadays so companies don't have to worry about compatibility issues anymore nor spend countless hours trying to figure out how to integrate different systems together saving precious time and resources wasted otherwise doing manual labor-intensive processes manually each day.
     
- # Skype or Skype for Bussiness
+
+# Skype or Skype for Business
     
 Skype for business will require expenses compared to free Skype. But is it worthwhile?  
     
