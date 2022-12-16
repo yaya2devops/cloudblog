@@ -41,9 +41,9 @@ If you are part of a small organization or a personal use, **the regular version
 However, it may not provide the security you require for your enterprise.
 
 
-**Skype for Business** is a version of Skype designed specifically for use in big organizations. It has many features that are not available in the regular version of Skype, such as the ability to add more people to online meetings, enterprise-grade security, and integration with Office apps. 
+**Skype for Business** is a version of Skype designed specifically for use in scale. It has many features that are not available in the regular version of Skype, such as the ability to add more and more people to online meetings, enterprise-grade security, and **integration with Office apps**. 
 
-Additionally, it allows administrators to manage employee accounts and control access to the system. If you are a part of a large organization, Skype for Business may be a better option for you.  
+Additionally, it allows administrators to manage **employee accounts** and control **access to the system**. Skype for Business may be a better option for you.  
       
 
 
