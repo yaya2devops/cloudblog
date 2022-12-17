@@ -10,6 +10,7 @@ Here where I'll write about some insights and inspiration about cloud, DevOps, i
  
 
 ## Current Blog List
+- [KUBERNETES | The Containers Orchestrator](clbs1e9dm000208l8cxnf6khm.md)
 - [ Why Skype for Business is Good for You](clbpl1cvf000308mfdt2h3df6.md)
 - [Let's Explain a Pipeline](clbj7tjms000a08kvdp46et6c.md)
 - [Microsoft Ignite Event: Free Exam Voucher](cl7w1bl6q0855w8nv1chlawa6.md)
@@ -42,7 +43,6 @@ Here where I'll write about some insights and inspiration about cloud, DevOps, i
 ### DevOps
 - [ ] [Cloud Native | The Bigger Picture]()
 - [ ] [YAML]()
-- [ ] [KUBERNETES | The Containers Orchestrator]()
 - [ ] [SRE | Intro]()
 - [ ] [Helm Charts]()
 - [ ] [GitLab For DevOps]()
