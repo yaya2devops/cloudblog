@@ -31,7 +31,7 @@ The control plane is the central management component of the Kubernetes cluster.
 
 Worker nodes are the machines (either physical or virtual) that run the applications and services in the cluster. Each worker node runs a number of components, including:
 
-*   \*\*The kubelet:\*\* This is a process that runs on each node and is responsible for starting, stopping, and managing the containers on that node.
+*   **The kubelet:** This is a process that runs on each node and is responsible for starting, stopping, and managing the containers on that node.
     
 *   **The kube-proxy:** This is a network proxy that runs on each node and is responsible for networking and load balancing across the nodes in the cluster.
     
