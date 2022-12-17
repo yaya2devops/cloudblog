@@ -42,33 +42,6 @@ In a typical Kubernetes deployment, there is a single control plane that manages
 
 Overall, the architecture of Kubernetes is designed to be flexible and scalable, with a decentralized control plane that can manage a large number of worker nodes running a wide variety of applications and services.
 
----
-
-Kubernetes architecture consists of a master node which is responsible for managing the cluster, and worker nodes which run the actual containers. The master node contains all of the necessary components to control the cluster, including the Kubernetes API server, scheduler, controller manager, etcd database, and web UI. The worker nodes are where your application containers actually run. 
-
-
-
-Kubernetes works by grouping containers into logical units called pods. Pods can be deployed onto nodes, which are physical or virtual machines running a Kubernetes agent.
-
-Nodes are managed by a master node, which runs the Kubernetes control plane components responsible for managing the cluster state.
-
-Kubernetes is made up of a number of components, including: 
-- **The Master Node:** This is the control plane for the Kubernetes cluster and is responsible for managing all of the other nodes in the cluster. 
-- **The Worker Nodes:** These are where your application containers actually run. A worker node can be either a physical machine or a virtual machine. 
-
-- **Kubectl:** is a command line interface (CLI) for running commands against Kubernetes clusters. It allows users to manage and configure Kubernetes resources, such as pods, services, and replication controllers. Kubectl also provides several handy features for working with Kubernetes resources, such as autocompletion and syntax highlighting.
-
-The Kubernetes control plane consists of several components, each of which has a specific role to play in managing the cluster: 
-
-- **The API server** exposes an HTTP API used by all other components to communicate with the Kubernetes cluster. 
-
-- **The scheduler** schedules pods onto nodes based on resource requirements and constraints such as labels (e.g., app=web). 
-
-- **The controller manager** contains various controllers that handle routine tasks such as replicating pods or ensuring services are available (i.e., high availability). 
-
-- **etcd** is a key-value store used to store data about the current state of the Kubernetes cluster; this data includes information about pods, services, and deployments
-
----
 
 ## Ways to install Kubernetes
 
