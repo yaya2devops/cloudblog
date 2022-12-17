@@ -8,8 +8,7 @@ Ensure you reviewed my previous article on [Docker](https://blog.yahya-abulhaj.d
 
 Kubernetes has become popular in recent years due to its ability to manage complex deployments on top of scalable infrastructure. Many companies have started using Kubernetes to orchestrate their containerized workloads because it can help them save time and money on operations costs.
 
-# K8S & DevOps  
-  
+# K8S & DevOps
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671297443052/XOgdY_-uW.png align="center")
 
@@ -81,7 +80,7 @@ Regardless of which option you choose, the process of installing Kubernetes gene
 *   **Configure the cluster:** This involves setting up networking, security, and other cluster-wide configurations.
     
 
-Installing Kubernetes can take some time and effort, but the process is well [documented](https://kubernetes.io/docs/home/) and there are a number of resources available to help you get started. Once you have a Kubernetes cluster up and running, you can begin deploying and managing containerized applications with ease.
+Installing Kubernetes can take some time and effort, but the process is well documented, and there are several resources available to help you get started. Once you have a Kubernetes cluster up and running, you can begin deploying and managing containerized applications with ease.
 
 # Commands
 
@@ -144,7 +143,7 @@ To create a deployment using this YAML file, you can use the **kubectl apply** c
 
 `kubectl apply -f deployment.yaml`
 
-> We will have our deep-dive with YAML next.
+> We will have our deep dive with YAML.
 
 This will create a deployment with the specified configuration and deploy it to the cluster. You can use the `kubectl get deployments` command to view the status of the deployment and the `kubectl describe deployment` command to get more detailed information about the deployment.
 
@@ -179,7 +178,7 @@ Once Kubernetes is installed, you can use YAML files to create and manage deploy
 
 Overall, Kubernetes is a powerful and essential tool for deploying and managing applications in a distributed environment, and it is worth considering for any organization that needs to deploy and manage applications at scale. **Adopt DevOps.**
 
-# Continue to innovate  
+# Continue to innovate
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671297664725/XzlYM3nM7.png align="center")
 
