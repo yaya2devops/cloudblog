@@ -143,7 +143,7 @@ spec:
 To create a deployment using this YAML file, you can use the **kubectl apply** command:
 
 ` kubectl apply -f deployment.yaml`
-
+> We will have our deep-dive with YAML next.
 
 This will create a deployment with the specified configuration and deploy it to the cluster. You can use the `kubectl get deployments` command to view the status of the deployment and the `kubectl describe deployment` command to get more detailed information about the deployment.
 
