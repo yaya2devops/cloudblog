@@ -10,6 +10,7 @@ Here where I'll write about some insights and inspiration about cloud, DevOps, i
  
 
 ## Current Blog List
+- [YAML Ain’t Markup Language](clbt8kr19000408l5d0738len.md)
 - [KUBERNETES | The Containers Orchestrator](clbs1e9dm000208l8cxnf6khm.md)
 - [ Why Skype for Business is Good for You](clbpl1cvf000308mfdt2h3df6.md)
 - [Let's Explain a Pipeline](clbj7tjms000a08kvdp46et6c.md)
@@ -42,7 +43,6 @@ Here where I'll write about some insights and inspiration about cloud, DevOps, i
 ## Loading Blog List
 ### DevOps
 - [ ] [Cloud Native | The Bigger Picture]()
-- [ ] [YAML]()
 - [ ] [SRE | Intro]()
 - [ ] [Helm Charts]()
 - [ ] [GitLab For DevOps]()
