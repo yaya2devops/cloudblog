@@ -42,14 +42,15 @@ Here where I'll write about some insights and inspiration about cloud, DevOps, i
 
 ## Loading Blog List
 ### DevOps
-- [ ] [Cloud Native | The Bigger Picture]()
-- [ ] [SRE | Intro]()
-- [ ] [Helm Charts]()
+- [ ] [Helm Charts]()   // 19/12/2022
+- [ ] [Cloud Native | The Bigger Picture]() // 20/12/2022
+- [ ] [Management Config with Ansible]()   // 21/12/2022
+- [ ] [SRE | Intro]()   // 22/12/2022
+- [ ] [Monitoring w/ Prometheus]()  // 22/12/2022
+- [ ] [Automation with Python]()   // 23/12/2022
 - [ ] [GitLab For DevOps]()
 - [ ] [Jenkins For DevOps]()
-- [ ] [Automation with Python]()
-- [ ] [Management Config with Ansible]()
-- [ ] [Monitoring w/ Prometheus]()
+
 
 ### Certification Study Guides
 - [x] [AWS Certified Developer Associate | Resources]()
