@@ -2,8 +2,8 @@
 
 
 
-## Introduction
-If you're working with Kubernetes, you know that it can be challenging to manage and deploy applications on your cluster. That's where Helm comes in. Helm is a package manager for Kubernetes that makes it easy to manage and deploy complex applications.
+# Introduction
+If you're working with Kubernetes, you know that it can be challenging to manage and deploy applications on your cluster. **Helm**is a package manager for Kubernetes that makes it easy to manage and deploy complex applications.
 
 > But, i don't know [Kubernetes?](https://blog.yahya-abulhaj.dev/kubernetes-the-containers-orchestration-engine)
 
@@ -21,7 +21,7 @@ There are several benefits to using Helm i'll mention some of them below.
 
 4- **Community support:** Helm is an active open-source project with a large community of contributors and users.
 
-## How Does Helm Work?
+## Mechanism 
 To use Helm, you first need to install it on your local machine and on your Kubernetes cluster. Once installed, you can search for and install charts from the official Helm repository, or you can create and publish your own charts.
 
 To create your own chart, you can use the `helm create` command, which will generate the basic directory structure and files for you. Then, you can edit the `Chart.yaml` file to specify the chart's name, version, and dependencies. In the templates directory, you can define the Kubernetes resources that make up your application.
