@@ -155,7 +155,7 @@ For more information, you can refer to the amazing Helm documentation [here](htt
 
 
 
-## Close
+# To wrap up
 
 On-DevOps, Helm can be used as a tool to automate the deployment and management of applications on a Kubernetes cluster. With Helm charts to define the desired state of an application, developers can version and manage the application in a reliable and reproducible way, and use Helm to automate the process of deploying and updating the application on the cluster. Moreover, this help organizations to speed up their software delivery process and improve the reliability of their applications.
 
