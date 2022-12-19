@@ -27,7 +27,7 @@ There are several advantages to using Helm, and I'll list a few of them below.
 
 4- **Community support:** Helm is an active open-source project with a large community of contributors and users.
 
-## Mechanism 
+# Mechanism to get you started
 To use Helm, you first need to install it on your local machine and on your Kubernetes cluster. Once installed, you can search for and install charts from the official Helm repository, or you can create and publish your own charts.
 
 To create your own chart, you can use the `helm create` command, which will generate the basic directory structure and files for you. Then, you can edit the `Chart.yaml` file to specify the chart's name, version, and dependencies. In the templates directory, you can define the Kubernetes resources that make up your application.
@@ -38,7 +38,7 @@ To upgrade an existing installation, you can use the `helm upgrade` command, whi
 
 
 
-# Installation
+## Installation
 
 To install Helm, you will need to have access to a Kubernetes cluster and have the `kubectl` command-line tool installed on your local machine.
 
