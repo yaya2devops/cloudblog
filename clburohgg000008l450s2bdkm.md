@@ -37,11 +37,8 @@ Once your chart is complete, you can use the `helm package` command to create a 
 To upgrade an existing installation, you can use the `helm upgrade` command, which allows you to update the chart's version and apply any necessary changes to your Kubernetes resources.
 
 
-# How to get started?
 
-If you're ready to get started with Helm, the first step is to install it on your local machine and on your Kubernetes cluster. From there, you can search for and install charts from the official Helm repository, or you can create and publish your own charts.
-
-## Installation
+# Installation
 
 To install Helm, you will need to have access to a Kubernetes cluster and have the `kubectl` command-line tool installed on your local machine.
 
