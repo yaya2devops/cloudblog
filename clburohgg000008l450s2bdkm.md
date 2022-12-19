@@ -2,16 +2,22 @@
 
 
 
-# Introduction
+# A Brief Timeline
 If you're working with Kubernetes, you know that it can be challenging to manage and deploy applications on your cluster. **Helm**is a package manager for Kubernetes that makes it easy to manage and deploy complex applications.
 
-> But, i don't know [Kubernetes?](https://blog.yahya-abulhaj.dev/kubernetes-the-containers-orchestration-engine)
+- But, i don't know Kubernetes? [Break](https://blog.yahya-abulhaj.dev/kubernetes-the-containers-orchestration-engine)
 
-## What is Helm?
+Helm was originally developed by Deis, a company that provided a platform for deploying and managing applications on Kubernetes. The first version of Helm was released in 2015, and it quickly gained popularity as a tool for managing applications on Kubernetes clusters.
+
+In 2017, Helm was donated to the **Cloud Native Computing Foundation (CNCF)** and became an incubator project. Since then, Helm has continued to evolve and improve, with the release of Helm 2 in 2017 and Helm 3 in 2020.
+
+Helm was designed to be a package manager for **Kubernetes**, similar to package managers like **apt** and **yum** in the Linux world. It allows you to install and manage applications on your Kubernetes cluster using a common set of commands, and it provides versioning and rollback capabilities to help you manage the lifecycle of your applications.
+
+## Understanding Helm
 Helm is an open-source tool that helps you manage and deploy applications on your Kubernetes cluster. It allows you to define, install, and upgrade complex Kubernetes applications, known as Helm charts. A Helm chart is a collection of files that describe how to deploy an application on Kubernetes. It includes all the necessary Kubernetes resources to run the application, such as Deployments, Services, and Ingresses. Helm charts are written in YAML and are organized into a directory structure that includes a Chart.yaml file and templates for each of the Kubernetes resources.
 
 ## Benefits of Using Helm
-There are several benefits to using Helm i'll mention some of them below.
+There are several advantages to using Helm, and I'll list a few of them below.
 
 1- **Define your application as code:** By using Helm charts, you can define your application as code, making it easier to version control and collaborate with your team.
 
