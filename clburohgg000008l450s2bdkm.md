@@ -3,7 +3,7 @@
 
 
 # A Brief Timeline
-If you're working with Kubernetes, you know that it can be challenging to manage and deploy applications on your cluster. **Helm**is a package manager for Kubernetes that makes it easy to manage and deploy complex applications.
+If you're working with Kubernetes, you know that it can be challenging to manage and deploy applications on your cluster. **Helm** is a package manager for Kubernetes that makes it easy to manage and deploy complex applications.
 
 - But, i don't know Kubernetes? [Break](https://blog.yahya-abulhaj.dev/kubernetes-the-containers-orchestration-engine)
 
