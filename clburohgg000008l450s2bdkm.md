@@ -5,7 +5,7 @@
 # A Brief Timeline
 If you're working with Kubernetes, you know that it can be challenging to manage and deploy applications on your cluster. **Helm** is a package manager for Kubernetes that makes it easy to manage and deploy complex applications.
 
-- But, i don't know Kubernetes? [Break](clbs1e9dm000208l8cxnf6khm.md)
+- But, i don't know Kubernetes? [Break](https://blog.yahya-abulhaj.dev/kubernetes-the-containers-orchestration-engine)
 
 Helm was originally developed by Deis, a company that provided a platform for deploying and managing applications on Kubernetes. The first version of Helm was released in 2015, and it quickly gained popularity as a tool for managing applications on Kubernetes clusters.
 
@@ -68,7 +68,7 @@ That's it! You have now installed Helm and are ready to start using it to manage
 
 
 
-## Helm Chart 
+## Helm Chart, The Dive
 Helm charts are a way to package and deploy applications to a Kubernetes cluster. They contain all the information needed to create and manage the desired application, including the configuration and dependencies for the application, as well as the Kubernetes resources required to run it.
 
 Charts are written in a declarative language using  the great YAML, which allows you to specify the desired state of your application. This means that you can describe the desired state of your application in a chart, and Helm will take care of creating and updating the necessary Kubernetes resources to achieve that state.
