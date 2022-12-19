@@ -10,6 +10,7 @@ Here where I'll write about some insights and inspiration about cloud, DevOps, i
  
 
 ## Current Blog List
+- [HELM | The Essential Package Manager for Kubernetes](clburohgg000008l450s2bdkm.md)  
 - [YAML Ain’t Markup Language](clbt8kr19000408l5d0738len.md)
 - [KUBERNETES | The Containers Orchestrator](clbs1e9dm000208l8cxnf6khm.md)
 - [ Why Skype for Business is Good for You](clbpl1cvf000308mfdt2h3df6.md)
@@ -42,7 +43,6 @@ Here where I'll write about some insights and inspiration about cloud, DevOps, i
 
 ## Loading Blog List
 ### DevOps
-- [ ] [Helm Charts]()   // 19/12/2022
 - [ ] [Cloud Native | The Bigger Picture]() // 20/12/2022
 - [ ] [Management Config with Ansible]()   // 21/12/2022
 - [ ] [SRE | Intro]()   // 22/12/2022
