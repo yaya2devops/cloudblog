@@ -33,21 +33,21 @@ Continuous integration and delivery (CI/CD) practices are also used in cloud-nat
 ## The Advantages of Cloud-Native Technologies
 Overall, the adoption of cloud-native approaches offers a number of benefits for organizations:
 
-1- Enhanced scalability: Cloud-native architectures allow applications to be easily scaled up or down based on demand, leveraging the capabilities of the cloud to deliver the required level of performance.
+1- **Enhanced scalability:** Cloud-native architectures allow applications to be easily scaled up or down based on demand, leveraging the capabilities of the cloud to deliver the required level of performance.
 
-2- Improved reliability: Cloud-native are designed to be highly available and resilient, using techniques such as redundancy and self-healing to ensure that applications can continue to operate even in the face of failures.
+2- **Improved reliability:** Cloud-native are designed to be highly available and resilient, using techniques such as redundancy and self-healing to ensure that applications can continue to operate even in the face of failures.
 
-3- Faster development and deployment cycles: The use of microservices and continuous integration and delivery (CI/CD) practices allows for faster development and deployment of code changes, enabling organizations to more quickly respond to changing business needs.
+3- **Faster development and deployment cycles:** The use of microservices and continuous integration and delivery (CI/CD) practices allows for faster development and deployment of code changes, enabling organizations to more quickly respond to changing business needs.
 
-4- Greater flexibility: The use of microservices and containerization allows for greater flexibility in how applications are developed and deployed, making it easier to change and adapt applications over time.
+4- **Greater flexibility:** The use of microservices and containerization allows for greater flexibility in how applications are developed and deployed, making it easier to change and adapt applications over time.
 
-5- Improved portability: **Containers** make it easier to deploy and run applications in different environments, improving portability and reducing the risk of vendor lock-in.
+5- **Improved portability:** **Containers** make it easier to deploy and run applications in different environments, improving portability and reducing the risk of vendor lock-in.
 
-6- Resource efficiency: Containers are resource efficient, allowing organizations to make more efficient use of their compute and storage resources.
+6- **Resource efficiency:** Containers are resource efficient, allowing organizations to make more efficient use of their compute and storage resources.
 
-7- Reduced costs: Cloud-native architectures can help organizations reduce costs by leveraging the pay-as-you-go pricing model of cloud services and by making more efficient use of resources.
+7- **Reduced costs:** Cloud-native architectures can help organizations reduce costs by leveraging the pay-as-you-go pricing model of cloud services and by making more efficient use of resources.
 
-8- Improved security: Cloud-native architectures can help improve security by using techniques such as isolation and least privilege to reduce the attack surface and minimize the risk of security breaches.
+8- **Improved security:** Cloud-native architectures can help improve security by using techniques such as isolation and least privilege to reduce the attack surface and minimize the risk of security breaches.
 
 
 # The Cloud-Native Mindset
