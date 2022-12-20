@@ -55,7 +55,7 @@ Cloud-native approaches, on the other hand, necessitate a mindset shift as well 
 
  
 This include: 
-- Consider the skills and expertise of the current team.
+- Consider the skills and expertise of the development team.
 - Training and upskilling current employees.
 - Adopting new technologies and tools.
 - Rethinking traditional software development processes.
