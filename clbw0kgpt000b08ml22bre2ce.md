@@ -7,7 +7,7 @@ Cloud native is a term that refers to the design and development of applications
 # The Evolution Of Cloud-Native
 The term "cloud native" originated in the early days of cloud computing, when businesses began to recognize the potential benefits of deploying applications and services in the cloud. Early cloud computing adopters focused on using the cloud to offload specific types of workloads, such as batch processing and storage, and to benefit from the cloud infrastructure.
 
-As the popularity of cloud computing grew, it became clear that there were additional gains to be made from designing and developing applications specifically for cloud deployment. As a result, cloud-native architectures emerged, focusing on leveraging cloud capabilities to improve scalability, reliability, and performance.
+As the popularity of cloud computing grew, it became clear that there were additional gains to be made from designing and developing applications specifically for cloud deployment. As a result, cloud-native architectures emerged.
 
 ## Cloud Native Computing Foundation
 
