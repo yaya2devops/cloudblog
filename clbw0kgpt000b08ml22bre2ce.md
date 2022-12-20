@@ -68,7 +68,7 @@ In conclusion, today, Cloud Native is a well-established approach to software de
 
 
 
-#### Related:
+#### Related
 - [Let's Explain a Pipeline](https://blog.yahya-abulhaj.dev/lets-explain-a-pipeline)
 - [YAML Ain’t Markup Language](https://blog.yahya-abulhaj.dev/yaml-aint-markup-language)
 - [KUBERNETES | The Containers Orchestration Engine](https://blog.yahya-abulhaj.dev/kubernetes-the-containers-orchestration-engine)
