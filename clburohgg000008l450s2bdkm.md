@@ -11,9 +11,14 @@ Helm was originally developed by Deis, a company that provided a platform for de
 
 In 2017, Helm was donated to the **Cloud Native Computing Foundation (CNCF)** and became an incubator project. Since then, Helm has continued to evolve and improve, with the release of Helm 2 in 2017 and Helm 3 in 2020.
 
-Helm was designed to be a package manager for **Kubernetes**, similar to package managers like **apt** and **yum** in the Linux world. It allows you to install and manage applications on your Kubernetes cluster using a common set of commands, and it provides versioning and rollback capabilities to help you manage the lifecycle of your applications.
+
+## Managing Dependencies in Software Development
+
+Package managers are important tool in the software development process. They automate the process of installing, upgrading, and managing the dependencies needed by an application. This is particularly useful for large and complex projects, as it ensures that the correct versions of dependencies are installed and available to the application at runtime. Some common examples of package managers include **npm**, which is a package manager for JavaScript that is commonly used to manage the dependencies of Node.js applications,  **pip**, which is a package manager for Python that is used to manage the dependencies of Python applications and back to *apt** and **yum for Linux.
 
 ## Understanding Helm
+Helm was designed to be a package manager for **Kubernetes**, similar to package managers like **apt** and **yum** in the Linux world. It allows you to install and manage applications on your Kubernetes cluster using a common set of commands, and it provides versioning and rollback capabilities to help you manage the lifecycle of your applications.
+
 Helm is an open-source tool that helps you manage and deploy applications on your Kubernetes cluster. It allows you to define, install, and upgrade complex Kubernetes applications, known as Helm charts. A Helm chart is a collection of files that describe how to deploy an application on Kubernetes. It includes all the necessary Kubernetes resources to run the application, such as Deployments, Services, and Ingresses. Helm charts are written in YAML and are organized into a directory structure that includes a Chart.yaml file and templates for each of the Kubernetes resources.
 
 ## Benefits of Using Helm
