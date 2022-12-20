@@ -11,7 +11,7 @@ As the popularity of cloud computing grew, it became clear that there were addit
 
 
 #  Attributes Of Cloud-Native Applications 
-Cloud-native architectures are distinguished by the use of microservices, containerization, and continuous integration and delivery (CI/CD) practices.
+Microservices, containerization, and continuous integration and delivery (CI/CD) practices distinguish cloud-native architectures.  The benefits they offer make them well worth the effort for organizations looking to stay competitive in today's fast-paced business environment
 
 ## Cloud-Native & µServices
 Cloud-native applications uses  the microservices architecture. This involves breaking down a large, monolithic application into smaller, independent services that can be developed, deployed, and managed separately. Each service is designed to perform a specific function and communicates with other services through well-defined APIs. This modular approach allows for greater flexibility and scalability, as individual services can be scaled up or down independently based on demand. It also allows for faster development and deployment cycles, as changes can be made to individual services without the need to rebuild and redeploy the entire application.
