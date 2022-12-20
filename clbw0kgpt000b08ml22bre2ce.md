@@ -9,7 +9,7 @@ The term "cloud native" originated in the early days of cloud computing, when bu
 
 As the popularity of cloud computing grew, it became clear that there were additional gains to be made from designing and developing applications specifically for cloud deployment. As a result, cloud-native architectures emerged, focusing on leveraging cloud capabilities to improve scalability, reliability, and performance.
 
-## CNCF 
+## Cloud Native Computing Foundation
 
 It's also good enough to justify mentioning Cloud Native Computing Foundation, the nonprofit organization that was created to advance the development and adoption of cloud-native technologies. CNCF is home to several open-source projects aimed at enabling cloud-native practices, such as **Kubernetes**, **Prometheus**, and **Envoy**.
 
