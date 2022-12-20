@@ -16,7 +16,7 @@ Welcome to my blog, where I'll be sharing insights and inspiration about cloud c
 # Current Blog List
 I am passionate about staying up-to-date with the latest developments in these fields, and I hope that through my blog, I can help others to do the same. Whether you're just starting out in the tech industry or are a seasoned professional looking to deepen your knowledge, I hope that you will find something of value here. Thank you for stopping by!
 
-- [Unleashing the Power of Cloud-Native Technologies](Unleashing the Power of Cloud-Native Technologies)
+- [Unleashing the Power of Cloud-Native Technologies](clbw0kgpt000b08ml22bre2ce.md )
 - [HELM | The Essential Package Manager for Kubernetes](clburohgg000008l450s2bdkm.md)  
 - [YAML Ain’t Markup Language](clbt8kr19000408l5d0738len.md)
 - [KUBERNETES | The Containers Orchestrator](clbs1e9dm000208l8cxnf6khm.md)
