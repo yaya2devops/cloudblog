@@ -116,7 +116,7 @@ Once these components are in place, you can proceed automating your infrastructu
 3- Execute the playbook
 
 ### Installation on different OS
-Here are the steps to install Ansible on different operating systems:
+Depending on your operating system, I will try to include the necessary requirements. The following are the steps for installing Ansible on various operating systems
 
 #### Installation on Debian/Ubuntu
 
@@ -164,6 +164,7 @@ Install Ansible:
 
 - Once WSL is installed, follow the instructions for your desired Linux distribution (e.g. Debian/Ubuntu, CentOS/RHEL, Fedora) to install Ansible that are mentioned above.
 
+### Automate Your Infrastructure
 Once Installed, action time, you first create an inventory of your servers and write one or more playbooks to define the tasks that you want to run. You can then use the ansible command-line tool to execute the playbooks and apply the desired configuration to your servers.
 
 For example, to install the Apache web server on a group of servers, you could create a playbook like this:
