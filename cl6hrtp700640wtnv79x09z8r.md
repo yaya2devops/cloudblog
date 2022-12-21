@@ -1,4 +1,4 @@
-## Wish_List Certifications
+# Wish_List Certifications
 
 
 # My thoughts on certifications
@@ -8,6 +8,8 @@ Certifications do not work like magic neither the solution. So there is no pass 
 At this point, I've discovered that certs are extremely useful in terms of staying disciplined and adhering to deadlines, which is a high organizational skill itself, in addition to the astounding information you'll learn.
 
 So I'm focusing more on the journey for the sake of progress, and below is the Wishlist I intend to pursue!
+
+Hello, I came to provide you with a link to additional thoughts on certifications; please come visit more momentum from [here](https://github.com/Y4HYA4/ExperienceInCloud#-certifications)!
 
 # Certifications Wish List
 ## Microsoft Azure
