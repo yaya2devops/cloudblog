@@ -159,6 +159,29 @@ Install Ansible:
 
 `sudo dnf install ansible`
 
+#### Installation on MacOS
+
+- To install Ansible on macOS, you can use the pip package manager, which is included with Python. 
+
+`pip3 install ansible`
+
+
+- If you prefer to install Ansible using the brew package manager, you can do so by running the following command:
+
+`brew install ansible`
+
+This will install the latest version of Ansible available in the Homebrew package repository.
+
+- You can also install Ansible from the official Ansible release page on GitHub. To do this, download the desired release as a tar archive, extract the archive, and then run the `setup.py` script to install Ansible.
+
+``` py
+tar -xf ansible-X.Y.Z.tar.gz
+cd ansible-X.Y.Z
+python setup.py install
+```
+
+
+
 #### On Windows
 - Install the Windows Subsystem for Linux (WSL) by following the instructions  [at](https://docs.microsoft.com/en-us/windows/wsl/install-win10).
 
