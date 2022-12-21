@@ -41,7 +41,7 @@ This enables you to define infrastructure and applications in code and then use 
 
 Since we've already covered Terraform, today's article will go over the power of configuration management using one of the well-known, Ansible.
 
-Let's start by asking this question.
+Let's start by asking the question below.
 
 
 ## Why Configuration Management Matters ?
