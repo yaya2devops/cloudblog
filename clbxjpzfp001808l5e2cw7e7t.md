@@ -213,19 +213,19 @@ To run this playbook, you would use the ansible-playbook command, like this:
 This would run the playbook on each of the servers in the inventory file, installing Apache on each of them. Good job!
 
 
-Ansible can also be used to manage users, install software, and deploy applications, among other things. More information and examples can be found in the ansible [documentation](https://docs.ansible.com/) 
+Ansible can also be used to manage users, install software, and deploy applications, among other things. More information and examples can be found in the Ansible [documentation](https://docs.ansible.com/) 
 
-The **Red Hat** documentation as well, RedHat provides support and training for ansible, and offers a range of ansible-based products and services that are designed to help organizations automate and manage their infrastructure and applications. These include the Red Hat Ansible Tower platform, which provides a graphical interface and additional tools for managing and orchestrating ansible tasks.
+I suggest the **Red Hat** documentation as well. RedHat provides support and training for ansible, and offers a range of ansible-based products and services that are designed to help organizations automate and manage their infrastructure and applications. These include the Red Hat Ansible Tower platform, which provides a graphical interface and additional tools for managing and orchestrating ansible tasks.
 
 You may like [this!](https://ansible.ai/)
 
 
 # The Takeaway
-That's it, guys! We covered a lot of great topics, starting with the infrastructure as code and focusing on configuration management, as well as playing with one tool, ansbile, of many!
+That's it, guys! We covered a lot of great topics, starting with the infrastructure as code and focusing on configuration management, as well as playing with one tool, Ansible, of many!
 
 Today, configuration management is a key aspect of DevOps, as it helps organizations to maintain consistent and predictable environments for their applications. By automating the configuration of systems and applications, organizations can ensure that their environments are consistently configured, reducing the risk of errors and downtime.
 
-Further, It is expected that automation tools like ansible will continue to be important in the field of DevOps. As organizations increasingly adopt cloud-native technologies and agile methodologies for software development, there will be an increased need for automation and consistency in their environments. **Adopt DevOps.**
+Further, It is expected that automation tools like Ansible will continue to be important in the field of DevOps. As organizations increasingly adopt cloud-native technologies and agile methodologies for software development, there will be an increased need for automation and consistency in their environments. **Adopt DevOps.**
 
 
 
