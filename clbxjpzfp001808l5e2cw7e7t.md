@@ -122,53 +122,53 @@ Depending on your operating system, I will try to include the necessary requirem
 
 1- Update the package manager index:
 
-`sudo apt update`
+```sudo apt update```
 
 2- Install the software-properties-common package, which includes the add-apt-repository command:
 
-`sudo apt install software-properties-common`
+```sudo apt install software-properties-common```
 
 3- Add the Ansible repository to your system:
 
-`sudo add-apt-repository ppa:ansible/ansible`
+```sudo add-apt-repository ppa:ansible/ansible```
 
 4- Update the package manager index again:
-`sudo apt update`
+```sudo apt update```
 
 5- Install Ansible:
 
-`sudo apt install ansible`
+```sudo apt install ansible```
 
 #### Installation on CentOS/RHEL
 
 Install the EPEL (Extra Packages for Enterprise Linux) repository, which includes Ansible:
 
-`sudo yum install epel-release`
+```sudo yum install epel-release```
 
 Install Ansible:
 
-`sudo yum install ansible`
+```sudo yum install ansible```
 
 
 #### Installation on Fedora
 Install the EPEL repository, which includes Ansible:
 
-`sudo dnf install epel-release`
+```sudo dnf install epel-release```
 
 Install Ansible:
 
-`sudo dnf install ansible`
+```sudo dnf install ansible```
 
 #### Installation on MacOS
 
 - To install Ansible on macOS, you can use the pip package manager, which is included with Python. 
 
-`pip3 install ansible`
+```pip3 install ansible```
 
 
 - If you prefer to install Ansible using the brew package manager, you can do so by running the following command:
 
-`brew install ansible`
+```brew install ansible```
 
 This will install the latest version of Ansible available in the Homebrew package repository.
 
@@ -208,7 +208,7 @@ This playbook consists of a single play that targets the inventory's "webservers
 
 To run this playbook, you would use the ansible-playbook command, like this:
 
-`ansible-playbook -i inventory.txt webserver.yml `
+```ansible-playbook -i inventory.txt webserver.yml ```
 
 This would run the playbook on each of the servers in the inventory file, installing Apache on each of them. Good job!
 
