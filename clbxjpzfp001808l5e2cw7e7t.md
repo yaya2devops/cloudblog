@@ -107,16 +107,64 @@ To get started with ansible, you will need to have the following components in p
 
 - A user account with SSH access to the servers in your inventory. Ansible uses SSH to connect to and manage your servers, so you will need a user account with the necessary permissions.
 
-Once these components are in place, you can proceed automating your infrastructure and applications with ansible.
+Once these components are in place, you can proceed automating your infrastructure and applications.
 
 
-
-
+0- Install Ansible <br>
 1- Create an inventory file<br>
 2- Write a playbook<br>
 3- Execute the playbook
 
-To use ansible, you first create an inventory of your servers and write one or more playbooks to define the tasks that you want to run. You can then use the ansible command-line tool to execute the playbooks and apply the desired configuration to your servers.
+### Installation on different OS
+Here are the steps to install Ansible on different operating systems:
+
+#### Installation on Debian/Ubuntu
+
+1- Update the package manager index:
+
+`sudo apt update`
+
+2- Install the software-properties-common package, which includes the add-apt-repository command:
+
+`sudo apt install software-properties-common`
+
+3- Add the Ansible repository to your system:
+
+`sudo add-apt-repository ppa:ansible/ansible`
+
+4- Update the package manager index again:
+`sudo apt update`
+
+5- Install Ansible:
+
+`sudo apt install ansible`
+
+#### Installation on CentOS/RHEL
+
+Install the EPEL (Extra Packages for Enterprise Linux) repository, which includes Ansible:
+
+`sudo yum install epel-release`
+
+Install Ansible:
+
+`sudo yum install ansible`
+
+
+#### Installation on Fedora
+Install the EPEL repository, which includes Ansible:
+
+`sudo dnf install epel-release`
+
+Install Ansible:
+
+`sudo dnf install ansible`
+
+#### On Windows
+- Install the Windows Subsystem for Linux (WSL) by following the instructions  [at](https://docs.microsoft.com/en-us/windows/wsl/install-win10).
+
+- Once WSL is installed, follow the instructions for your desired Linux distribution (e.g. Debian/Ubuntu, CentOS/RHEL, Fedora) to install Ansible that are mentioned above.
+
+Once Installed, action time, you first create an inventory of your servers and write one or more playbooks to define the tasks that you want to run. You can then use the ansible command-line tool to execute the playbooks and apply the desired configuration to your servers.
 
 For example, to install the Apache web server on a group of servers, you could create a playbook like this:
 
