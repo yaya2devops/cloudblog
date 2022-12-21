@@ -97,7 +97,7 @@ Let's go over some of the key components you should be aware of before you begin
 
 3- **Modules:** These are small programs that are used by ansible to perform specific tasks on your servers. Ansible comes with a large number of built-in modules that cover a wide range of common tasks, such as installing packages, copying files, and creating users.
 
-## Prerequisites 
+##  The Execution with Ansible
 
 To get started with ansible, you will need to have the following components in place:
 
@@ -110,7 +110,7 @@ To get started with ansible, you will need to have the following components in p
 Once these components are in place, you can proceed automating your infrastructure and applications with ansible.
 
 
-##  The Execution with Ansible
+
 
 1- Create an inventory file<br>
 2- Write a playbook<br>
