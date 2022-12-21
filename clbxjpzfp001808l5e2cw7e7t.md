@@ -112,8 +112,8 @@ Once these components are in place, you can proceed automating your infrastructu
 
 ##  The Execution with Ansible
 
-1- Create an inventory file
-2- Write a playbook
+1- Create an inventory file<br>
+2- Write a playbook<br>
 3- Execute the playbook
 
 To use ansible, you first create an inventory of your servers and write one or more playbooks to define the tasks that you want to run. You can then use the ansible command-line tool to execute the playbooks and apply the desired configuration to your servers.
