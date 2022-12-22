@@ -51,25 +51,32 @@ To install Helm, you will need to have access to a Kubernetes cluster and have t
 
 1- First, download the Helm binary from the official website: https://helm.sh/docs/intro/install/
 
-2- Extract the Helm binary and move it to a directory in your PATH, such as `/usr/local/bin`/ 
+2- Extract the Helm binary and move it to a directory in your PATH, such as 
+```
+/usr/local/bin/ 
+```
 
 ```
 tar xvfz helm-v3.4.1-linux-amd64.tar.gz
 mv linux-amd64/helm /usr/local/bin/helm
-
 ```
 
 3- Initialize Helm by installing Tiller, the server-side component of Helm, on your Kubernetes cluster:
 
-`helm init`
+```
+helm init
+```
 
 4- Wait for Tiller to be deployed and ready by running the following command:
-`kubectl --namespace kube-system wait deploy/tiller-deploy --for=condition=available
-`
+```
+kubectl --namespace kube-system wait deploy/tiller-deploy --for=condition=available
+```
 
 5- Verify that Helm is installed and working correctly by listing the available charts:
 
-`helm search`
+```
+helm search
+```
 
 That's it! You have now installed Helm and are ready to start using it to manage and deploy applications on your Kubernetes cluster.
 
@@ -152,8 +159,6 @@ To upgrade your application, you can simply package and install a new version of
 ```
 helm package my-web-app
 helm upgrade my-web-app my-web-app-0.2.0.tgz
-
-
 ```
 
 That's a basic example of how to use a Helm chart to deploy an application on Kubernetes. 
