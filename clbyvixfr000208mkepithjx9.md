@@ -11,9 +11,9 @@ At the time, Google's systems were rapidly expanding, and the company was facing
 
 
 Google's SRE team was primarily in charge of:
-- Monitoring the systems 
-- Automating tasks
-- Responding to incidents
+- **M**onitoring the systems 
+- **A**utomating tasks
+- **R**esponding to incidents
 
 They also worked to **continuously improve** the systems' reliability and scalability by modifying the architecture and introducing new tools and technologies. 
 
@@ -51,7 +51,7 @@ Some of the key principles and practices of SRE include the following:
 
 **SoundCloud engineers** created Prometheus in 2012 as a way to monitor the performance of their systems and services. It gained popularity quickly and was adopted by other organizations. The CNCF approved it as a project in 2015, and it has since been actively developed and maintained by a large community of users and contributors.
 
-Prometheus development is guided by a set of principles that prioritize simplicity, robustness, and usability. It is intended to be scalable and capable of handling large amounts of data as well as a high volume of queries. It also has a set of integrations with other tools and systems, making it simple to use in a variety of settings.
+**P**rometheus development is guided by a set of principles that prioritize simplicity, robustness, and usability. It is intended to be scalable and capable of handling large amounts of data as well as a high volume of queries. It also has a set of integrations with other tools and systems, making it simple to use in a variety of settings.
 
 Let us explain what makes it a worthwhile consideration!
 
@@ -75,15 +75,15 @@ Prometheus has several key features that make it an appealing choice, incl:
 ## Workflow Prior To The Jump
 In order to effectively implement this tool and ensure a smooth workflow, I will provide a detailed explanation of the process. Then, we will move forward and complete each step in a step-by-step manner, carefully following the guidelines and paying close attention to detail in order to achieve the desired results!
 
-1- Install Prometheus: You can install Prometheus on your own server or use a managed service such as Prometheus as a Service.
+1- **Install Prometheus:** You can install Prometheus on your own server or use a managed service such as Prometheus as a Service.
 
-2- Configure Prometheus: After installing Prometheus, you will need to configure it to collect metrics from the target systems and applications that you want to monitor. You can do this using configuration files and command-line flags.
+2- **Configure Prometheus:** After installing Prometheus, you will need to configure it to collect metrics from the target systems and applications that you want to monitor. You can do this using configuration files and command-line flags.
 
-3- Set up targets: To collect metrics, Prometheus needs to know which systems and applications to scrape for data. You can set up targets using configuration files or the Prometheus web interface.
+3- **Set up targets:** To collect metrics, Prometheus needs to know which systems and applications to scrape for data. You can set up targets using configuration files or the Prometheus web interface.
 
-4- Set up alerts: Prometheus includes a powerful alerting system that allows you to set up rules and notifications for any kind of behavior or anomaly. You can set up alerts using configuration files or the Prometheus web interface.
+4- **Set up alerts:** Prometheus includes a powerful alerting system that allows you to set up rules and notifications for any kind of behavior or anomaly. You can set up alerts using configuration files or the Prometheus web interface.
 
-5- Visualize and analyze data: Prometheus includes a flexible query language and a range of visualization tools that allow you to analyze and understand your metrics data. You can use these tools to create graphs, dashboards, and alerts.
+5- **Visualize and analyze data:** Prometheus includes a flexible query language and a range of visualization tools that allow you to analyze and understand your metrics data. You can use these tools to create graphs, dashboards, and alerts.
 
 
 
