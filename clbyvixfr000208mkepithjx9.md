@@ -144,13 +144,15 @@ This configuration file specifies two scrape jobs: one for the Prometheus server
 
 That's it! GreatJob. You can verify that Prometheus is running by visiting http://localhost:9090 in your web browser. The Prometheus UI should now be accessible.
 
-Start your monitoring Journey, at this level, you can proceed doing the following:
+Start your monitoring Journey!
+
+At this level, you can proceed doing the following:
 - Set up alerts and create Alert rules.
 -  Visualize and analyze data.
 -  Monitor Third party Applications
 - Collect Metrics 
 
-If you want to improve your monitoring practices, or if you are just getting started with monitoring and want to find a reliable and effective tool, you should definitely consider using Prometheus. Prometheus has a lot to offer, whether you are a seasoned veteran or a newcomer to the field, and can help you take your monitoring efforts to the next level.
+By following the steps outlined in this blog, you should now have a fully functional Prometheus setup that is capable of collecting and visualizing metrics from your infrastructure.
 
 # Synopsis
 
