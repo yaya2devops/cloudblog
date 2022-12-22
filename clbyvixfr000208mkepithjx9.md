@@ -160,8 +160,6 @@ scrape_configs:
   - job_name: 'node_exporter'
     static_configs:
       - targets: ['localhost:9100']
-
-
 ```
 
 
@@ -171,7 +169,6 @@ This configuration file specifies two scrape jobs: one for the Prometheus server
 
 ```
  ./prometheus --config.file=<path to your config file> 
-
 ```
 
 for Windows, instead of `./prometheus ` use `prometheus.exe` <br> 
