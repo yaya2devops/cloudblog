@@ -90,12 +90,30 @@ In order to effectively implement this tool and ensure a smooth workflow, I will
 # The Jump
 The step-by-step instructions provided below will help you effectively get started with the Prometheus system. These steps will walk you through the process of installing and configuring Prometheus, ensuring that you can use the tool once it is up and running.
 
-
+## Linux-Based OS
 1- Download the latest release of Prometheus from the [official Prometheus website](https://prometheus.io/download/). You can either download a pre-built binary or build Prometheus from source.
 
 2- Extract the downloaded archive and navigate to the directory containing the Prometheus executable.
 
+```
+tar xvfz prometheus-*.tar.gz
+cd prometheus-*
+```
 
+3- Run the Prometheus binary:
+```
+./prometheus
+```
+
+## Windows-Based OS
+The initial step is same, which is to install from the provided link.
+
+2- Extract the downloaded archive and navigate to the directory using the command prompt:
+
+```cd C:\path\to\prometheus-*```
+
+3- Run the Prometheus binary:
+```prometheus.exe ```
 ## Create a configuration file for Prometheus. 
 
 You can use the `prometheus.yml.example file` as a starting point and customize it to suit your needs. 
@@ -145,6 +163,10 @@ This configuration file specifies two scrape jobs: one for the Prometheus server
 
 
 That's it! GreatJob. You can verify that Prometheus is running by visiting http://localhost:9090 in your web browser. The Prometheus UI should now be accessible.
+
+By default, Prometheus will listen on port 9090 for incoming metrics. You can use the `--web.listen-address` flag to specify a different port or IP address.
+
+> To set up Prometheus as a service, you can use a process manager such as **Systemd** or **Upstart**.
 
 Start your monitoring Journey!
 Some common use cases for Prometheus include monitoring the performance of servers, tracking the health of applications, and monitoring the usage of resources such as CPU, memory, and disk space. You can gain valuable insights into the performance and health of your systems and be better prepared to handle any issues that may arise.
