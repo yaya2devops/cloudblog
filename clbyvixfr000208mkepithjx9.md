@@ -110,10 +110,15 @@ The initial step is same, which is to install from the provided link.
 
 2- Extract the downloaded archive and navigate to the directory using the command prompt:
 
-```cd C:\path\to\prometheus-*```
+```
+cd C:\path\to\prometheus-*
+```
 
 3- Run the Prometheus binary:
-```prometheus.exe ```
+```
+prometheus.exe
+ ```
+
 ## Create a configuration file for Prometheus. 
 
 You can use the `prometheus.yml.example file` as a starting point and customize it to suit your needs. 
@@ -158,7 +163,18 @@ This configuration file specifies two scrape jobs: one for the Prometheus server
 
 5- Start the Prometheus server using the following command:
 
-``` ./prometheus --config.file=<path to your config file> ```
+```
+ ./prometheus --config.file=<path to your config file> 
+
+```
+
+for Windows, instead of `./prometheus ` use `prometheus.exe` <br> 
+Example:
+
+```
+prometheus.exe --config.file=prometheus.yml
+```
+
 
 
 
@@ -167,6 +183,11 @@ That's it! GreatJob. You can verify that Prometheus is running by visiting http:
 By default, Prometheus will listen on port 9090 for incoming metrics. You can use the `--web.listen-address` flag to specify a different port or IP address.
 
 > To set up Prometheus as a service, you can use a process manager such as **Systemd** or **Upstart**.
+
+| Prometheus as a service  |   Solution| 
+|---|---|---|
+| Windows  |  use the 'sc' utility ex;  `sc create Prometheus binPath= "C:\path\to\prometheus.exe"`|
+| Linux  |   Use process manager such as **Systemd** or **Upstart** |
 
 Start your monitoring Journey!
 Some common use cases for Prometheus include monitoring the performance of servers, tracking the health of applications, and monitoring the usage of resources such as CPU, memory, and disk space. You can gain valuable insights into the performance and health of your systems and be better prepared to handle any issues that may arise.
