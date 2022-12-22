@@ -7,7 +7,7 @@
 
 Site reliability engineering (SRE) is a discipline that combines software engineering and operations to ensure the reliability and scalability of a system. Google first applied it in 2003 to enhance the reliability of the company's systems and services.
 
-At the time, Google's systems were rapidly expanding at the time, and the company was facing increasing challenges in maintaining their dependability. To address this, Google formed a team of engineers in charge of both developing and operating the systems. Site reliability engineers were the title given to these engineers (SREs)!
+At the time, Google's systems were rapidly expanding at the time, and the company was facing increasing challenges in maintaining their dependability. To address this, Google formed a team of engineers in charge of both developing and operating the systems. Site reliability engineers (SREs) were the title given to these engineers.
 
 
 Google's SRE team was primarily in charge of:
@@ -15,7 +15,7 @@ Google's SRE team was primarily in charge of:
 - Automating tasks
 - Responding to incidents.
 
-They also worked to continuously improve the systems' reliability and scalability by modifying the architecture and introducing new tools and technologies. 
+They also worked to **continuously improve** the systems' reliability and scalability by modifying the architecture and introducing new tools and technologies. 
 
 
 SRE has gained widespread acclaim in the tech industry since its inception. Many businesses now have SRE teams in place to ensure the reliability of their systems and services. Other disciplines, such as site reliability architecture (SRA) and site reliability management, have been inspired by SRE (SRM).
@@ -25,7 +25,7 @@ I recommend this Google resource for more on SRE: [https://sre.google/](https://
 
 ## SRE, Essential Principles
 
-SRE's goal is to improve system performance by applying engineering principles to its operations, which are listed below:
+The primary goal of SRE is to use engineering principles to improve the performance of a system's operations. This involves a variety of approaches and techniques, all of which are designed to ensure that the system is running efficiently and effectively. Some of the key principles and practices of SRE include the following:
 
 
 - **Automation is key:** SRE teams use automation to perform tasks that are repetitive, error-prone, or time-consuming. This allows them to focus on more important tasks and helps to reduce the risk of human error.
@@ -36,7 +36,7 @@ SRE's goal is to improve system performance by applying engineering principles t
 
 - **Continuous improvement:** SRE teams are focused on continuously improving the reliability and scalability of the system. This can involve implementing changes to the system's architecture, introducing new tools and technologies, or redesigning processes to make them more efficient.
 
-- **Reliability is a feature:** SRE teams view reliability as a critical feature of the system, and they prioritize it accordingly. They use a variety of **tools and techniques** to monitor the system and detect issues, and they take action to prevent outages and improve the overall reliability of the system.
+- **Reliability is a feature:** SRE teams view reliability as a critical feature of the system, and they prioritize it accordingly. They use a variety of **tools and techniques** to **monitor the system** and detect issues, and they take action to prevent outages and improve the overall reliability of the system.
 
 
 **Promethus**, the CNCF open source project, is one of the leading monitoring systems. Let's get begin!
@@ -44,7 +44,7 @@ SRE's goal is to improve system performance by applying engineering principles t
 
 # Get to Know Promethus
 
-Prometheus is a time series database  monitoring system, Yes, once again, the result of an open-source-driven community. The development of Prometheus has been heavily influenced by the community, and it continues to be an actively developed and supported project.
+**P**rometheus is a time series database  monitoring system, Yes, once again, the result of an open-source-driven community. The development of Prometheus has been heavily influenced by the community, and it continues to be an actively developed and supported project.
 
 
 SoundCloud engineers created Prometheus in 2012 as a way to monitor the performance of their systems and services. It gained popularity quickly and was adopted by other organizations. The CNCF approved it as a project in 2015, and it has since been actively developed and maintained by a large community of users and contributors.
@@ -152,7 +152,7 @@ If you want to improve your monitoring practices, or if you are just getting sta
 
 # Synopsis
 
-While SRE and DevOps have different focuses, they often overlap in practice and can be complementary to each other.  SRE teams may use DevOps practices such as continuous delivery and automation to improve the reliability of the system. Similarly, DevOps teams may adopt SRE principles such as error budgets and monitoring to ensure the reliability and performance of the system.
+While **S**RE and **D**evOps have different focuses, they often overlap in practice and can be complementary to each other.  SRE teams may use DevOps practices such as continuous delivery and automation to improve the reliability of the system. Similarly, DevOps teams may adopt SRE principles such as error budgets and monitoring to ensure the reliability and performance of the system.
 
 The moral, don't limit yourself to a specific job role; be curious and strive to learn as much as you can in order to provide value to your team and organization. and eventually the world.
 
