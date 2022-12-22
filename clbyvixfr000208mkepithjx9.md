@@ -145,8 +145,9 @@ This configuration file specifies two scrape jobs: one for the Prometheus server
 That's it! GreatJob. You can verify that Prometheus is running by visiting http://localhost:9090 in your web browser. The Prometheus UI should now be accessible.
 
 Start your monitoring Journey!
+Some common use cases for Prometheus include monitoring the performance of servers, tracking the health of applications, and monitoring the usage of resources such as CPU, memory, and disk space. You can gain valuable insights into the performance and health of your systems and be better prepared to handle any issues that may arise.
 
-At this level, you can proceed doing the following:
+At this level, you can proceed doing these steps:
 - Set up alerts and create Alert rules.
 -  Visualize and analyze data.
 -  Monitor Third party Applications
