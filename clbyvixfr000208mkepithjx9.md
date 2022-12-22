@@ -39,7 +39,7 @@ The primary goal of SRE is to use engineering principles to improve the performa
 - **Reliability is a feature:** SRE teams view reliability as a critical feature of the system, and they prioritize it accordingly. They use a variety of **tools and techniques** to **monitor the system** and detect issues, and they take action to prevent outages and improve the overall reliability of the system.
 
 
-**Promethus**, the CNCF open source project, is one of the leading monitoring systems. Let's get begin!
+**Prometheus**, the open source project from the Cloud Native Computing Foundation (CNCF), is widely recognized as one of the top monitoring systems available. With its powerful features and open-source nature, it is a popular choice among professionals looking to improve their monitoring practices. So, if you're ready to get started with Prometheus and take your monitoring efforts to the next level, let's get started!
 
 
 # Get to Know Promethus
