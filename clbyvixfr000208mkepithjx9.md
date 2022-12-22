@@ -203,7 +203,7 @@ At this level, you can proceed doing these steps:
 -  Monitor Third party Applications
 - Collect Metrics 
 
-By following the steps outlined in this blog, you should now have a fully functional Prometheus setup that is capable of collecting and visualizing metrics from your infrastructure.
+By following the steps outlined in this article, you should now have a fully functional Prometheus setup that is capable of collecting and visualizing metrics from your infrastructure. Well done!
 
 # Synopsis
 
