@@ -15,7 +15,7 @@ Google's SRE team was primarily in charge of:
 - Automating tasks
 - Responding to incidents.
 
-They also worked to continuously improve the systems' reliability and scalability by modifying the architecture and introducing new tools and technologies. **Prometheus** was chosen for this article.
+They also worked to continuously improve the systems' reliability and scalability by modifying the architecture and introducing new tools and technologies. 
 
 
 SRE has gained widespread acclaim in the tech industry since its inception. Many businesses now have SRE teams in place to ensure the reliability of their systems and services. Other disciplines, such as site reliability architecture (SRA) and site reliability management, have been inspired by SRE (SRM).
