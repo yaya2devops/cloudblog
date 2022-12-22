@@ -212,7 +212,7 @@ While **S**RE and **D**evOps have different focuses, they often overlap in pract
 The purpose behind writing this, don't limit yourself to a specific job role; be curious and strive to learn as much as you can in order to provide value to your team and organization. and eventually the world.
 
 
-I hope you've enjoyed learning about SRE, which I find personally very rewarding. It has been a pleasure to share my knowledge and experience with you today, and I hope you now have a better understanding of what SRE is and how it can be used in practice. With that, I believe we have covered great topics for today, so I will call our session to a close. Thank you for your time and consideration; I hope you will continue to investigate and learn more about SRE and DevOps in the future.
+I hope you've enjoyed learning about SRE, which I find personally very rewarding. It has been a pleasure to share my knowledge and experience with you today, and I hope you now have a better understanding of what SRE is and how it can be used in practice. With that, I believe we have covered great topics, so I will call our session to a close. Thank you for your time and consideration; I hope you will continue to investigate and learn more about SRE and DevOps in the future.
 
 
 
