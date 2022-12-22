@@ -192,7 +192,9 @@ By default, Prometheus will listen on port 9090 for incoming metrics. You can us
 | **Windows**  |  use the 'sc' utility ex: <br>`sc create Prometheus binPath= "C:\path\to\prometheus.exe"`|
 | **Linux**  |   Use process manager such as **Systemd** or **Upstart** |
 
-Start your monitoring Journey!
+
+## Good Step Ahead!
+You can now start your monitoring Journey!
 Some common use cases for Prometheus include monitoring the performance of servers, tracking the health of applications, and monitoring the usage of resources such as CPU, memory, and disk space. You can gain valuable insights into the performance and health of your systems and be better prepared to handle any issues that may arise.
 
 At this level, you can proceed doing these steps:
