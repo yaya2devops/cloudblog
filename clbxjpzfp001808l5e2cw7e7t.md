@@ -118,7 +118,7 @@ Once these components are in place, you can proceed automating your infrastructu
 ### Installation on different OS
 Depending on your operating system, I will try to include the necessary requirements. The following are the steps for installing Ansible on various operating systems
 
-#### Installation on Debian/Ubuntu
+#### Debian/Ubuntu
 
 1- Update the package manager index:
 
@@ -149,7 +149,7 @@ sudo apt update
 sudo apt install ansible
 ```
 
-#### Installation on CentOS/RHEL
+#### CentOS/RHEL
 
 Install the EPEL (Extra Packages for Enterprise Linux) repository, which includes Ansible:
 
@@ -164,7 +164,7 @@ sudo yum install ansible
 ```
 
 
-#### Installation on Fedora
+#### Fedora
 Install the EPEL repository, which includes Ansible:
 
 ```
@@ -177,7 +177,7 @@ Install Ansible:
 sudo dnf install ansible
 ```
 
-#### Installation on MacOS
+#### MacOS
 
 - To install Ansible on macOS, you can use the pip package manager, which is included with Python. 
 
@@ -204,7 +204,7 @@ python setup.py install
 
 
 
-#### On Windows
+#### Windows
 - Install the Windows Subsystem for Linux (WSL) by following the instructions  [at](https://docs.microsoft.com/en-us/windows/wsl/install-win10).
 
 - Once WSL is installed, follow the instructions for your desired Linux distribution (e.g. Debian/Ubuntu, CentOS/RHEL, Fedora) to install Ansible that are mentioned above.
