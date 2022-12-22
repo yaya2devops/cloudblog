@@ -13,7 +13,7 @@ At the time, Google's systems were rapidly expanding, and the company was facing
 Google's SRE team was primarily in charge of:
 - Monitoring the systems 
 - Automating tasks
-- Responding to incidents.
+- Responding to incidents
 
 They also worked to **continuously improve** the systems' reliability and scalability by modifying the architecture and introducing new tools and technologies. 
 
