@@ -182,12 +182,12 @@ That's it! GreatJob. You can verify that Prometheus is running by visiting http:
 
 By default, Prometheus will listen on port 9090 for incoming metrics. You can use the `--web.listen-address` flag to specify a different port or IP address.
 
-> To set up Prometheus as a service, you can use a process manager such as **Systemd** or **Upstart**.
+
 
 | Prometheus as a service  |   Solution| 
 |---|---|---|
-| Windows  |  use the 'sc' utility ex;  `sc create Prometheus binPath= "C:\path\to\prometheus.exe"`|
-| Linux  |   Use process manager such as **Systemd** or **Upstart** |
+| **Windows**  |  use the 'sc' utility ex: <br>`sc create Prometheus binPath= "C:\path\to\prometheus.exe"`|
+| **Linux**  |   Use process manager such as **Systemd** or **Upstart** |
 
 Start your monitoring Journey!
 Some common use cases for Prometheus include monitoring the performance of servers, tracking the health of applications, and monitoring the usage of resources such as CPU, memory, and disk space. You can gain valuable insights into the performance and health of your systems and be better prepared to handle any issues that may arise.
