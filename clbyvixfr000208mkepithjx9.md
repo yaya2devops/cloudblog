@@ -90,7 +90,13 @@ In order to effectively implement this tool and ensure a smooth workflow, I will
 # The Jump
 The step-by-step instructions provided below will help you effectively get started with the Prometheus system. These steps will walk you through the process of installing and configuring Prometheus, ensuring that you can use the tool once it is up and running.
 
+Although I provided instructions for both Windows and Linux, you should consider doing this work in a linux-based virtual machine. You can do it right now by clicking on this [link](https://blog.yahya-abulhaj.dev/containers-docker-or-what-exactly-is-that#heading-virtual-machines).
+
+- Linux powers 95% of the servers that host the world's top one million domains.
+
 ## Linux-Based OS
+
+
 1- Download the latest release of Prometheus from the [official Prometheus website](https://prometheus.io/download/). You can either download a pre-built binary or build Prometheus from source.
 
 2- Extract the downloaded archive and navigate to the directory containing the Prometheus executable.
