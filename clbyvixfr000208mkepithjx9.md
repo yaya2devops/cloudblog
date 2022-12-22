@@ -98,7 +98,9 @@ The step-by-step instructions provided below will help you effectively get start
 
 ## Create a configuration file for Prometheus. 
 
-You can use the prometheus.yml.example file as a starting point and customize it to suit your needs. Or you can create your just right now! 
+You can use the `prometheus.yml.example file` as a starting point and customize it to suit your needs. 
+
+Let's create yours just right now! 
 
 You will need to create a`  .yml`  file that specifies the configuration options for your Prometheus server. Here are guidelines for creating a configuration file for Prometheus:
 
