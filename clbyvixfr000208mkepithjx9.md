@@ -28,18 +28,18 @@ I recommend this Google resource for more on SRE: [https://sre.google/](https://
 SRE's goal is to improve system performance by applying engineering principles to its operations, which are listed below:
 
 
-Automation is key: SRE teams use automation to perform tasks that are repetitive, error-prone, or time-consuming. This allows them to focus on more important tasks and helps to reduce the risk of human error.
+- **Automation is key:** SRE teams use automation to perform tasks that are repetitive, error-prone, or time-consuming. This allows them to focus on more important tasks and helps to reduce the risk of human error.
 
-Error budgets: SRE teams allocate a certain percentage of their time to proactive tasks such as improving the system's reliability, and the rest of the time is reserved for reactive tasks such as responding to issues. This is known as an error budget, and it helps the team prioritize tasks and ensure that the system remains reliable over time.
+- **Error budgets:** SRE teams allocate a certain percentage of their time to proactive tasks such as improving the system's reliability, and the rest of the time is reserved for reactive tasks such as responding to issues. This is known as an error budget, and it helps the team prioritize tasks and ensure that the system remains reliable over time.
 
-Use of data: SRE teams rely heavily on data to understand the performance of the system and identify patterns or trends that may indicate a problem. They use tools such as application performance monitoring (APM) tools, infrastructure monitoring tools, and log analysis tools to collect and analyze data.
+- **Use of data:** SRE teams rely heavily on data to understand the performance of the system and identify patterns or trends that may indicate a problem. They use tools such as application performance monitoring (APM) tools, infrastructure monitoring tools, and log analysis tools to collect and analyze data.
 
-Continuous improvement: SRE teams are focused on continuously improving the reliability and scalability of the system. This can involve implementing changes to the system's architecture, introducing new tools and technologies, or redesigning processes to make them more efficient.
+- **Continuous improvement:** SRE teams are focused on continuously improving the reliability and scalability of the system. This can involve implementing changes to the system's architecture, introducing new tools and technologies, or redesigning processes to make them more efficient.
 
-Reliability is a feature: SRE teams view reliability as a critical feature of the system, and they prioritize it accordingly. They use a variety of **tools and techniques** to monitor the system and detect issues, and they take action to prevent outages and improve the overall reliability of the system.
+- **Reliability is a feature:** SRE teams view reliability as a critical feature of the system, and they prioritize it accordingly. They use a variety of **tools and techniques** to monitor the system and detect issues, and they take action to prevent outages and improve the overall reliability of the system.
 
 
-Promethus, the CNCF open source project, is one of the present monitoring systems. Let's get begin!
+**Promethus**, the CNCF open source project, is one of the leading monitoring systems. Let's get begin!
 
 
 # Get to Know Promethus
