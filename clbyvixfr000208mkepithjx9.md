@@ -71,7 +71,7 @@ Prometheus has several key features that make it an appealing choice, incl:
 
 
 ## Workflow Prior To The Jump
-
+In order to effectively implement this tool and ensure a smooth workflow, I will provide a detailed explanation of the process. Then, we will move forward and complete each step in a step-by-step manner, carefully following the guidelines and paying close attention to detail in order to achieve the desired results!
 
 1- Install Prometheus: You can install Prometheus on your own server or use a managed service such as Prometheus as a Service.
 
@@ -86,7 +86,7 @@ Prometheus has several key features that make it an appealing choice, incl:
 
 
 # The Jump
-The following is an outline of the steps to install Prometheus on a Linux-based system as are the majority of servers.
+The step-by-step instructions provided below will help you effectively get started with the Prometheus system. These steps will walk you through the process of installing and configuring Prometheus, ensuring that you can use the tool once it is up and running.
 
 
 1- Download the latest release of Prometheus from the [official Prometheus website](https://prometheus.io/download/). You can either download a pre-built binary or build Prometheus from source.
@@ -148,16 +148,18 @@ Start your monitoring Journey, at this level, you can proceed doing the followin
 -  Monitor Third party Applications
 - Collect Metrics 
 
-Whether you are just getting started with monitoring or are looking to improve your existing monitoring practices, **Prometheus** is definitely worth considering.
+If you want to improve your monitoring practices, or if you are just getting started with monitoring and want to find a reliable and effective tool, you should definitely consider using Prometheus. Prometheus has a lot to offer, whether you are a seasoned veteran or a newcomer to the field, and can help you take your monitoring efforts to the next level.
 
 # Synopsis
-
-That should do it for today! I had the pleasure of taking you to a great discipline that I enjoy doing, SRE!
-
 
 While SRE and DevOps have different focuses, they often overlap in practice and can be complementary to each other.  SRE teams may use DevOps practices such as continuous delivery and automation to improve the reliability of the system. Similarly, DevOps teams may adopt SRE principles such as error budgets and monitoring to ensure the reliability and performance of the system.
 
 The moral, don't limit yourself to a specific job role; be curious and strive to learn as much as you can in order to provide value to your team and organization. and eventually the world.
+
+
+I hope you've enjoyed learning about SRE, which I find personally very rewarding. It has been a pleasure to share my knowledge and experience with you today, and I hope you now have a better understanding of what SRE is and how it can be used in practice. With that, I believe we have covered great topics for today, so I will call our session to a close. Thank you for your time and consideration; I hope you will continue to investigate and learn more about SRE and DevOps in the future.
+
+
 
 
 
