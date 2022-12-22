@@ -23,7 +23,7 @@ SRE has gained widespread acclaim in the tech industry since its inception. Many
 I recommend this Google resource for more on SRE: [https://sre.google/](https://sre.google/)
 
 
-## SRE, Essential Principles
+## SRE, Core Values
 
 The primary goal of SRE is to use engineering principles to improve the performance of a system's operations. This involves a variety of approaches and techniques, all of which are designed to ensure that the system is running efficiently and effectively. 
 
@@ -57,7 +57,7 @@ Let us explain what makes it a worthwhile consideration!
 
 ## Features For Your Note
 
-Prometheus has several key features that make it an appealing choice, incl:
+Prometheus has several features that make it an appealing choice, incl:
 
 - **Flexible query language:** Prometheus has a powerful query language that allows users to define custom metrics and alerts based on their specific needs.
 
