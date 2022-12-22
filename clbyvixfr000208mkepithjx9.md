@@ -7,7 +7,7 @@
 
 Site reliability engineering (SRE) is a discipline that combines software engineering and operations to ensure the reliability and scalability of a system. Google first applied it in 2003 to enhance the reliability of the company's systems and services.
 
-At the time, Google's systems were rapidly expanding at the time, and the company was facing increasing challenges in maintaining their dependability. To address this, Google formed a team of engineers in charge of both developing and operating the systems. Site reliability engineers (SREs) were the title given to these engineers.
+At the time, Google's systems were rapidly expanding, and the company was facing increasing challenges in maintaining their dependability. To address this, Google formed a team of engineers in charge of both developing and operating the systems. Site reliability engineers (SREs) were the title given to these engineers.
 
 
 Google's SRE team was primarily in charge of:
