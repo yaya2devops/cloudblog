@@ -90,7 +90,7 @@ In order to effectively implement this tool and ensure a smooth workflow, I will
 # The Jump
 The step-by-step instructions provided below will help you effectively get started with the Prometheus system. These steps will walk you through the process of installing and configuring Prometheus, ensuring that you can use the tool once it is up and running.
 
-Although I provided instructions for both Windows and Linux, you should consider doing this work in a linux-based virtual machine. You can do it right now by clicking on this [link](https://blog.yahya-abulhaj.dev/containers-docker-or-what-exactly-is-that#heading-virtual-machines).
+Although I provided instructions for both Windows and Linux, you should consider doing this work in a linux-based system. You can do it right now by trying VMs for free from this [link!](https://blog.yahya-abulhaj.dev/containers-docker-or-what-exactly-is-that#heading-virtual-machines).
 
 - Linux powers 95% of the servers that host the world's top one million domains.
 
