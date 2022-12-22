@@ -4,7 +4,7 @@ The cloud has been a pivotal part of my journey as a technologist. As someone wh
 
 In my current role, I am focused on improving my skills in multi-cloud environments, including Azure, Google Cloud Platform, and Amazon Web Services. I believe that having a strong foundation in multiple cloud platforms allows me to better serve the needs of my clients and add value to their businesses. 
 
-Working with the cloud has opened up many opportunities for me and has helped me to grow as a professional. I am excited to continue learning and exploring all that the cloud has to offer. <br>
+Working with the cloud has opened up many opportunities for me and has helped me to grow as a professional. I am excited to continue learning and exploring all that the cloud has to offer and more importantly, giving back to the community. <br>
  
 <img class="img" src="Banner.png" alt="Hey">
 
