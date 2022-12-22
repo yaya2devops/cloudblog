@@ -25,7 +25,9 @@ I recommend this Google resource for more on SRE: [https://sre.google/](https://
 
 ## SRE, Essential Principles
 
-The primary goal of SRE is to use engineering principles to improve the performance of a system's operations. This involves a variety of approaches and techniques, all of which are designed to ensure that the system is running efficiently and effectively. Some of the key principles and practices of SRE include the following:
+The primary goal of SRE is to use engineering principles to improve the performance of a system's operations. This involves a variety of approaches and techniques, all of which are designed to ensure that the system is running efficiently and effectively. 
+
+Some of the key principles and practices of SRE include the following:
 
 
 - **Automation is key:** SRE teams use automation to perform tasks that are repetitive, error-prone, or time-consuming. This allows them to focus on more important tasks and helps to reduce the risk of human error.
@@ -47,9 +49,9 @@ The primary goal of SRE is to use engineering principles to improve the performa
 **P**rometheus is a time series database  monitoring system, Yes, once again, the result of an open-source-driven community. The development of Prometheus has been heavily influenced by the community, and it continues to be an actively developed and supported project.
 
 
-SoundCloud engineers created Prometheus in 2012 as a way to monitor the performance of their systems and services. It gained popularity quickly and was adopted by other organizations. The CNCF approved it as a project in 2015, and it has since been actively developed and maintained by a large community of users and contributors.
+**SoundCloud engineers** created Prometheus in 2012 as a way to monitor the performance of their systems and services. It gained popularity quickly and was adopted by other organizations. The CNCF approved it as a project in 2015, and it has since been actively developed and maintained by a large community of users and contributors.
 
-Prometheus' development is guided by a set of principles that prioritize simplicity, robustness, and usability. It is intended to be scalable and capable of handling large amounts of data as well as a high volume of queries. It also has a set of integrations with other tools and systems, making it simple to use in a variety of settings.
+Prometheus development is guided by a set of principles that prioritize simplicity, robustness, and usability. It is intended to be scalable and capable of handling large amounts of data as well as a high volume of queries. It also has a set of integrations with other tools and systems, making it simple to use in a variety of settings.
 
 Let us explain what makes it a worthwhile consideration!
 
