@@ -161,7 +161,7 @@ You must include a shebang line at the top of the script, which tells the system
 **Or**
 
 ```Bash
-#!/usr/bin/env bash
+#!/usr/bin/bash
 ```
 
 * We can use either of them to run commands in shell scripts written in the Bash shell or any other shell. When it comes to security, `#!/usr/bin/bash` is recommended, while `#!/usr/bin/env` bash is recommended for portability.
