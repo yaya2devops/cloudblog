@@ -6,7 +6,7 @@ You should be able to identify the following points by the end of this article:
 
 * Describe Bourne-Shell, Bourne-Again Shell, and Programming Language Scripting.
     
-* Capable of installing and writing scripts in Bourne-Again Shell in Linux, macOS and Windows-Based OS.
+* Capable of installing and writing scripts in Bourne-Again Shell on Linux, macOS and Windows-Based OS.
     
 * Capable of working with Python including, installation, writing scripts and execution.
     
