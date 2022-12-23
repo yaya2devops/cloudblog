@@ -53,9 +53,6 @@ I am passionate about staying up-to-date with the latest developments in these f
 
 ## Loading Blog List
 ### DevOps
-- [ ] [SRE | Intro]()   // 22/12/2022
-- [ ] [Monitoring w/ Prometheus]()  // 22/12/2022
-- [ ] [Automation with Python]()   // 23/12/2022
 - [ ] [GitLab For DevOps]()
 - [ ] [Jenkins For DevOps]()
 
