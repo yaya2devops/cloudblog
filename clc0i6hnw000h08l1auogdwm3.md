@@ -208,7 +208,6 @@ Congratulations on completing your first steps in using **Bash for automation**!
 
 **A**re you READY for more? It is time to move forward and experiment with automation using a programming language such as the well-known Python. I'm sure you do!
 
----
 
 # Python Automation
 
