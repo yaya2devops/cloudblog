@@ -36,7 +36,7 @@ The Bash, or Bourne-Again Shell, is a Unix shell and command language that was d
 
 Bash's inclusion of a large number of built-in commands and utilities was one of its key innovations. This enabled users to perform a wide range of tasks without the need to install additional software. Bash also improved the programming language by adding better control structures and the ability to define functions.
 
-Along with these enhancements, Bash added support for command line editing and command history, making it easier for users to work with the shell. Bash was a more powerful and user-friendly alternative to the Bourne shell because of these features, as well as a large number of built-in commands and utilities.
+Along with these enhancements, Bash added support for command line editing and command history, making it easier for users to work with the shell. Bash was a more powerful and user-friendly alternative to the Bourne shell.
 
 Since its release, Bash has become the default shell on many Unix and Linux systems, and it is also available on other platforms such as macOS and Windows. It is still widely used today and remains a popular choice for automation and command-line work.
 
