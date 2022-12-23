@@ -24,7 +24,7 @@ The **Bourne shell**, also known as the "sh" shell, was the first Unix shell tha
 * It can also run scripts, which are programs that contain a series of commands that are executed in order. These scripts can be used to automate tasks like system administration and data processing.
     
 
-The Bourne shell is still used on many Unix and Linux systems today, and it is an **important part of computing history**.
+TBourne shell is still used on many Unix and Linux systems today, and it is an **important part of computing history**.
 
 From this point forward, the Bourne shell was superseded by the Bash shell, which was designed to be a more feature-rich and user-friendly alternative to the Bourne shell.
 
