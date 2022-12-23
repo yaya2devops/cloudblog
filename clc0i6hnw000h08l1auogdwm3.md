@@ -11,7 +11,7 @@ You should be able to identify the following points by the end of this article:
 * Capable of working with Python including, installation, writing scripts and execution.
     
 
-# Historical Perspective
+# A Brief History of the Unix Command Line
 
 Automation has long been a part of computing, and Unix has played an important role in the development of automation tools and techniques.
 
