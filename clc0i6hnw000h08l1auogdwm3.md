@@ -130,7 +130,7 @@ To install Bash on Windows, you must first install the Windows Subsystem for Lin
 
 2: In the Windows Features dialog, scroll down to the "Windows Subsystem for Linux" option and select the checkbox next to it.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671790140883/ba86a75e-053c-44c8-9e08-fb94d676e26f.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671790140883/ba86a75e-053c-44c8-9e08-fb94d676e26f.png)
 
 3: Click the **"OK"** button to enable the WSL feature.
 
