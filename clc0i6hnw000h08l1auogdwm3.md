@@ -78,6 +78,8 @@ This section will delve into the installation of bash in your operating system.
 
 Bash is available on most Unix and Linux systems, so if you're using one of these, you've probably already got it.
 
+-  You do not have Linux? [Try 1 for free!](https://blog.yahya-abulhaj.dev/containers-docker-or-what-exactly-is-that#heading-why-not-begin-with-vms-first)
+
 Open a terminal and type the following command to see if Bash is installed on your system:
 
 ```bash
