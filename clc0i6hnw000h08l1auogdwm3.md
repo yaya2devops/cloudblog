@@ -186,7 +186,7 @@ cp * Yaya-Life-Changing-Project/
 echo "Files copied to Yaya-Life-Changing-Project"
 ```
 
-This will execute the script, creating a new directory called "Yaya-Life-Changing-Project" in the current directory and copying all files from the current directory to the new directory. In addition, the script will print a message indicating that the files have been copied.
+This will execute the script, creating a new directory called `Yaya-Life-Changing-Project` in the current directory and copying all files from the current directory to the `Yaya-Life-Changing-Project` directory. In addition, the script will print a message indicating that the files have been copied.
 
 To use this script, you will need to save it to a file with the .sh extension and make it executable. You can do this by entering the following commands in a terminal:
 
