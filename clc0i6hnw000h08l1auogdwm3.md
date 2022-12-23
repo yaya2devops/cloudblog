@@ -2,7 +2,7 @@
 
 ### Description
 
-You should be able to identify the following points by the end of this article:Python and Bash Powering the Future of Automation
+You should be able to identify the following points by the end of this article:
 
 * Describe Bourne-Shell, Bourne-Again Shell, and Programming Language Scripting.
     
