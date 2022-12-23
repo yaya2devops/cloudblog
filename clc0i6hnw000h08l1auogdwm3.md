@@ -195,16 +195,17 @@ chmod +x script.sh
 ./script.sh
 ```
 
-1\. The first command to make the file executable.  
-we just tell it, "Hey computer, change the mode of this file to executable so we can run it!"
+1\. The first command, we just tell it, "Hey computer, change the mode of this file to executable so we can run it!"
 
 2\. Second, this is how we launch Bash scripts to start the automation!
 
 You can modify the script to suit your needs. For instance, you can change the name of the directory or specify a different set of files to be copied. You can also add commands to the script to perform additional tasks, such as deleting files or creating new directories.
 
+### Expanding the boundaries
+
 Based on this basis, we can use the analogy to conclude that every command we issue to the command line interface is essentially a script that performs a specific task! Amazing, the computer revolution basically.
 
-Even for complex use cases, this is the main bash workflow!
+Simplify complex use cases with this proven bash workflow!
 
 Congratulations on completing your first steps in using **Bash for automation**! **Installing Bash¹** and **learning how to use it**² is an important foundation for further exploration into the world of computers.
 
