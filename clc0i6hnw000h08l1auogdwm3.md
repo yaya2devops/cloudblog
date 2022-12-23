@@ -32,7 +32,7 @@ Let's learn more about it.
 
 ## Bourne-Again Shell
 
-The Bash shell, or Bourne-Again Shell, is a Unix shell and command language that was developed as an improvement over the Bourne shell by Brian Fox in the late 1980s.
+The Bash, or Bourne-Again Shell, is a Unix shell and command language that was developed as an improvement over the Bourne shell by Brian Fox in the late 1980s.
 
 Bash's inclusion of a large number of built-in commands and utilities was one of its key innovations. This enabled users to perform a wide range of tasks without the need to install additional software. Bash also improved the programming language by adding better control structures and the ability to define functions.
 
