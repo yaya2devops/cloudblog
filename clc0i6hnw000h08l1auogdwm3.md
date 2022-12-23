@@ -48,7 +48,7 @@ While the Bash or Bourne-again shell, is a powerful and widely used tool for aut
 
 Consequently, as computers and software evolved, a variety of programming languages that could be used for automation were developed. C, C++, Python, Ruby, and many others were among them. These languages enabled users to automate tasks in a more powerful and flexible manner than the Unix shell could include:
 
-* They provide powerful control structures such as loops and conditional statements that allow users to write more complex scripts. They also provide data types such as arrays, lists, and dictionaries, which can be used to store and manipulate data more flexibly.
+* They provide powerful control structures such as loops and conditional statements that allow users to write more complex scripts. They also provide data types such as arrays with multiple dimentions compared to bash, lists, and dictionaries, which can be used to store and manipulate data more flexibly.
     
 * They offer a wide range of libraries and frameworks that can be used to perform a variety of tasks. These libraries and frameworks can be used to automate tasks such as web development, data analysis, and machine learning, to name just a few examples.
     
