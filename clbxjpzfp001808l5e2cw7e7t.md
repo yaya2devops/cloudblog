@@ -1,6 +1,13 @@
 # Ansible: A Practical Guide to Configuration Management
 
 
+
+## Description
+You should be able to identify the following points at the ending of this technical article:
+- Describe Infrastructure as Code.
+- Interpretation of configuration management and the Ansible tool.
+- Capable of working with Ansible to automate your infrastructure, including installation, playbook creation, inventory management, and execution.
+
 # Tracing the Roots
 
 The concept of configuration management can be traced back to the 1950s, when it was used in the aerospace industry to manage the complex systems and components used in aircraft and missiles. Configuration management principles were further developed and applied in the software industry in the 1960s, as a way to manage the various components and dependencies of software systems.
