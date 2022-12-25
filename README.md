@@ -53,13 +53,14 @@ I am passionate about staying up-to-date with the latest developments in these f
 
 ## Loading Blog List
 ### DevOps
-- [ ] [GitLab For DevOps]()
-- [ ] [Jenkins For DevOps]()
+- [ ] [GitLab CI Full Demo]()
+- [ ] [Jenkins For DevOps CI/CD - Build Automation]()
+- [ ] [Artifact Repo Manager, Nexus]()
 
 
 ### Certification Study Guides
 - [x] [AWS Certified Developer Associate | Resources]()
-
+- [ ] [GCP]()
 
 > [Feature Request?](https://feedback.hashnode.com/p/the-total-number-of-blog-views-on-your-hashnode-profile) **If you saw it, please upvote!**
 
