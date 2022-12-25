@@ -119,7 +119,7 @@ To create a deployment in YAML, you will need to define the following elements:
 
 Here is an example of a simple deployment YAML file that deploys a single pod with an NGINX container:
 
-```plaintext
+```YAML
 apiVersion: apps/v1
 kind: Deployment
 metadata:
