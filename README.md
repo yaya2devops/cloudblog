@@ -4,7 +4,7 @@ The cloud has been a pivotal part of my journey as a technologist. As someone wh
 
 In my current role, I am focused on improving my skills in multi-cloud environments, including Azure, Google Cloud Platform, and Amazon Web Services. I believe that having a strong foundation in multiple cloud platforms allows me to better serve the needs of my clients and add value to their businesses. 
 
-Working with the cloud has opened up many opportunities for me and has helped me to grow as a professional. I am excited to continue learning and exploring all that the cloud has to offer and more importantly, giving back to the community. <br>
+Adding on that, working with the cloud has opened up many opportunities for me and has helped me to grow as a professional. I am excited to continue learning and exploring all that the cloud has to offer and more importantly, giving back to the community. <br>
  
 <img class="img" src="Banner.png" alt="Hey">
 
@@ -14,7 +14,9 @@ Welcome to my blog, where I'll be sharing insights and inspiration about cloud c
  
 
 # Current Blog List
-I am passionate about staying up-to-date with the latest developments in these fields, and I hope that through my blog, I can help others to do the same. Whether you're just starting out in the tech industry or are a seasoned professional looking to deepen your knowledge, I hope that you will find something of value here. Thank you for stopping by!
+I am passionate about staying up-to-date with the latest developments in these fields, and I hope that through my blog, I can help others to do the same. Whether you're just starting out in the tech industry or are a seasoned professional looking to deepen your knowledge, I hope that you will find something of value here. 
+
+Thank you for stopping by! Happy reading.
 
 - [Mastering Python and Bash for Next-Level Automation](clc0i6hnw000h08l1auogdwm3.md)
 - [Monitoring Made Easy with Prometheus](clbyvixfr000208mkepithjx9.md)
