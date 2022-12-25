@@ -231,7 +231,7 @@ app1.example.com ansible_ssh_user=appuser ansible_ssh_private_key_file=/path/to/
 app2.example.com ansible_ssh_user=appuser ansible_ssh_private_key_file=/path/to/private/key
 ```
 
-In this example, there are three groups of servers: `webservers`, `databasev, and `appserver`. Each group is specified by a name in square brackets (e.g. `[webservers]`). The servers in each group are listed on separate lines.
+In this example, there are three groups of servers: `webservers`, `databasev, and `appserver` .  Each group is specified by a name in square brackets (e.g. `[webservers]`). The servers in each group are listed on separate lines.
 
 The `appserver` group also includes variables that will be used when connecting to the servers in that group. In this case, the `ansible_ssh_user` and `ansible_ssh_private_key_file` variables specify the user to log in as and the path to the private key file, respectively.
 
