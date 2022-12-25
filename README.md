@@ -64,6 +64,11 @@ Thank you for stopping by! Happy reading.
 - [x] [AWS Certified Developer Associate | Resources]()
 - [ ] [GCP]()
 
+
+### Planning To-Take Certifications
+- GCP ACE
+- AWS SAA-C03
+- SC-100
 > [Feature Request?](https://feedback.hashnode.com/p/the-total-number-of-blog-views-on-your-hashnode-profile) **If you saw it, please upvote!**
 
 Please read [about this repository](about.md) for more information.
