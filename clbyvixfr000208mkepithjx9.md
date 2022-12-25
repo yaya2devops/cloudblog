@@ -188,7 +188,7 @@ By default, Prometheus will listen on port 9090 for incoming metrics. You can us
 
 
 | Prometheus as a service  |   Solution| 
-|---|---|---|
+|:---:|:---|
 | **Windows**  |  use the 'sc' utility ex: <br>`sc create Prometheus binPath= "C:\path\to\prometheus.exe"`|
 | **Linux**  |   Use process manager such as **Systemd** or **Upstart** |
 
