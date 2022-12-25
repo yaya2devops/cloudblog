@@ -15,7 +15,7 @@ Last but not least, the emergence of agile software development and DevOps pract
 
 Infrastructure as code is a practice that allows you to **provision¹** and **manage²** your infrastructure using code and automated tools, rather than manual processes. It enables you to define and manage your infrastructure in a version-controlled, repeatable, and predictable way.
 
-There are two main aspects of IaaC:
+There are two main aspects of IaC:
 
 
 1- **Infrastructure provisioning:** The process of setting up and configuring the various hardware and software components that comprise your infrastructure. This includes tasks like initializing your cloud resources or deploying servers, networking equipment, and storage devices as well as installing and configuring operating systems, applications, and services.
