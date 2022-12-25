@@ -212,7 +212,34 @@ python setup.py install
 ### Automate Your Infrastructure
 Once Installed, action time, you first create an inventory of your servers and write one or more playbooks to define the tasks that you want to run. You can then use the ansible command-line tool to execute the playbooks and apply the desired configuration to your servers.
 
-For example, to install the Apache web server on a group of servers, you could create a playbook like this:
+Let's start by defining our servers. An inventory file is a plain text file that specifies the hosts that Ansible will manage. Here is an example of an inventory file:
+
+```
+# Declare the group of servers that we want to manage
+[webservers]
+server1.example.com
+server2.example.com
+
+# Declare another group of servers
+[database]
+db1.example.com
+db2.example.com
+
+# Declare a group of servers and specify variables for each server
+[appserver:vars]
+app1.example.com ansible_ssh_user=appuser ansible_ssh_private_key_file=/path/to/private/key
+app2.example.com ansible_ssh_user=appuser ansible_ssh_private_key_file=/path/to/private/key
+```
+
+In this example, there are three groups of servers: `webservers`, `databasev, and `appserver`. Each group is specified by a name in square brackets (e.g. `[webservers]`). The servers in each group are listed on separate lines.
+
+The `appserver` group also includes variables that will be used when connecting to the servers in that group. In this case, the `ansible_ssh_user` and `ansible_ssh_private_key_file` variables specify the user to log in as and the path to the private key file, respectively.
+
+This is just a basic example, and an inventory file can be much more complex, depending on your needs. For example, you can specify variables for groups or individual servers, nest groups within groups, and use patterns to define groups of servers. You can also specify multiple inventory files and combine them using the `-i` option when running Ansible commands.
+
+
+
+Now **playbook time**, to install the Apache web server on a group of servers, you could create a playbook like this:
 
 ``` YAML
 - hosts: webservers
@@ -225,6 +252,9 @@ For example, to install the Apache web server on a group of servers, you could c
 ```
 
 This playbook consists of a single play that targets the inventory's "webservers" group. The play has a single task that installs the Apache web server package using the yum module.
+
+
+
 
 
 To run this playbook, you would use the ansible-playbook command, like this:
