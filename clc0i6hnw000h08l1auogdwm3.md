@@ -8,7 +8,7 @@ You should be able to identify the following points by the end of this article:
     
 * Capable of installing and writing scripts in Bourne-Again Shell on Linux, macOS and Windows-Based OS.
     
-* Capable of working with Python including, installation, writing code and executing it.
+* Capable of working with Python including, installation, writing code and execution.
     
 
 # A Brief History of the Unix Command Line
