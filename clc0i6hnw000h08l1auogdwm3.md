@@ -8,7 +8,7 @@ You should be able to identify the following points by the end of this article:
     
 * Capable of installing and writing scripts in Bourne-Again Shell on Linux, macOS and Windows-Based OS.
     
-* Capable of working with Python including, installation, writing scripts and execution.
+* Capable of working with Python including, installation, writing code and executing it.
     
 
 # A Brief History of the Unix Command Line
@@ -132,7 +132,7 @@ To install Bash on Windows, you must first install the Windows Subsystem for Lin
 
 2: In the Windows Features dialog, scroll down to the "Windows Subsystem for Linux" option and select the checkbox next to it.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671790140883/ba86a75e-053c-44c8-9e08-fb94d676e26f.png)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671790140883/ba86a75e-053c-44c8-9e08-fb94d676e26f.png align="center")
 
 3: Click the **"OK"** button to enable the WSL feature.
 
