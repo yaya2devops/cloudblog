@@ -10,7 +10,7 @@ Kubernetes has become popular in recent years due to its ability to manage compl
 
 # K8S & DevOps
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671297443052/XOgdY_-uW.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671297443052/XOgdY_-uW.png)
 
 Kubernetes is an important tool for DevOps teams that are looking to streamline the process of deploying and managing containerized applications at scale. By automating many of the tasks associated with these processes, Kubernetes can help reduce the amount of time and effort required to manage large-scale deployments. Speed, ladies and gentlemen. Additionally, Kubernetes provides a number of features that can help ensure high availability and performance levels for applications running in production environments. **Quality.**
 
