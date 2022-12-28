@@ -132,7 +132,7 @@ To install Bash on Windows, you must first install the Windows Subsystem for Lin
 
 2: In the Windows Features dialog, scroll down to the "Windows Subsystem for Linux" option and select the checkbox next to it.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671790140883/ba86a75e-053c-44c8-9e08-fb94d676e26f.png)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671790140883/ba86a75e-053c-44c8-9e08-fb94d676e26f.png align="center")
 
 3: Click the **"OK"** button to enable the WSL feature.
 
@@ -308,7 +308,7 @@ You can now try more complex scenarios like:
 
 # To Wrap Things Up
 
-We began by stating the progression of computing automation from the simplicity of the shell to the enhanced capabilities of bash, and finally to the versatility and power of Python, and we did write our Bash and Python scripts and executed them to do the required automation!
+We began by stating the progression of computing from the simplicity of the shell to the enhanced capabilities of bash, and finally to the versatility and power of Python, and we did write our Bash and Python scripts and executed them to do the required automation!
 
 Both Bash and Python are powerful tools for automation, and the best choice will depend on the specific needs of your task. Bash is a good choice for simple tasks that can be performed using the built-in commands and utilities, while Python is a better choice for more complex tasks that require a full-featured programming language.
 
