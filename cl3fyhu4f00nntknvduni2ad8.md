@@ -1,13 +1,13 @@
-# Why HashiCorp Terraform?
+# Why HashiCorp Terraform? | Certification Resources
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1654533973941/efCkeGx-2.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm)
+
 
 ---
 
 # Infrastructure As Code (IaC)
 
 
-![IaC files.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653311067910/kOfSuTBEs.png)
+![IaC files.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653311067910/kOfSuTBEs.png align="left")
 
 As the name implies, IaC refers to **the management and provisioning of infrastructure using code rather than dealing with a graphical user interface and tapping here and there**. Although it does seem simple, a significant problem had to be resolved. <br>
 For instance, setting up such a complex architecture the traditional approach can take days of configuration while using an IaC tool can save you a considerable amount of time and assist you in achieving the levels of agility required to construct a successful route.
@@ -17,7 +17,8 @@ For instance, setting up such a complex architecture the traditional approach ca
 ## Cloud Providers IaC
 
 
-![over.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653311294174/G97dVfo2r.png)
+![over.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653311294174/G97dVfo2r.png align="left")
+
 
 
 It's important to note that each cloud provider have their own IaC tool.  <br>
@@ -31,7 +32,7 @@ Terraform by HashiCorp is an infrastructure as code tool that allows you to prov
 ### Overview
 
 
-![5.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653221233055/V_BUpB8lX.png)
+![5.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653221233055/V_BUpB8lX.png align="left")
 
 
 Say i'm working at a company "A" and my job is to carry out an Azure storage, an Amazon DynamoDB and Google Compute Enginer VM etc..<br>
@@ -79,26 +80,62 @@ It is a collection of Terraform configuration files in a directory. A module can
 
 ``` .TF
 .terraform/modules
-├── DevModule
+├── ProdModules
+│   ├── LICENSE
 │   ├── main.tf
 │   ├── output.tf
+│   ├── variables.tf
 │   ├── terraform.tfstate
-├── ProdModule
+│   ├── README.md
+├── DevModule
 │   ├── yaya.tf
 │   ├── output.tf
 │   ├── terraform.tfstate
 
-TypicalProd
-├── LICENSE
-├── README.md
-├── main.tf
-├── variables.tf
-├── outputs.tf
 
 ```
 You can find a ready-to-use modules in the [Terraform Registry](https://registry.terraform.io)
 
 
+# Lab
+To get started with Terraform, follow these steps:
+
+1- Download and install Terraform: Go to the Terraform website (https://www.terraform.io/) and click on the "Download" button. Select the appropriate package for your operating system, and follow the prompts to install Terraform.
+
+2- Set up an account with a cloud provider: In order to use Terraform, you'll need to have an account with a cloud provider such as AWS, Azure, or Google Cloud. Create an account with one of these providers and make note of your access keys, which you will use to authenticate Terraform.
+
+3- Create a configuration file: Terraform uses configuration files written in the HashiCorp Configuration Language (HCL) to define the infrastructure you want to create. Create a new file with a `.tf` extension and use the HCL syntax to define the resources you want to create. For example, to create an EC2 instance in AWS, you might use the following configuration:
+
+```
+resource "aws_instance" "example" {
+  ami           = "ami-027c0a66"
+  instance_type = "t2.micro"
+}
+```
+
+4- Initialize Terraform: Before you can use Terraform to create resources, you'll need to initialize it. Open a terminal, navigate to the directory where your configuration file is located, and run the following command:
+
+```
+terraform init
+```
+
+This will download and install any required plugins or modules.
+
+5- Preview your changes: Before you create your resources, it's a good idea to preview the changes that Terraform will make. Run the following command to see a summary of the resources that will be created:
+
+```
+terraform plan
+```
+
+6- Create your resources: If the preview looks good, you can create your resources by running the following command:
+
+```
+terraform apply
+```
+
+This will create the resources defined in your configuration file.
+
+That's it! You should now have a basic understanding of how to use Terraform to create infrastructure as code. For more information, be sure to check out the Terraform documentation.
 
 ---
 
@@ -111,7 +148,9 @@ With a hands-on approach, you'll quickly grasp the material and improve with eac
 
 ### Terraform Certification
 
-![tfcert.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653221441459/e2GB5lxQ6.png)
+
+
+![tfcert.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1653221441459/e2GB5lxQ6.png align="left")
 
 
 Another way to get started is to study and take the exam. I've found this method useful since deadlines push to your limits. <br>
@@ -120,8 +159,6 @@ My first essay with PSI did not go well, but I learned a lot! Failures always te
 
 [HashiCorp Certified: Terraform associate](https://www.hashicorp.com/certification/terraform-associate) is multiple choice exam that relies on a practical experience. <br>
 In this case, Terraform open source [documentation](https://www.terraform.io/docs) is for everyone to learn and experiment this product with.
-
-
 
 #### Certification Resources
 
