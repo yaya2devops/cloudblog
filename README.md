@@ -61,7 +61,15 @@ Thank you for stopping by! Happy reading.
 - [ ] [GitLab CI Full Demo]()
 - [ ] [Jenkins For DevOps CI/CD - Build Automation]()
 - [ ] [Artifact Repo Manager, Nexus]()
+- [ ] []() 
+- [ ] []() 
+- [ ] []() 
 
+### Dev
+- [Packet Managers, Node, NPM, YARN] []() 
+- [ ] []() 
+- [ ] []() 
+- [ ] []() 
 
 ### Certification Study Guides
 - [x] [AWS Certified Developer Associate | Resources]()
