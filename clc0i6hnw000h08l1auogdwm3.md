@@ -297,7 +297,7 @@ This will create a new folder with the current date and time as the name and sav
 
 That's all there is to Python, right? Yes! Great work
 
-You can now try more complex scenarios like:
+You can now try more complex scenarios with Python like:
 
 * **I**nstall the cloud packages with which you want to interact and perform cloud automation.
     
@@ -313,3 +313,11 @@ We began by stating the progression of computing from the simplicity of the shel
 Both Bash and Python are powerful tools for automation, and the best choice will depend on the specific needs of your task. Bash is a good choice for simple tasks that can be performed using the built-in commands and utilities, while Python is a better choice for more complex tasks that require a full-featured programming language.
 
 Automation is a key aspect of DevOps that helps optimize various processes in the software development lifecycle. **Adopt DevOps!**
+
+
+## Foundation to more
+Now that you've established a solid foundation in automation, there's plenty of room for you to advance your knowledge and delve deeper with other technologies. There are numerous resources available to assist you in continuing to learn and develop your knowledge. 
+
+Consider checking one of these resources to learn more and broaden your knowledge:
+- Start Automation with Powershell.
+- Automate and configure Infrastructure using Terraform and Ansible.
