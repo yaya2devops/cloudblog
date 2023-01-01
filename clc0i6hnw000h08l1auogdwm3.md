@@ -318,6 +318,6 @@ Automation is a key aspect of DevOps that helps optimize various processes in th
 ## Foundation to more
 Now that you've established a solid foundation in automation, there's plenty of room for you to advance your knowledge and delve deeper with other technologies. There are numerous resources available to assist you in continuing to learn and develop your knowledge. 
 
-Consider checking one of these resources to learn more and broaden your knowledge:
+Consider checking one of these resources to learn more and broaden your Automation Skills:
 - Start Automation with Powershell.
 - Automate and configure Infrastructure using Terraform and Ansible.
