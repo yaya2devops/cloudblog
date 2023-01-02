@@ -63,7 +63,7 @@ Thank you for stopping by! Happy reading.
 - [ ] [Artifact Repo Manager, Nexus]()
 - [ ] [Agile & the philosophy behind it?]() 
 - [ ] [Critical OS Concepts for DevOps]() 
-- [ ] [Deep Dive to Server management]()
+- [ ] [Deep Dive to Server management and web servers such Nginx etc]()
 - [ ] [Monitoring for DevOps, Infra & apps, logs management]()
 - [ ] [Network & Security For DevOps]()
 
@@ -75,6 +75,7 @@ Thank you for stopping by! Happy reading.
 - [ ] [Caching]()
 - [ ] [Integration/Unit/Functional Testing, get the use of selenium]()
 - [ ] [Cloud Design Patterns deeper includin k8s]()
+- [ ] []()
 
 ### Certification Study Guides
 - [x] [AWS Certified Developer Associate | Resources]()
