@@ -61,20 +61,23 @@ Thank you for stopping by! Happy reading.
 - [ ] [GitLab CI Full Demo]()
 - [ ] [Jenkins For DevOps CI/CD - Build Automation]()
 - [ ] [Artifact Repo Manager, Nexus]()
-- [ ] []() 
-- [ ] []() 
-- [ ] []() 
+- [ ] [Agile & the philosophy behind it?]() 
+- [ ] [Critical OS Concepts for DevOps]() 
+- [ ] [Deep Dive to Server management]()
+- [ ] [Monitoring for DevOps, Infra & apps, logs management]()
+- [ ] [Network & Security For DevOps]()
 
 ### Dev
-- [Packet Managers, Node, NPM, YARN] []() 
-- [ ] []() 
-- [ ] []() 
-- [ ] []() 
+- [ ] [Packet Managers, Node, NPM, YARN]() 
+- [ ] [Go For DevOps - FULL]() 
+- [ ] [APIs]() 
+- [ ] [Databases, SQL, NOSQL & Scalling]()
+- [ ] [Caching]()
+- [ ] [Integration/Unit/Functional Testing, get the use of selenium]()
+- [ ] [Cloud Design Patterns deeper includin k8s]()
 
 ### Certification Study Guides
 - [x] [AWS Certified Developer Associate | Resources]()
-- [ ] [GCP]()
-
 
 ### Planning To-Take Certifications
 - GCP ACE
