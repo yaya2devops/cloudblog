@@ -10,7 +10,7 @@ Kubernetes has become popular in recent years due to its ability to manage compl
 
 # K8S & DevOps
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671297443052/XOgdY_-uW.png)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671297443052/XOgdY_-uW.png align="center")
 
 Kubernetes is an important tool for DevOps teams that are looking to streamline the process of deploying and managing containerized applications at scale. By automating many of the tasks associated with these processes, Kubernetes can help reduce the amount of time and effort required to manage large-scale deployments. Speed, ladies and gentlemen. Additionally, Kubernetes provides a number of features that can help ensure high availability and performance levels for applications running in production environments. **Quality.**
 
@@ -143,7 +143,7 @@ To create a deployment using this YAML file, you can use the **kubectl apply** c
 
 `kubectl apply -f deployment.yaml`
 
-> We will have our deep dive with YAML.
+> We will have our deep dive with [YAML](https://blog.yahya-abulhaj.dev/yaml-aint-markup-language).
 
 This will create a deployment with the specified configuration and deploy it to the cluster. You can use the `kubectl get deployments` command to view the status of the deployment and the `kubectl describe deployment` command to get more detailed information about the deployment.
 
@@ -180,6 +180,6 @@ Overall, Kubernetes is a powerful and essential tool for deploying and managing 
 
 # Continue to innovate
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671297664725/XzlYM3nM7.png)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671297664725/XzlYM3nM7.png align="center")
 
 Managing multiple deployments on Kubernetes can still be a time-consuming task, especially as the number of deployments grows. It can be difficult to keep track of all the different components and resources needed for each deployment, as well as ensure that they are all properly configured and up-to-date. This is where Helm comes in. Helm is a tool that simplifies the process of deploying and managing applications on Kubernetes. This will be our next topic of discussion. keep an eye out.
