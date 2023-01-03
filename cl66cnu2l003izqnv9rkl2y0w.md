@@ -49,9 +49,9 @@ I've included a brief video describing the Git/GitHub workflow. <br>**Please rea
 
 > [more Linux Commands](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)
 
-## Git 
 
-### What is Git
+
+# What is Git
 Git is the most popular version control system. It keeps track of the changes you create to files so you can go back in time if required. It also aids collaborative efforts by enabling various people's changes to be merged into a particular source code.
 ####  So  What is a Git Repository
  It's simply a location where you keep and store your git belongings locally. Allowing the creation of a history over time.
