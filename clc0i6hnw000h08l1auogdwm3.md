@@ -78,7 +78,8 @@ This section will delve into the installation of bash in your operating system.
 
 Bash is available on most Unix and Linux systems, so if you're using one of these, you've probably already got it.
 
--  You do not have Linux? [Try 1 for free!](https://blog.yahya-abulhaj.dev/containers-docker-or-what-exactly-is-that#heading-why-not-begin-with-vms-first)
+* You do not have Linux? [Try 1 for free!](https://blog.yahya-abulhaj.dev/containers-docker-or-what-exactly-is-that#heading-why-not-begin-with-vms-first)
+    
 
 Open a terminal and type the following command to see if Bash is installed on your system:
 
@@ -211,7 +212,6 @@ Congratulations on completing your first steps in using **Bash for automation**!
 
 **A**re you READY for more? It is time to move forward and experiment with automation using a programming language such as the well-known Python. I'm sure you do!
 
-
 # Python Automation
 
 **P**ython is the easiest language to learn; even if you have no prior coding experience, you can learn it quickly thanks to extensive open-source tutorials and documentation. As a DevOps, you must be familiar with coding. So **Python** will be an excellent choice for you.
@@ -314,10 +314,14 @@ Both Bash and Python are powerful tools for automation, and the best choice will
 
 Automation is a key aspect of DevOps that helps optimize various processes in the software development lifecycle. **Adopt DevOps!**
 
-
 ## Foundation to more
-Now that you've established a solid foundation in automation, there's plenty of room for you to advance your knowledge and delve deeper with other technologies. There are numerous resources available to assist you in continuing to learn and develop your knowledge. 
+
+You've now established a solid foundation in automation, there's plenty of room for you to advance your knowledge and delve deeper into other technologies.
 
 Consider checking one of these resources to learn more and broaden your Automation Skills:
-- Start Automation with Powershell.
-- Automate and configure Infrastructure using Terraform and Ansible.
+
+* Start Automation with Powershell.
+    
+* Automate the provisioning of your infrastructure with Terraform, AWS CloudFormation if you are using AWS infra, or ARM if you are using Azure.
+    
+* Automate the configuration management of your infrastructure with Ansible.
