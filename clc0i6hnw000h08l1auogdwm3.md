@@ -324,4 +324,4 @@ Consider checking one of these resources to learn more and broaden your Automati
     
 * Automate the provisioning of your infrastructure with Terraform, AWS CloudFormation if you are using AWS infra, or ARM if you are using Azure.
     
-* Automate the configuration management of your infrastructure with Ansible.
+* Automate the configuration management of your infrastructure with Ansible, Chef & Puppet
