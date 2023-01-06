@@ -24,7 +24,7 @@ Install Ruby and Rails: You will need to have the **Ruby** programming language 
 ruby -v
 ```
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673019316766/fcdd6f63-d399-46e9-acc5-740f9ccf153e.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673019316766/fcdd6f63-d399-46e9-acc5-740f9ccf153e.png)
 
 * for Linux refer [here](https://www.ruby-lang.org/en/documentation/installation/)
     
@@ -37,7 +37,7 @@ To start building an app with Ruby on Rails, you will need to install Rails itse
 gem install rails
 ```
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673019334371/16601d05-e5e2-4182-8853-5322f6ef1aa1.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673019334371/16601d05-e5e2-4182-8853-5322f6ef1aa1.png)
 
 This will install Rails and all of the dependencies needed to build a Rails app.
 
@@ -47,7 +47,7 @@ Once Rails is installed, you can create a new Rails app by running the following
 rails new myapp
 ```
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673019354526/ff06bd70-5c23-4b00-9ce0-d4eac05de360.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673019354526/ff06bd70-5c23-4b00-9ce0-d4eac05de360.png)
 
 This will create a new directory called myapp with the basic structure of a Rails app.
 
@@ -60,7 +60,7 @@ rails server
 
 This will start the Rails development server and you can view your app by visiting http://localhost:3000 in your web browser.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673019378974/f8ce104a-4337-4bc6-8301-abc8723ea35c.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673019378974/f8ce104a-4337-4bc6-8301-abc8723ea35c.png)
 
 You can then start building your app by following the steps in the Ruby on Rails Tutorial. This tutorial will guide you through the process of building a complete Rails app from start to finish.
 
