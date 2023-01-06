@@ -95,7 +95,9 @@ My interests revolve around devops, development, security, and innovation.
 </details>
 
 <details>  <summary> Planning To-Take Certifications </summary>
-
+<br>
+ 
+ > This section is purely for entertainment purposes; at the moment, what I am most concerned with is giving back. Certs are therefore for some mini-challenges and to make the most of the available time. Best regards,
 - GCP ACE
 - AWS SAA-C03
 - SC-100
