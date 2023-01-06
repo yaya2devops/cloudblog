@@ -17,7 +17,7 @@ Install Ruby and Rails: You will need to have the **Ruby** programming language 
 ## Install Ruby
 
 - For windows, download the [installer](https://rubyinstaller.org/)
-> checkthis command in your terminal once finished
+check this command in your terminal once finished, if returned the version, done.
 
  ```
 ruby -v
