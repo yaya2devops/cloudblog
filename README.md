@@ -21,6 +21,7 @@ I am passionate about staying up-to-date with the latest developments in tech, a
 
 Thank you for stopping by! Happy reading.
 
+- [Quickstart Ruby On Rails](clcknrfws000508iga8bqbjpr.md)
 - [Mastering Python and Bash for Next-Level Automation](clc0i6hnw000h08l1auogdwm3.md)
 - [Monitoring Made Easy with Prometheus](clbyvixfr000208mkepithjx9.md)
 - [Ansible: A Practical Guide to Configuration Management](clbxjpzfp001808l5e2cw7e7t.md)
