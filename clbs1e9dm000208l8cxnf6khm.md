@@ -22,20 +22,20 @@ Kubernetes has a decentralized architecture that is made up of a number of compo
 
 The control plane is the central management component of the Kubernetes cluster. It is responsible for maintaining the desired state of the cluster and ensuring that the worker nodes are in sync with that state. The control plane consists of a number of components, including:
 
-*   **The Kubernetes API server:** This is the central control plane for the Kubernetes cluster and is responsible for managing the state of the cluster and handling requests from clients.
+* **The Kubernetes API server:** This is the central control plane for the Kubernetes cluster and is responsible for managing the state of the cluster and handling requests from clients.
     
-*   **The etcd distributed key-value store:** This stores the configuration data for the cluster and is used by the API server to store and retrieve data about the cluster.
+* **The etcd distributed key-value store:** This stores the configuration data for the cluster and is used by the API server to store and retrieve data about the cluster.
     
-*   **The scheduler:** This component is responsible for scheduling pods (a group of one or more containers that are deployed together) onto the worker nodes.
+* **The scheduler:** This component is responsible for scheduling pods (a group of one or more containers that are deployed together) onto the worker nodes.
     
 
 Worker nodes are the machines (either physical or virtual) that run the applications and services in the cluster. Each worker node runs a number of components, including:
 
-*   **The kubelet:** This is a process that runs on each node and is responsible for starting, stopping, and managing the containers on that node.
+* **The kubelet:** This is a process that runs on each node and is responsible for starting, stopping, and managing the containers on that node.
     
-*   **The kube-proxy:** This is a network proxy that runs on each node and is responsible for networking and load balancing across the nodes in the cluster.
+* **The kube-proxy:** This is a network proxy that runs on each node and is responsible for networking and load balancing across the nodes in the cluster.
     
-*   **Container runtime:** This is the software that is responsible for running the containers on the node. Kubernetes supports a number of different container runtimes, including Docker, containerd, and CRI-O.
+* **Container runtime:** This is the software that is responsible for running the containers on the node. Kubernetes supports a number of different container runtimes, including Docker, containerd, and CRI-O.
     
 
 In a typical Kubernetes deployment, there is a single control plane that manages a number of worker nodes. The control plane and the worker nodes communicate with each other through the Kubernetes API, which is exposed by the API server. Applications and services are deployed onto the worker nodes as pods, which are scheduled and managed by the control plane.
@@ -46,15 +46,15 @@ Overall, the architecture of Kubernetes is designed to be flexible and scalable,
 
 There are many important concepts and features in Kubernetes, but some of the most crucial elements to understand are:
 
-*   **Pods:** Pods are the basic building blocks of Kubernetes, and they represent a group of one or more containers that are deployed together. Pods are the smallest deployable units in Kubernetes and are used to host applications and services.
+* **Pods:** Pods are the basic building blocks of Kubernetes, and they represent a group of one or more containers that are deployed together. Pods are the smallest deployable units in Kubernetes and are used to host applications and services.
     
-*   **Deployments:** Deployments are used to manage the lifecycle of pods, including scaling and rolling updates. Deployments allow you to declaratively specify the desired state of your applications, and Kubernetes will ensure that the pods are running as intended.
+* **Deployments:** Deployments are used to manage the lifecycle of pods, including scaling and rolling updates. Deployments allow you to declaratively specify the desired state of your applications, and Kubernetes will ensure that the pods are running as intended.
     
-*   **Services:** Services are used to expose a set of pods to other parts of the cluster or to external clients. Services provide load balancing and service discovery for the pods they expose.
+* **Services:** Services are used to expose a set of pods to other parts of the cluster or to external clients. Services provide load balancing and service discovery for the pods they expose.
     
-*   **Namespaces:** Namespaces are used to partition resources in a Kubernetes cluster and are often used to separate different environments (e.g. production, staging, development) or teams.
+* **Namespaces:** Namespaces are used to partition resources in a Kubernetes cluster and are often used to separate different environments (e.g. production, staging, development) or teams.
     
-*   **RBAC: Role-based access control (RBAC)**: is used to control access to the Kubernetes API and resources within the cluster. RBAC allows you to specify who has access to what resources and what actions they can take.
+* **RBAC: Role-based access control (RBAC)**: is used to control access to the Kubernetes API and resources within the cluster. RBAC allows you to specify who has access to what resources and what actions they can take.
     
 
 ## Ways to install Kubernetes
@@ -71,13 +71,13 @@ Installing Kubernetes can seem like a daunting task, especially if you are new t
 
 Regardless of which option you choose, the process of installing Kubernetes generally involves the following steps:
 
-*   **Install the required dependencies:** Depending on the installation method you choose, you may need to install additional dependencies such as Docker, etcd, or a container runtime.
+* **Install the required dependencies:** Depending on the installation method you choose, you may need to install additional dependencies such as Docker, etcd, or a container runtime.
     
-*   **Install the Kubernetes control plane components:** This includes the Kubernetes API server, the etcd distributed key-value store, and the scheduler.
+* **Install the Kubernetes control plane components:** This includes the Kubernetes API server, the etcd distributed key-value store, and the scheduler.
     
-*   **Install the worker node components:** This includes the kubelet, kube-proxy, and container runtime.
+* **Install the worker node components:** This includes the kubelet, kube-proxy, and container runtime.
     
-*   **Configure the cluster:** This involves setting up networking, security, and other cluster-wide configurations.
+* **Configure the cluster:** This involves setting up networking, security, and other cluster-wide configurations.
     
 
 Installing Kubernetes can take some time and effort, but the process is well documented, and there are several resources available to help you get started. Once you have a Kubernetes cluster up and running, you can begin deploying and managing containerized applications with ease.
@@ -155,15 +155,15 @@ This makes it easy to deploy and manage even large-scale applications on Kuberne
 
 After creating a Kubernetes deployment in YAML, there are several things you can do to manage and monitor the deployment:
 
-*   **View the pods in the deployment:** You can use the `kubectl get pods` command to view the pods in the deployment, including their status and the containers that they are running.
+* **View the pods in the deployment:** You can use the `kubectl get pods` command to view the pods in the deployment, including their status and the containers that they are running.
     
-*   **View the logs of the pods:** You can use the `kubectl logs` command to view the logs of the pods in the deployment. This can be helpful for debugging and troubleshooting issues with the deployment.
+* **View the logs of the pods:** You can use the `kubectl logs` command to view the logs of the pods in the deployment. This can be helpful for debugging and troubleshooting issues with the deployment.
     
-*   **Scale the deployment:** You can use the `kubectl scale` command to scale the deployment up or down by increasing or decreasing the number of replicas. This can be useful for handling changes in demand or for performing maintenance tasks.
+* **Scale the deployment:** You can use the `kubectl scale` command to scale the deployment up or down by increasing or decreasing the number of replicas. This can be useful for handling changes in demand or for performing maintenance tasks.
     
-*   **Roll out updates to the deployment:** You can use the `kubectl apply` command to update the deployment with new configurations or changes to the container image. This will roll out the changes to the pods in the deployment in a controlled and configurable way.
+* **Roll out updates to the deployment:** You can use the `kubectl apply` command to update the deployment with new configurations or changes to the container image. This will roll out the changes to the pods in the deployment in a controlled and configurable way.
     
-*   **Monitor the performance of the deployment:** You can use tools like **Kubernetes Dashboard** or **Prometheus** to monitor the performance of the deployment, including the resource usage of the pods and the health of the containers. This can help you identify and troubleshoot issues with the deployment.
+* **Monitor the performance of the deployment:** You can use tools like **Kubernetes Dashboard** or **Prometheus** to monitor the performance of the deployment, including the resource usage of the pods and the health of the containers. This can help you identify and troubleshoot issues with the deployment.
     
 
 There are several actions you can take after creating a Kubernetes deployment in YAML to manage and monitor the deployment and ensure that it is running smoothly.
@@ -182,4 +182,4 @@ Overall, Kubernetes is a powerful and essential tool for deploying and managing 
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671297664725/XzlYM3nM7.png align="center")
 
-Managing multiple deployments on Kubernetes can still be a time-consuming task, especially as the number of deployments grows. It can be difficult to keep track of all the different components and resources needed for each deployment, as well as ensure that they are all properly configured and up-to-date. This is where Helm comes in. Helm is a tool that simplifies the process of deploying and managing applications on Kubernetes. This will be our next topic of discussion. keep an eye out.
+Managing multiple deployments on Kubernetes can still be a time-consuming task, especially as the number of deployments grows. It can be difficult to keep track of all the different components and resources needed for each deployment, as well as ensure that they are all properly configured and up-to-date. This is where Helm comes in. Helm is a tool that simplifies the process of deploying and managing applications on Kubernetes. This will be our next topic of discussion. keep an \[eye out\]([https://blog.yahya-abulhaj.dev/helm-the-essential-package-manager-for-kubernetes](https://blog.yahya-abulhaj.dev/helm-the-essential-package-manager-for-kubernetes)).
