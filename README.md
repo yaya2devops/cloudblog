@@ -58,7 +58,13 @@ Thank you for stopping by! Happy reading.
 - [Getting started with Microsoft Azure Fundamentals Certifications](ckzspxdnq03e32ps1fsf087ls.md)
 
 ## Loading Blog List
-### DevOps
+
+I'm constantly getting ideas, so I try to write down what I'd like time with and what I believe will be beneficial to the community.
+
+My interests revolve around devops, development, security, and innovation.
+
+<details>  <summary>DevOps</summary>
+
 - [ ] [GitLab CI Full Demo]()
 - [ ] [Jenkins For DevOps CI/CD - Build Automation]()
 - [ ] [Artifact Repo Manager, Nexus]()
@@ -68,7 +74,10 @@ Thank you for stopping by! Happy reading.
 - [ ] [Monitoring for DevOps, Infra & apps, logs management]()
 - [ ] [Network & Security For DevOps]()
 
-### Dev
+</details>
+
+<details>  <summary> Dev </summary>
+
 - [ ] [Packet Managers, Node, NPM, YARN]() 
 - [ ] [Go For DevOps - FULL]() 
 - [ ] [APIs]() 
@@ -76,15 +85,22 @@ Thank you for stopping by! Happy reading.
 - [ ] [Caching]()
 - [ ] [Integration/Unit/Functional Testing, get the use of selenium]()
 - [ ] [Cloud Design Patterns deeper includin k8s]()
-- [ ] []()
 
-### Certification Study Guides
+</details>
+
+<details>  <summary> Certification Study Guides </summary>
+
 - [x] [AWS Certified Developer Associate | Resources]()
 
-### Planning To-Take Certifications
+</details>
+
+<details>  <summary> Planning To-Take Certifications </summary>
+
 - GCP ACE
 - AWS SAA-C03
 - SC-100
 > [Feature Request?](https://feedback.hashnode.com/p/the-total-number-of-blog-views-on-your-hashnode-profile) **If you saw it, please upvote!**
 
 Please read [about this repository](about.md) for more information.
+
+</details>
