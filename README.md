@@ -3,21 +3,25 @@
 
 Welcome to my blog, where I'll be sharing insights and inspiration about cloud computing, DevOps, infrastructure as code, and a variety of other topics related to the field of information technology. This is a space where I can share my thoughts, experiences, and knowledge with the community, and I hope that it will be a source of inspiration and learning for others who are interested in these topics.
 
-The cloud has been a pivotal part of my journey as a technologist. As someone who works in the field of DevOps, I have seen firsthand how the cloud can transform the way organizations operate and deliver value to their customers. 
+
 
 <img class="img" src="Banner.png" alt="Hey">
 
+<details> <summary> </summary>
+
+The cloud has been a pivotal part of my journey as a technologist. As someone who works in the field of DevOps, I have seen firsthand how the cloud can transform the way organizations operate and deliver value to their customers. 
+<br> <br>
 
 In my current role, I am focused on improving my skills in multi-cloud environments, including Azure, Google Cloud Platform, and Amazon Web Services. I believe that having a strong foundation in multiple cloud platforms allows me to better serve the needs of my clients and add value to their businesses. 
 
 Adding on that, working with the cloud has opened up many opportunities for me and has helped me to grow as a professional. I am excited to continue learning and exploring all that the cloud has to offer and more importantly, **giving back to the community**. <br>
  
 
- 
+ </details>
  
 
 # Current Blog List
-I am passionate about staying up-to-date with the latest developments in tech, and I hope that through my blog, I can help others to do the same. Whether you're just starting out in the tech industry or are a seasoned professional looking to deepen your knowledge, I hope that you will find something of value here. 
+I am passionate about the latest developments in tech, and I hope that through my blog, I can help others to do the same. Whether you're just starting out in the tech industry or are a seasoned professional looking to deepen your knowledge, I hope that you will find something of value here. 
 
 Thank you for stopping by! Happy reading.
 
@@ -57,8 +61,8 @@ Thank you for stopping by! Happy reading.
 - [Passing Microsoft Azure Administrator Associate Certification](cl0pg4r2200c1yunv054wgaec.md)
 - [Getting started with Microsoft Azure Fundamentals Certifications](ckzspxdnq03e32ps1fsf087ls.md)
 
-## Loading Blog List
-
+<details>  <summary><b> Loading Blog List </b></summary>
+<br>
 I'm constantly getting ideas, so I try to write down what I'd like time with and what I believe will be beneficial to the community.
 
 My interests revolve around devops, development, security, and innovation.
@@ -92,12 +96,13 @@ My interests revolve around devops, development, security, and innovation.
 
 - [x] [AWS Certified Developer Associate | Resources]()
 
+</details> 
 </details>
 
 <details>  <summary> Planning To-Take Certifications </summary>
 <br>
  
- > This section is purely for entertainment purposes; at the moment, what I am most concerned with is giving back. Certs are therefore for some mini-challenges and to make the most of the available time. Best regards,
+This section is purely for entertainment purposes; at the moment, what I am most concerned with is giving back. Certs are therefore for some mini-challenges and to make the most of the available time. Best regards,
 - GCP ACE
 - AWS SAA-C03
 - SC-100
