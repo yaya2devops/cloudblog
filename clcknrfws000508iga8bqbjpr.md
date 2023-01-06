@@ -1,7 +1,13 @@
 # Quickstart Ruby On Rails
 
 
-# Let's get the workflow
+# Hello Developer
+Whether you are a beginner looking to learn your first programming language, or an experienced developer looking to add Ruby to your toolkit, this post will give you the knowledge you need to get started. So let's dive in and learn how to use Ruby!
+
+Let's explain 2 critical points:
+- Ruby is a programming language
+- Ruby on Rails also RoR is a framework that simply provides you with more tools to excel with Ruby developement!
+
 
 To start building a web application with Ruby on Rails, you will need to do the following:
 
