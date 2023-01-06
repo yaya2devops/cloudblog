@@ -1,6 +1,6 @@
 # Quickstart Ruby On Rails
 
-# Hello Developer
+# Introduction
 
 Whether you are a beginner looking to learn your first programming language, or an experienced developer looking to add Ruby to your toolkit, this post will give you the knowledge you need to get started. So let's dive in and learn how to use Ruby!
 
@@ -17,8 +17,7 @@ Install Ruby and Rails: You will need to have the **Ruby** programming language 
 
 ## Install Ruby
 
-* For windows, download the [installer](https://rubyinstaller.org/) check this command in your terminal once finished, if returned the version, done.  
-      
+* For windows, download the [installer](https://rubyinstaller.org/) check this command in your terminal once finished, if returned the version, done.
     
 
 ```bash
@@ -40,8 +39,6 @@ gem install rails
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673019334371/16601d05-e5e2-4182-8853-5322f6ef1aa1.png align="center")
 
-  
-  
 This will install Rails and all of the dependencies needed to build a Rails app.
 
 Once Rails is installed, you can create a new Rails app by running the following command:
@@ -52,8 +49,6 @@ rails new myapp
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673019354526/ff06bd70-5c23-4b00-9ce0-d4eac05de360.png align="center")
 
-  
-  
 This will create a new directory called myapp with the basic structure of a Rails app.
 
 To start the Rails development server, navigate to the `myapp` directory and run the following command:
@@ -63,8 +58,7 @@ cd myapp
 rails server
 ```
 
-This will start the Rails development server and you can view your app by visiting http://localhost:3000 in your web browser.  
-  
+This will start the Rails development server and you can view your app by visiting http://localhost:3000 in your web browser.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673019378974/f8ce104a-4337-4bc6-8301-abc8723ea35c.png align="center")
 
