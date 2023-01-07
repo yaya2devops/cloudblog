@@ -74,9 +74,14 @@ Ruby is the driving force behind websites like Twitter. There's a lot more to it
 
 * Set up the database: Rails uses a database to store application data. By default, it uses SQLite, but you can also use other databases such as MySQL or PostgreSQL. You will need to set up your database and configure your Rails application to use it.
     
+
+```bash
+rails db:migrate
+```
+
 * Define your models and controllers: In Rails, models represent the data in your application and controllers handle incoming requests and determine what to do with them. You will need to define your models and controllers and specify how they should interact with your database and views.
     
-* Create your views: Views are the user-facing components of your application. They define the layout and content that will be displayed to users. You can create views using HTML, CSS, and the Rails template language.  
+* Create your views: Views are the user-facing components of your application. They define the layout and content that will be displayed to users. You can create views using HTML, CSS, and the Rails template language.
     
     You can achieve the above by writing this command:
     
