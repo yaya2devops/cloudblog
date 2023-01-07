@@ -26,7 +26,6 @@ I am passionate about the latest developments in tech, and I hope that through m
 Thank you for stopping by! Happy reading.
 
 
-> trying pipe here
 
 <!-- HASHNODE_BLOG:START -->
 - [Quickstart Ruby On Rails](https://blog.yahya-abulhaj.dev//quickstart-ruby-on-rails)
