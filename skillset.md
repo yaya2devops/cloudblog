@@ -59,11 +59,16 @@
 
 - Start-ups
 - Entrepreneurship
+- Leadership
+- Team Leadership
 - Product Management
+- Product Marketing
+- Business Strategy
 - SaaS
 - Mobile Applications
 - Cloud Computing (ok)
 - Software Product Management
+- Product Launch
 - Strategic Partnerships
 - Scalability
 - Mobile Devices
@@ -76,4 +81,14 @@
 - Integration
 - REST
 - Go-to-market Strategy
+- Analytics
+- Competitive Analysis
+- Sales Enablement
+- Multi-channel Marketing
 - Ruby on Rails
+- Pricing Strategy
+- Business Development
+- Executive Management
+- Growth Strategies
+- Online Lead Generation
+- Channel Marketing
