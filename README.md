@@ -29,7 +29,41 @@ Thank you for stopping by! Happy reading.
 > trying pipe here
 
 <!-- HASHNODE_BLOG:START -->
-
+- [Quickstart Ruby On Rails](https://blog.yahya-abulhaj.dev//quickstart-ruby-on-rails)
+- [Mastering Python and Bash for Next-Level Automation](https://blog.yahya-abulhaj.dev//mastering-python-and-bash-for-next-level-automation)
+- [Monitoring Made Easy with Prometheus](https://blog.yahya-abulhaj.dev//monitoring-made-easy-with-prometheus)
+- [Ansible: A Practical Guide to Configuration Management](https://blog.yahya-abulhaj.dev//ansible-a-practical-guide-to-configuration-management)
+- [Unleashing the Power of Cloud-Native Technologies](https://blog.yahya-abulhaj.dev//unleashing-the-power-of-cloud-native-technologies)
+- [HELM |  The Essential Package Manager for Kubernetes](https://blog.yahya-abulhaj.dev//helm-the-essential-package-manager-for-kubernetes)
+- [YAML Ain’t Markup Language](https://blog.yahya-abulhaj.dev//yaml-aint-markup-language)
+- [KUBERNETES | The Containers Orchestration Engine](https://blog.yahya-abulhaj.dev//kubernetes-the-containers-orchestration-engine)
+- [Why Skype for Business is Good for You](https://blog.yahya-abulhaj.dev//why-skype-for-business-is-good-for-you)
+- [Let's Explain a Pipeline](https://blog.yahya-abulhaj.dev//lets-explain-a-pipeline)
+- [Microsoft Ignite Event: Free Exam Voucher](https://blog.yahya-abulhaj.dev//microsoft-ignite-event-free-exam-voucher)
+- [Microsoft Certified:CyberSecurity Architect Expert | Resources](https://blog.yahya-abulhaj.dev//microsoft-certifiedcybersecurity-architect-expert-resources)
+- [Microsoft Certified: Azure Solutions Architect Expert | Resources](https://blog.yahya-abulhaj.dev//microsoft-certified-azure-solutions-architect-expert-resources)
+- [Microsoft Certified: DevOps Engineer Expert | Resources](https://blog.yahya-abulhaj.dev//microsoft-certified-devops-engineer-expert-resources)
+- [Microsoft Certified: Security Operations Analyst Associate | Resources](https://blog.yahya-abulhaj.dev//microsoft-certified-security-operations-analyst-associate-resources)
+- [Microsoft Certified: Azure Security Engineer Associate | Resources](https://blog.yahya-abulhaj.dev//microsoft-certified-azure-security-engineer-associate-resources)
+- [Microsoft Certified: Azure Network Engineer Associate | Resources](https://blog.yahya-abulhaj.dev//microsoft-certified-azure-network-engineer-associate-resources)
+- [AWS Certified: Cloud Practitioner Certification](https://blog.yahya-abulhaj.dev//aws-certified-cloud-practitioner-certification)
+- [Microsoft Intune | Control Over Your Devices](https://blog.yahya-abulhaj.dev//microsoft-intune-control-over-your-devices)
+- [Cleaning up your Microsoft Azure Account](https://blog.yahya-abulhaj.dev//cleaning-up-your-microsoft-azure-account)
+- [Wish_List Certifications](https://blog.yahya-abulhaj.dev//wishlist-certifications)
+- [On board to Sentinel And Defender](https://blog.yahya-abulhaj.dev//on-board-to-sentinel-and-defender)
+- [Git/GitHub Workflow in 80 seconds](https://blog.yahya-abulhaj.dev//gitgithub-workflow-in-80-seconds)
+- [Containers, Docker | What exactly is that?](https://blog.yahya-abulhaj.dev//containers-docker-or-what-exactly-is-that)
+- [IT - General Culture](https://blog.yahya-abulhaj.dev//it-general-culture)
+- [Automate the CI/CD Pipeline using Harness.io](https://blog.yahya-abulhaj.dev//automate-the-cicd-pipeline-using-harnessio)
+- [Microsoft Certified: Azure Developer Associate | Study Guide](https://blog.yahya-abulhaj.dev//microsoft-certified-azure-developer-associate-or-study-guide)
+- [Cost Management and Cloud Migration | Microsoft Azure Edition](https://blog.yahya-abulhaj.dev//cost-management-and-cloud-migration-or-microsoft-azure-edition)
+- [NotLocalHost  | Free Hosting & Serverless  Services](https://blog.yahya-abulhaj.dev//notlocalhost-or-free-hosting-and-serverless-services)
+- [Host Your Application Using Azure Blob Storage & CloudFlare | DNS Configuration](https://blog.yahya-abulhaj.dev//host-your-application-using-azure-blob-storage-and-cloudflare-or-dns-configuration)
+- [Microsoft Build 2022: Cloud Skills Challenge  | Free Microsoft Certification Voucher](https://blog.yahya-abulhaj.dev//microsoft-build-2022-cloud-skills-challenge-free-microsoft-certification-voucher)
+- [Why HashiCorp Terraform? | Certification Resources](https://blog.yahya-abulhaj.dev//why-hashicorp-terraform-certification-resources)
+- [Microsoft Certified: The Renewal Process](https://blog.yahya-abulhaj.dev//microsoft-certified-the-renewal-process)
+- [Passing Microsoft Azure Administrator Associate Certification](https://blog.yahya-abulhaj.dev//passing-microsoft-azure-administrator-associate-certification)
+- [Getting started with Microsoft Azure Fundamentals Certifications](https://blog.yahya-abulhaj.dev//getting-started-with-microsoft-azure-fundamentals-certifications)
 <!-- HASHNODE_BLOG:END -->
 
 
