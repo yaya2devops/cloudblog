@@ -90,7 +90,7 @@ rails db:migrate
     ```
     
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673112784685/6676e160-1150-443e-9c39-31ec626a309c.png align="center")
+Our new app is now living on the /posts.
 
 * Test and debug your application: As you build your application, you will want to test it to ensure that it is functioning correctly. You can use tools such as the Rails console and the debugger to test and debug your application.
     
