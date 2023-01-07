@@ -25,6 +25,14 @@ I am passionate about the latest developments in tech, and I hope that through m
 
 Thank you for stopping by! Happy reading.
 
+
+> trying pipe here
+
+<!-- HASHNODE_BLOG:START -->
+
+<!-- HASHNODE_BLOG:END -->
+
+
 - [Quickstart Ruby On Rails](clcknrfws000508iga8bqbjpr.md)
 - [Mastering Python and Bash for Next-Level Automation](clc0i6hnw000h08l1auogdwm3.md)
 - [Monitoring Made Easy with Prometheus](clbyvixfr000208mkepithjx9.md)
