@@ -33,6 +33,8 @@ I found these hands-on very useful, and I encourage you to try 'em out.
 
 Stephane is a good one, he is able to break down complex concepts into easy-to-understand pieces able to engage and motivate students. This course of his should cover all you require.
 
+His course is designed to cover all of the essential topics that you will need to know in order to pass the AWS Developer Exam with flying colors. From an in-depth look at the AWS services to hands-on labs and practical exercises, this course will provide you with the comprehensive knowledge and skills required to succeed on the exam.
+
 # [Practice Tests, Neal Davis](https://www.udemy.com/course/aws-developer-associate-practice-exams/)
 
 Finally, don't underestimate the value of practice exams and mock tests in your preparation process. These can help you gauge your progress and identify areas where you may need to focus more attention. Some popular options include the AWS Certified Developer – Practice tests from neal Davis with a total of 390 practice questions.
