@@ -4,7 +4,7 @@ If you're reading this, you're probably getting ready to take the AWS Developer 
 
 <details> <summary>
 <p> </p></summary>
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673373006205/17e94e2f-3f13-417e-84fe-e20690a37c90.png?auto=compress,format&amp;format=webp" />
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673373006205/17e94e2f-3f13-417e-84fe-e20690a37c90.png?auto=compress,format&format=webp" />
 </details>
 
 Let's start with the fundamentals. The AWS Developer Exam is intended to assess your knowledge and skills in developing and maintaining AWS-hosted applications. It covers a wide range of topics, such as cloud computing, storage, networking, and security, among others. To pass the exam, you must have a solid understanding of these concepts as well as the ability to apply them in real-world scenarios.
@@ -41,4 +41,5 @@ Finally, don't underestimate the value of practice exams and mock tests in your 
 
 Ultimately, passing the AWS Developer Exam necessitates a thorough understanding of the AWS platform as well as how to develop and maintain applications on it. You can give yourself the best chance of success on the exam by using the resources listed above.
 
-Good luck!
+**Related:**  
+\- \[**Resources Cloud Practitioner Certification\](**[https://blog.yahya-abulhaj.dev/aws-certified-cloud-practitioner-certification](https://blog.yahya-abulhaj.dev/aws-certified-cloud-practitioner-certification)**)**
