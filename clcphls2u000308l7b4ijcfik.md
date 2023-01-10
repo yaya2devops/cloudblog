@@ -28,7 +28,7 @@ I found these hands-on very useful, and I encourage you to try 'em out.
 
 Stephane is a good one, he is able to break down complex concepts into easy-to-understand pieces and break down complex concepts into easy-to-understand pieces and be able to engage and motivate students. This course of his should cover all you require.
 
-# Practice Tests, Neal Davis
+# [Practice Tests, Neal Davis](https://www.udemy.com/course/aws-developer-associate-practice-exams/)
 
 Finally, don't underestimate the value of practice exams and mock tests in your preparation process. These can help you gauge your progress and identify areas where you may need to focus more attention. Some popular options include the AWS Certified Developer – Practice tests from neal Davis with a total of 390 practice questions.
 
