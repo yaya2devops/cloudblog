@@ -14,9 +14,9 @@ You can find more learning material within the link provided above.
 
 # [AWS Training and Certification](https://www.aws.training/)
 
-Aside from the official documentation, AWS provides a number of training and certification programs to help you prepare for the exam. Online courses, instructor-led training, and even practice exams are examples. I found the online courses to be especially beneficial because they provided a structured learning experience while also allowing me to learn at my own pace. Some popular courses to consider are AWS Developer: Building on AWS and AWS Certified Developer - Associate.  
-  
-Log from \[here\]([https://www.aws.training/](https://www.aws.training/)) and search for the course.
+Aside from the official documentation, AWS provides a number of training and certification programs to help you prepare for the exam. Online courses, instructor-led training, and even practice exams are examples. I found the online courses to be especially beneficial because they provided a structured learning experience while also allowing me to learn at my own pace. Some popular courses to consider are AWS Developer: Building on AWS and AWS Certified Developer - Associate.
+
+Log from [here](https://www.aws.training/) and search for the course.
 
 # [GitHub Labs](https://github.com/ACloudGuru-Resources/course-aws-certified-developer-associate)
 
