@@ -42,4 +42,4 @@ Finally, don't underestimate the value of practice exams and mock tests in your 
 Ultimately, passing the AWS Developer Exam necessitates a thorough understanding of the AWS platform as well as how to develop and maintain applications on it. You can give yourself the best chance of success on the exam by using the resources listed above.
 
 **Related:**  
-\- \[**Resources Cloud Practitioner Certification\](**[https://blog.yahya-abulhaj.dev/aws-certified-cloud-practitioner-certification](https://blog.yahya-abulhaj.dev/aws-certified-cloud-practitioner-certification)**)**
+\- [**Resources Cloud Practitioner Certification**](https://blog.yahya-abulhaj.dev/aws-certified-cloud-practitioner-certification)
