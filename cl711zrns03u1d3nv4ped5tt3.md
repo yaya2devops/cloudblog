@@ -52,6 +52,6 @@
 <details>
 <summary>Are you preparing for AWS Developer Exam?</summary>
 <br />
-Click on the post
+Click on the post!
 [<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673382397427/38469fbb-0036-45c6-8428-92322c396b04.jpeg" />](https://blog.yahya-abulhaj.dev/aws-developer-exam-study-guide-resources-tips-and-strategies)
 </details>
