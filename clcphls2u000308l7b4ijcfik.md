@@ -7,13 +7,15 @@ If you're reading this, you're probably getting ready to take the AWS Developer 
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673373006205/17e94e2f-3f13-417e-84fe-e20690a37c90.png?auto=compress,format&format=webp" />
 </details>
 
-Let's start with the fundamentals. The AWS Developer Exam is intended to assess your knowledge and skills in developing and maintaining AWS-hosted applications. It covers a wide range of topics, such as cloud computing, storage, networking, and security, among others. To pass the exam, you must have a solid understanding of these concepts as well as the ability to apply them in real-world scenarios.
+Let's start with the fundamentals. The AWS Developer Exam is intended to assess your knowledge and skills in developing and maintaining AWS-hosted applications. It covers a wide range of topics related to developement such as storage, networking, and security.  
+  
+To pass the exam, you must have a solid understanding of these concepts as well as the ability to apply them in real-world scenarios.
 
-With that said, here are the resources that I found most helpful in my own journey to becoming an AWS Developer:
+With that said, here are the resources that I found most helpful in my journey to becoming an AWS Developer:
 
 # [AWS Documentation](https://aws.amazon.com/fr/certification/certified-developer-associate/)
 
-When preparing for the AWS Developer Exam, the official AWS documentation is a good place to start. The AWS Developer Guide is included, as well as a variety of other resources such as tutorials, code samples, and FAQs. The AWS documentation is constantly updated and is an invaluable resource for understanding the platform's various services and features.
+When preparing for the AWS Developer Exam, the official AWS documentation is a good place to start. The AWS Developer Guide is included, as well as a variety of other resources such as tutorials, code samples and instructions. The AWS documentation is constantly updated and is an invaluable resource for understanding the platform's various services and features.
 
 You can find more learning material within the link provided above.
 
@@ -31,7 +33,7 @@ I found these hands-on very useful, and I encourage you to try 'em out.
 
 # [Udemy, Stephane Maarek Course](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/)
 
-Stephane is a good one, he is able to break down complex concepts into easy-to-understand pieces able to engage and motivate students. This course of his should cover all you require.
+Stephane is a good one, he is able to break down complex concepts into easy-to-understand pieces that are able to engage and motivate students. This course should cover everything you need to know.
 
 His course is designed to cover all of the essential topics that you will need to know in order to pass the AWS Developer Exam with flying colors. From an in-depth look at the AWS services to hands-on labs and practical exercises, this course will provide you with the comprehensive knowledge and skills required to succeed on the exam.
 
