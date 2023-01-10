@@ -27,6 +27,7 @@ Thank you for stopping by! Happy reading.
 
 <details><summary>GitHub Format</summary>
 
+- [AWS Certified Developer Associate | Resources](clcphls2u000308l7b4ijcfik.md)
 - [Quickstart Ruby On Rails](clcknrfws000508iga8bqbjpr.md)
 - [Mastering Python and Bash for Next-Level Automation](clc0i6hnw000h08l1auogdwm3.md)
 - [Monitoring Made Easy with Prometheus](clbyvixfr000208mkepithjx9.md)
@@ -137,7 +138,7 @@ My interests revolve around devops, development, security, and innovation.
 
 <details>  <summary> Certification Study Guides </summary>
 
-- [x] [AWS Certified Developer Associate | Resources]()
+- [AWS Certified Developer Associate | Resources]()
 
 </details> 
 </details>
