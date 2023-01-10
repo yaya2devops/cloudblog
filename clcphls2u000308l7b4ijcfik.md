@@ -2,6 +2,8 @@
 
 If you're reading this, you're probably getting ready to take the AWS Developer Exam and want to know how to best prepare. I recently took the exam and wanted to share the resources that I found most useful during my own preparation.
 
+<details> <summary>hh</summar> </details>
+
 Let's start with the fundamentals. The AWS Developer Exam is intended to assess your knowledge and skills in developing and maintaining AWS-hosted applications. It covers a wide range of topics, such as cloud computing, storage, networking, and security, among others. To pass the exam, you must have a solid understanding of these concepts as well as the ability to apply them in real-world scenarios.
 
 With that said, here are the resources that I found most helpful in my own journey to becoming an AWS Developer:
