@@ -37,7 +37,7 @@ His course is designed to cover all of the essential topics that you will need t
 
 # [Practice Tests, Neal Davis](https://www.udemy.com/course/aws-developer-associate-practice-exams/)
 
-Finally, don't underestimate the value of practice exams and mock tests in your preparation process. These can help you gauge your progress and identify areas where you may need to focus more attention. Some popular options include the AWS Certified Developer – Practice tests from neal Davis with a total of 390 practice questions.
+Finally, don't underestimate the value of practice exams and mock tests in your preparation process. These can help you gauge your progress and identify areas where you may need to focus more attention. The AWS Certified Developer Practice tests from Neal Davis is great option.
 
 # Conclude
 
