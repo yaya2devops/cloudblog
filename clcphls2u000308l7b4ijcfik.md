@@ -31,7 +31,7 @@ I found these hands-on very useful, and I encourage you to try 'em out.
 
 # [Udemy, Stephane Maarek Course](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/)
 
-Stephane is a good one, he is able to break down complex concepts into easy-to-understand pieces and break down complex concepts into easy-to-understand pieces and be able to engage and motivate students. This course of his should cover all you require.
+Stephane is a good one, he is able to break down complex concepts into easy-to-understand pieces able to engage and motivate students. This course of his should cover all you require.
 
 # [Practice Tests, Neal Davis](https://www.udemy.com/course/aws-developer-associate-practice-exams/)
 
