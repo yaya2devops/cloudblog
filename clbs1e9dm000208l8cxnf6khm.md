@@ -144,7 +144,12 @@ To create a deployment using this YAML file, you can use the **kubectl apply** c
 `kubectl apply -f deployment.yml`
 
 <details> 
-<summary>You
+<summary>
+You're obviously curious about YAML
+</summary>
+We created this for you. CLICK!
+[<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673446208363/645cee88-3cee-40e0-bd4d-9c40337eba82.jpeg">](https://blog.yahya-abulhaj.dev/yaml-aint-markup-language)
+</details>
 
 This will create a deployment with the specified configuration and deploy it to the cluster. You can use the `kubectl get deployments` command to view the status of the deployment and the `kubectl describe deployment` command to get more detailed information about the deployment.
 
