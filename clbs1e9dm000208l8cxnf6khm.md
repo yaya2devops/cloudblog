@@ -145,7 +145,7 @@ To create a deployment using this YAML file, you can use the **kubectl apply** c
 
 <details> 
 <summary>
-You're obviously curious about YAML
+Are you curious about YAML?
 </summary>
 We created this for you. CLICK!
 [<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673446208363/645cee88-3cee-40e0-bd4d-9c40337eba82.jpeg">](https://blog.yahya-abulhaj.dev/yaml-aint-markup-language)
