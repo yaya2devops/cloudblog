@@ -52,5 +52,6 @@ Ultimately, passing the AWS Developer Exam necessitates a thorough understanding
 <details> <summary>Subscribe to my newsletter to be notified whenever I publish useful content </summary>
 
 [<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673443688288/c14679db-a1b6-4a54-a0ea-6d999dbc980f.png">](https://blog.yahya-abulhaj.dev/newsletter)
-<details>
+
+</details>
 
