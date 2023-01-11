@@ -148,7 +148,7 @@ To create a deployment using this YAML file, you can use the **kubectl apply** c
 Are you curious about YAML?
 </summary>
 We created this for you. CLICK!
-[<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673446208363/645cee88-3cee-40e0-bd4d-9c40337eba82.jpeg">](https://blog.yahya-abulhaj.dev/yaml-aint-markup-language)
+[<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673446208363/645cee88-3cee-40e0-bd4d-9c40337eba82.jpeg" />](https://blog.yahya-abulhaj.dev/yaml-aint-markup-language)
 </details>
 
 This will create a deployment with the specified configuration and deploy it to the cluster. You can use the `kubectl get deployments` command to view the status of the deployment and the `kubectl describe deployment` command to get more detailed information about the deployment.
@@ -188,4 +188,12 @@ Overall, Kubernetes is a powerful and essential tool for deploying and managing 
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673446010385/cabd737b-6fd6-4589-8f40-94c263c86a84.png align="center")
 
-Managing multiple deployments on Kubernetes can still be a time-consuming task, especially as the number of deployments grows. It can be difficult to keep track of all the different components and resources needed for each deployment, as well as ensure that they are all properly configured and up-to-date. This is where Helm comes in. Helm is a tool that simplifies the process of deploying and managing applications on Kubernetes. This will be our next topic of discussion. keep an [eye out](https://blog.yahya-abulhaj.dev/helm-the-essential-package-manager-for-kubernetes).
+Managing multiple deployments on Kubernetes can still be a time-consuming task, especially as the number of deployments grows. It can be difficult to keep track of all the different components and resources needed for each deployment, as well as ensure that they are all properly configured and up-to-date. This is where Helm comes in. Helm is a tool that simplifies the process of deploying and managing applications on Kubernetes. This will be our next topic of discussion.
+
+
+<details> 
+<summary>
+Keep an eye out!
+</summary>
+[<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673453570021/4d45ea28-4bc3-4406-9e1d-e57516e8067d.jpeg">](https://blog.yahya-abulhaj.dev/helm-the-essential-package-manager-for-kubernetes)
+</details>
