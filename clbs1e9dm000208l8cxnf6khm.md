@@ -144,7 +144,7 @@ To create a deployment using this YAML file, you can use the **kubectl apply** c
 `kubectl apply -f deployment.yml`  
   
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673445328254/d1d8119d-e83f-4e76-aa6c-08d8c2d1dcfc.jpeg align="center")
+
 
 <details> 
 <summary>You're probably curious about YAML.</summary> 
