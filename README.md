@@ -7,21 +7,25 @@ Welcome to my blog, where I'll be sharing insights and inspiration about cloud c
 
 <img class="img" src="Banner.png" alt="Hey">
 
-<details> <summary> </summary>
+<details> 
+<summary>Learn more.. </summary>
 
 The cloud has been a pivotal part of my journey as a technologist. As someone who works in the field of DevOps, I have seen firsthand how the cloud can transform the way organizations operate and deliver value to their customers. 
 <br> <br>
 
-<details> <summary>As a DevOps Consultant</summary>
+<details> 
+<summary>As a DevOps Consultant</summary>
+
 In my current role, I am focused on improving my skills in multi-cloud environments, including Azure, Google Cloud Platform, and Amazon Web Services. I believe that having a strong foundation in multiple cloud platforms allows me to better serve the needs of my clients and add value to the world.
 <br>
 Adding on that, working with the cloud has opened up many opportunities for me and has helped me to grow as a professional. 
 
 <br>
-I am excited to continue learning and exploring all that the cloud has to offer and more importantly, <b>giving back to the community<b>. <br>
+I am excited to continue learning and exploring all that the cloud has to offer and more importantly, <b>giving back to the community<b>.<br>
  
 </details>
- </details>
+
+</details>
  
 
 # Current Blog List
@@ -29,7 +33,9 @@ I am passionate about the latest developments in tech, and I hope that through m
 
 Thank you for stopping by! Happy reading.
 
-<details><summary>GitHub Format</summary>
+<details>
+
+<summary>GitHub Format</summary>
 
 - [AWS Certified Developer Associate | Resources](clcphls2u000308l7b4ijcfik.md)
 - [Quickstart Ruby On Rails](clcknrfws000508iga8bqbjpr.md)
@@ -67,6 +73,8 @@ Thank you for stopping by! Happy reading.
 - [Microsoft Certified: The Renewal Process](cl2177dai06yby6nv4tqidba2.md)
 - [Passing Microsoft Azure Administrator Associate Certification](cl0pg4r2200c1yunv054wgaec.md)
 - [Getting started with Microsoft Azure Fundamentals Certifications](ckzspxdnq03e32ps1fsf087ls.md)
+
+
 </details>
 
 <!-- HASHNODE_BLOG:START -->
@@ -110,13 +118,17 @@ Thank you for stopping by! Happy reading.
 
 
 
-<details>  <summary><b> Loading Blog List </b></summary>
+<details>  
+
+<summary><b> Loading Blog List </b></summary>
 <br>
 I'm constantly getting ideas, so I try to write down what I'd like time with and what I believe will be beneficial to the community.
 
 My interests revolve around devops, development, security, and innovation.
 
-<details>  <summary>DevOps</summary>
+<details>  
+
+<summary>DevOps</summary>
 
 - [ ] [GitLab CI Full Demo]()
 - [ ] [Jenkins For DevOps CI/CD - Build Automation]()
@@ -129,7 +141,9 @@ My interests revolve around devops, development, security, and innovation.
 
 </details>
 
-<details>  <summary> Dev </summary>
+<details>  
+
+<summary> Dev </summary>
 
 - [ ] [Packet Managers, Node, NPM, YARN]() 
 - [ ] [Go For DevOps - FULL]() 
@@ -140,7 +154,10 @@ My interests revolve around devops, development, security, and innovation.
 - [ ] [Cloud Design Patterns deeper includin k8s]()
 
 </details>
-<details>  <summary> AWS </summary>
+
+<details>  
+
+<summary> AWS </summary>
 
 - [ ] [AWS for DevOps: How to Implement Continuous Integration and Deployment]()
 - [ ] [AWS CloudFormation: Automating Infrastructure Provisioning]()
@@ -155,9 +172,13 @@ My interests revolve around devops, development, security, and innovation.
 - [ ] [AWS SAA-C03]()
 
 </details> 
+
 </details>
 
-<details>  <summary> <b>Planning To-Take Certifications </b></summary>
+<details>  
+
+<summary> <b>Planning To-Take Certifications </b></summary>
+
 <br>
  
 This section is purely for entertainment purposes; at the moment, what I am most concerned with is giving back. Certs are therefore for some mini-challenges and to make the most of the available time. Best regards,
