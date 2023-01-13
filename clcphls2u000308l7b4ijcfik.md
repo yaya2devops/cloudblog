@@ -6,6 +6,8 @@ If you're reading this, you're probably getting ready to take the AWS Developer 
 
 [<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673373006205/17e94e2f-3f13-417e-84fe-e20690a37c90.png?auto=compress,format&format=webp" />](https://www.linkedin.com/posts/yahya-abulhaj_aws-certified-developer-associate-was-issued-activity-7005613788276080640-K5ZU?utm_source=share&utm_medium=member_desktop)
 
+> To be directed, click the post.
+
 </details>
 
 Let's start with the fundamentals. The AWS Developer Exam is intended to assess your knowledge and skills in developing and maintaining AWS-hosted applications. It covers a wide range of topics related to developement such as storage, networking, and security.
