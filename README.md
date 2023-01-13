@@ -12,11 +12,15 @@ Welcome to my blog, where I'll be sharing insights and inspiration about cloud c
 The cloud has been a pivotal part of my journey as a technologist. As someone who works in the field of DevOps, I have seen firsthand how the cloud can transform the way organizations operate and deliver value to their customers. 
 <br> <br>
 
-In my current role, I am focused on improving my skills in multi-cloud environments, including Azure, Google Cloud Platform, and Amazon Web Services. I believe that having a strong foundation in multiple cloud platforms allows me to better serve the needs of my clients and add value to their businesses. 
+<details> <summary>As a DevOps Consultant</summary>
+In my current role, I am focused on improving my skills in multi-cloud environments, including Azure, Google Cloud Platform, and Amazon Web Services. I believe that having a strong foundation in multiple cloud platforms allows me to better serve the needs of my clients and add value to the world.
+<br>
+Adding on that, working with the cloud has opened up many opportunities for me and has helped me to grow as a professional. 
 
-Adding on that, working with the cloud has opened up many opportunities for me and has helped me to grow as a professional. I am excited to continue learning and exploring all that the cloud has to offer and more importantly, **giving back to the community**. <br>
+<br>
+I am excited to continue learning and exploring all that the cloud has to offer and more importantly, <b>giving back to the community<b>. <br>
  
-
+</details>
  </details>
  
 
