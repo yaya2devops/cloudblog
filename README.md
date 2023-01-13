@@ -140,10 +140,19 @@ My interests revolve around devops, development, security, and innovation.
 - [ ] [Cloud Design Patterns deeper includin k8s]()
 
 </details>
+<details>  <summary> AWS </summary>
+
+- [AWS for DevOps: How to Implement Continuous Integration and Deployment]()
+- [AWS CloudFormation: Automating Infrastructure Provisioning]()
+- [AWS Lambda: A Guide to Serverless Computing]()
+- [How to Optimize Costs in AWS]()
+
+</details> 
 
 <details>  <summary> Certification Study Guides </summary>
 
-- [AWS Certified Developer Associate | Resources]()
+- [GCP ACE| Resources]()
+- [AWS SAA-C03]()
 
 </details> 
 </details>
