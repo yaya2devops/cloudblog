@@ -3,7 +3,7 @@
 If you're reading this, you're probably getting ready to take the AWS Developer Exam and want to know how to best prepare. I recently took the exam and wanted to share the resources that I found most useful during my own preparation.
 
 <details> <summary>
-<p> </p></summary>
+<p> I'm AWS Developer Certified!</p></summary>
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673373006205/17e94e2f-3f13-417e-84fe-e20690a37c90.png?auto=compress,format&format=webp" />
 </details>
 
