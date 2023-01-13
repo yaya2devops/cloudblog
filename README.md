@@ -1,5 +1,5 @@
 
-# ☁️ Welcome My Cloud Blogs Repository ☁️
+# Welcome to My CloudBlogs Repo☁
 
 
 Welcome to my blog, where I'll be sharing insights and inspiration about cloud computing, DevOps, infrastructure as code, and a variety of other topics related to the field of information technology. This is a space where I can share my thoughts, experiences, and knowledge with the community, and I hope that it will be a source of inspiration and learning for others who are interested in these topics.
@@ -21,9 +21,9 @@ Adding on that, working with the cloud has opened up many opportunities for me a
 
 <br>
 I am excited to continue learning and exploring all that the cloud has to offer and more importantly, <b>giving back to the community<b>.<br>
- 
-
 </details>
+ 
+ 
  
 
 <img class="img" src="Banner.png" alt="Hey">
