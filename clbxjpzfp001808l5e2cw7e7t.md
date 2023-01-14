@@ -30,8 +30,8 @@ There are two main aspects of IaC:
 You can automate the provisioning of your infrastructure using code and tools such as 
 
 - Terraform, operates in Multi-Cloud Environments
-- CloudFormation, IaaC AWS
-- ARM Templates, IaaC Microsoft
+- CloudFormation, IaC AWS
+- ARM Templates, IaC Microsoft
 
 This allows you to define the desired state of your infrastructure in code, and then use the above automation tools to provision the infrastructure according to the initial specification.
 
