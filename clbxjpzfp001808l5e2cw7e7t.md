@@ -273,7 +273,7 @@ ansible-playbook -i inventory.txt webserver.yml
 
 This would run the playbook on each of the servers in the inventory file, installing Apache on each of them. Good job!
 
-Continue learning Ansible and mastering playbooks with Spacelift's [tutorial](https://spacelift.io/blog/ansible-tutorial)!
+Continue learning Ansible and mastering playbooks with **Spacelift**'s [tutorial](https://spacelift.io/blog/ansible-tutorial)!
 
 Ansible can also be used to manage users, install software, and deploy applications, among other things. More information and examples can be found in the Ansible [documentation](https://docs.ansible.com/) 
 
