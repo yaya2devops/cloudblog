@@ -7,7 +7,7 @@ Welcome to my blog, where I'll be sharing insights and inspiration about cloud c
  
  
 
-<img class="img" src="/../Banner.png" alt="Hey">
+<img class="img" src="Banner.png" alt="Hey">
  
 
 # Current Blog List
