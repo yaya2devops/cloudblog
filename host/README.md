@@ -53,7 +53,8 @@ Thank you for stopping by! Happy reading.
 - [Microsoft Certified: The Renewal Process](../cl2177dai06yby6nv4tqidba2.md)
 - [Passing Microsoft Azure Administrator Associate Certification](../cl0pg4r2200c1yunv054wgaec.md)
 - [Getting started with Microsoft Azure Fundamentals Certifications](ckzspxdnq03e32ps1fsf087ls.md)
-
+  
+Learn more about [upcoming insights.](details.md)
 
 # Automated Feed
 <!-- HASHNODE_BLOG:START -->
@@ -114,7 +115,10 @@ In my current role, I am focused on improving my skills in multi-cloud environme
 Adding on that, working with the cloud has opened up many opportunities for me and has helped me to grow as a professional. 
 
 <br>
-I am excited to continue learning and exploring all that the cloud has to offer and more importantly, [giving back](details.md) to the community.
+I am excited to continue learning and exploring all that the cloud has to offer and more importantly, giving back to the community.
 
 
 </details> 
+
+
+
