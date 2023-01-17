@@ -14,7 +14,7 @@ Welcome to my blog, where I'll be sharing insights and inspiration about cloud c
 # Current Blog List
 I am passionate about the latest developments in tech, and I hope that through my blog, I can help others to do the same. Whether you're just starting out in the tech industry or are a seasoned professional looking to deepen your knowledge, I hope that you will find something of value here. 
 
-Thank you for stopping by! [Happy reading](y4hya4.github.io/CloudBlogs/).
+Thank you for stopping by! [Happy reading](https://archive.yahya-abulhaj.dev/).
 
 <details>  
 
