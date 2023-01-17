@@ -102,19 +102,17 @@ The blog is distributed [here](https://blog.yahya-abulhaj.dev/) @hashnode.
 <!-- HASHNODE_BLOG:END -->
 
 
-<details> 
-<summary>Outro</summary>
+## Takeaway
 
-The cloud has been a pivotal part of my journey as a technologist. I have seen firsthand how the cloud can transform the way organizations operate and deliver value to their customers. Adding on that, working with the cloud has opened up many opportunities for me and has helped me to grow as a professional. 
-<br> 
+The cloud has been a pivotal part of my journey as a technologist. I have seen firsthand how this can transform the way organizations operate and deliver value to their customers. Adding on that, working with the cloud has opened up many opportunities for me and has helped me to grow as a professional. 
+
  
-In my current role, I am focused on improving my skills in multi-cloud environments, including Azure, Google Cloud Platform, and Amazon Web Services. I believe that having a strong foundation in multiple cloud platforms allows me to better serve the needs of my clients and add value to the world.
-<br>
+In my current role, I am focused on improving my skills in multi-cloud environments, including **Azure**, **Google Cloud Platform**, and **Amazon Web Services**. I believe that having a strong foundation in multiple cloud platforms allows me to better serve the needs of my clients and eventually add value to the world.
+
  
-I am excited to continue learning and exploring all that the cloud has to offer and more importantly, giving back to the community.
+I am excited to continue learning and exploring all that the cloud has to offer and more importantly, **giving back to the community**.
 
 
-</details> 
 
 
 
