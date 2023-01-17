@@ -1,5 +1,5 @@
 
-# Welcome to My CloudBlogs Repo☁
+# Welcome to My CloudBlogs Repo
 
 
 Welcome to my blog, where I'll be sharing insights and inspiration about cloud computing, DevOps, infrastructure as code, and a variety of other topics related to the field of information technology. This is a space where I can share my thoughts, experiences, and knowledge with the community, and I hope that it will be a source of inspiration and learning for others who are interested in these topics.
@@ -7,7 +7,7 @@ Welcome to my blog, where I'll be sharing insights and inspiration about cloud c
  
  
 
-<img class="img" src="/../Banner.png" alt="Hey">
+<img class="img" src="../Banner.png" alt="Hey">
  
 
 # Current Blog List
@@ -50,7 +50,7 @@ Thank you for stopping by! Happy reading.
 - [Microsoft Certified: Azure Developer Associate - Study Guide](https://blog.yahya-abulhaj.dev//microsoft-certified-azure-developer-associate-or-study-guide)
 - [Cost Management and Cloud Migration - Microsoft Azure Edition](https://blog.yahya-abulhaj.dev//cost-management-and-cloud-migration-or-microsoft-azure-edition)
 - [NotLocalHost  - Free Hosting & Serverless  Services](https://blog.yahya-abulhaj.dev//notlocalhost-or-free-hosting-and-serverless-services)
-- [Host Your Application Using Azure Blob Storage & CloudFlare | DNS Configuration](https://blog.yahya-abulhaj.dev//host-your-application-using-azure-blob-storage-and-cloudflare-or-dns-configuration)
+- [Host Your Application Using Azure Blob Storage & CloudFlare - DNS Configuration](https://blog.yahya-abulhaj.dev//host-your-application-using-azure-blob-storage-and-cloudflare-or-dns-configuration)
 - [Microsoft Build 2022: Cloud Skills Challenge  - Free Microsoft Certification Voucher](https://blog.yahya-abulhaj.dev//microsoft-build-2022-cloud-skills-challenge-free-microsoft-certification-voucher)
 - [Why HashiCorp Terraform? - Certification Resources](https://blog.yahya-abulhaj.dev//why-hashicorp-terraform-certification-resources)
 - [Microsoft Certified: The Renewal Process](https://blog.yahya-abulhaj.dev//microsoft-certified-the-renewal-process)
