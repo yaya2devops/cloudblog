@@ -76,6 +76,6 @@ In my current role, I am focused on improving my skills in multi-cloud environme
 Adding on that, working with the cloud has opened up many opportunities for me and has helped me to grow as a professional. 
 
 <br>
-I am excited to continue learning and exploring all that the cloud has to offer and more importantly, <b>giving back to the community<b>.<br>
+I am excited to continue learning and exploring all that the cloud has to offer and more importantly, <b>**[giving back to the community](details.md)**<b>.<br>
 
 </details>
