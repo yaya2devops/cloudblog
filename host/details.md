@@ -40,7 +40,7 @@ My interests revolve around devops, development, security, and innovation.
 
 ## Certification Study Guides
 
-- [ ] [GCP ACE | Resources]()
+- [ ] [GCP ACE - Resources]()
 
 - [ ] [AWS SAA-C03]()
 
