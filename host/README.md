@@ -2,9 +2,10 @@
 # Welcome to My CloudBlogs Repo
 
 
-Hi! this will serve as my backup UI to my written blogs about cloud and devops, making it easy to surface the entire content in one convenient location. 
+Hi! this will serve as my backup UI to my written blogs about Cloud and DevOps.
 
-Hopefully, this will make it simpler for readers like you to access all of my articles and resources on these topics and find the information you require.
+
+Hopefully, this will make it simpler for readers like you to access the entire content and resources on these topics and find the information you require in one convenient location.
  
 
 <img class="img" src="Banner.png" alt="Hey">
