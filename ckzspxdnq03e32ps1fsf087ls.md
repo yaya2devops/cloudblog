@@ -37,7 +37,7 @@ You can find the skills measured for any MS certification in the official docume
 
 ** The Documentation contains all the parts that you are going to be tested on, the day of the exam **
 
-|| Microsoft Certifications  | Exam Code  | Official Documentation |
+| Microsoft Certifications  | Exam Code  | Official Documentation |
 |:-------- |:--------:| --------:|
 | Microsoft Azure Fundamentals      |  AZ-900   |     [Link](https://docs.microsoft.com/en-us/certifications/exams/az-900) |
 | Microsoft Azure Data Fundamentals      |   DP-900   |      [Link](https://docs.microsoft.com/en-us/certifications/exams/dp-900) |
@@ -100,11 +100,11 @@ Here are the official practice tests from Microsoft:
 
 
 
-For that I'm referring to this blog:
+You can also check this further:
 
 %[https://vladtalkstech.com/2022/01/free-practice-questions-for-select-microsoft-certifications.html?fbclid=IwAR0b0kOiWTlAuwezmYJYnPb7Ge7V4SUEnLQrbEM133-ixmQLQ5S5qPBDFbA]
 
-You can also check  **whizlabs** :
+&  **whizlabs** :
 
 %[https://www.whizlabs.com]
 
