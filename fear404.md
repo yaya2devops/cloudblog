@@ -7,7 +7,9 @@ Fear doesn't exist anywhere except in the mind.--
 Dale Carnegie
 
 
-# Let's go to something more serious?
+# Monitoring
+
+## WHAT
 
 here are some samples of what you can monitor on a computer
 - Internet browsing history
@@ -23,3 +25,15 @@ here are some samples of what you can monitor on a computer
 - Power on/off logs
 - Login and logout times
 - Remote control sessions.
+
+
+## WHY
+
+- **Compliance:** Your company may need to monitor certain activities on your computer to ensure compliance with industry regulations or internal policies.
+- **Security:** Your company may use monitoring software to detect and prevent security breaches or unauthorized access to sensitive information.
+- **Productivity:** Your boss may use monitoring data to track employee productivity levels and identify inefficiencies.
+- **Performance evaluations:** Monitoring data may be used to evaluate your performance and determine bonuses, promotions, or other career advancement opportunities.
+- **Legal matters:** Your company may need to produce monitoring data as evidence in legal proceedings.
+- **Training and development:** Monitoring data may be used to identify areas where employees need additional training or development.
+- **Remote working:** If you're working remotely, your company may use monitoring data to ensure that you're keeping to your schedule and following company policies.
+- **IT troubleshooting:** Monitoring data may help IT staff troubleshoot technical issues and identify the cause of problems.
