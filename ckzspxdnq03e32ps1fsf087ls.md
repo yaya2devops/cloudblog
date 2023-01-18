@@ -39,12 +39,16 @@ You can find the skills measured for any MS certification in the official docume
 
 | Microsoft Certifications  | Exam Code  | Official Documentation |MeasureUp Practice questions |
 |:-------- |:--------:| --------:|--------:|
-| Microsoft Azure Fundamentals      |  AZ-900   |     [Link](https://docs.microsoft.com/en-us/certifications/exams/az-900) |[Link]()|
-| Microsoft Azure Data Fundamentals      |   DP-900   |      [Link](https://docs.microsoft.com/en-us/certifications/exams/dp-900) |[Link]()|
-| Microsoft Azure AI Fundamentals      |  AI-900   |     [Link](https://docs.microsoft.com/en-us/certifications/exams/ai-900) |[Link]()|
-| Microsoft Security, Compliance, and Identity Fundamentals       |   SC-900   |     [Link](https://docs.microsoft.com/en-us/certifications/exams/sc-900) |[Link]()|
-| Microsoft PowerPlatform fundamentals       |   PL-900   |     [Link](https://docs.microsoft.com/en-us/certifications/exams/sc-900) |[Link]()|
-| Microsoft 365 Fundamentals       |   MS-900   |     [Link](https://docs.microsoft.com/en-us/certifications/exams/sc-900) |[Link]()|
+| Microsoft Azure Fundamentals      |  AZ-900   |     [Link](https://docs.microsoft.com/en-us/certifications/exams/az-900) |[Link](https://learn.microsoft.com/en-us/certifications/resources/az-900-sample-questions)|
+| Microsoft Azure Data Fundamentals      |   DP-900   |      [Link](https://docs.microsoft.com/en-us/certifications/exams/dp-900) |[Link](https://learn.microsoft.com/en-us/certifications/resources/dp-900-sample-questions
+)|
+| Microsoft Azure AI Fundamentals      |  AI-900   |     [Link](https://docs.microsoft.com/en-us/certifications/exams/ai-900) |[Link](https://learn.microsoft.com/en-us/certifications/resources/ai-900-sample-questions
+)|
+| Microsoft Security, Compliance, and Identity Fundamentals       |   SC-900   |     [Link](https://docs.microsoft.com/en-us/certifications/exams/sc-900) |[Link](https://learn.microsoft.com/en-us/certifications/resources/sc-900-sample-questions
+)|
+| Microsoft PowerPlatform Fundamentals       |   PL-900   |     [Link](https://docs.microsoft.com/en-us/certifications/exams/sc-900) |[Link](https://learn.microsoft.com/en-us/certifications/resources/pl-900-sample-questions
+)|
+| Microsoft 365 Fundamentals       |   MS-900   |     [Link](https://docs.microsoft.com/en-us/certifications/exams/ms-900) |[Link](https://learn.microsoft.com/en-us/certifications/resources/ms-900-sample-questions)|
 
 
 
