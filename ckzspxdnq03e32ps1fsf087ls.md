@@ -37,15 +37,14 @@ You can find the skills measured for any MS certification in the official docume
 
 ** The Documentation contains all the parts that you are going to be tested on, the day of the exam **
 
-| Microsoft Certifications  | Exam Code  | Official Documentation |MeasureUp Practice questions |
-|:-------- |:--------:| --------:|--------:|
-| Microsoft Azure Fundamentals      |  AZ-900   |     [Link](https://docs.microsoft.com/en-us/certifications/exams/az-900) |[Link](https://learn.microsoft.com/en-us/certifications/resources/az-900-sample-questions)|
-| Microsoft Azure Data Fundamentals      |   DP-900   |      [Link](https://docs.microsoft.com/en-us/certifications/exams/dp-900) |[Link](https://learn.microsoft.com/en-us/certifications/resources/dp-900-sample-questions
-)|
-| Microsoft Azure AI Fundamentals      |  AI-900   |     [Link](https://docs.microsoft.com/en-us/certifications/exams/ai-900) |[Link](https://learn.microsoft.com/en-us/certifications/resources/ai-900-sample-questions)|
-| Microsoft Security, Compliance, and Identity Fundamentals       |   SC-900   |     [Link](https://docs.microsoft.com/en-us/certifications/exams/sc-900) |[Link](https://learn.microsoft.com/en-us/certifications/resources/sc-900-sample-questions)|
-| Microsoft PowerPlatform Fundamentals       |   PL-900   |     [Link](https://docs.microsoft.com/en-us/certifications/exams/sc-900) |[Link](https://learn.microsoft.com/en-us/certifications/resources/pl-900-sample-questions)|
-| Microsoft 365 Fundamentals       |   MS-900   |     [Link](https://docs.microsoft.com/en-us/certifications/exams/ms-900) |[Link](https://learn.microsoft.com/en-us/certifications/resources/ms-900-sample-questions)|
+|| Microsoft Certifications  | Exam Code  | Official Documentation |
+|:-------- |:--------:| --------:|
+| Microsoft Azure Fundamentals      |  AZ-900   |     [Link](https://docs.microsoft.com/en-us/certifications/exams/az-900) |
+| Microsoft Azure Data Fundamentals      |   DP-900   |      [Link](https://docs.microsoft.com/en-us/certifications/exams/dp-900) |
+| Microsoft Azure AI Fundamentals      |  AI-900   |     [Link](https://docs.microsoft.com/en-us/certifications/exams/ai-900) |
+| Microsoft Security, Compliance, and Identity Fundamentals       |   SC-900   |     [Link](https://docs.microsoft.com/en-us/certifications/exams/sc-900) |
+| Microsoft 365 Fundamentals       |   MS-900   |     [Link](https://docs.microsoft.com/en-us/certifications/exams/ms-900) |
+| Microsoft PowerPlatform Fundamentals       |   PL-900   |     [Link](https://docs.microsoft.com/en-us/certifications/exams/pl-900)  |
 
 
 
@@ -87,6 +86,19 @@ I attempted to gather the certification topics into a single scrollable [page](h
 ### 5. Practice Tests
 
  Last but not least, before the exam day you need to practice some tests, it's a good confidence boost  and really helps passing the exam.
+
+Here are the official practice tests from Microsoft:
+
+| Microsoft Certifications  | Exam Code  |  MeasureUp Practice questions |
+|:-------- |:--------:| --------:|
+| Microsoft Azure Fundamentals      |  AZ-900   |     [Link](https://learn.microsoft.com/en-us/certifications/resources/az-900-sample-questions) |
+| Microsoft Azure Data Fundamentals      |   DP-900   |      [Link](https://learn.microsoft.com/en-us/certifications/resources/dp-900-sample-questions) |
+| Microsoft Azure AI Fundamentals      |  AI-900   |     [Link](https://learn.microsoft.com/en-us/certifications/resources/ai-900-sample-questions) |
+| Microsoft Security, Compliance, and Identity Fundamentals       |   SC-900   |     [Link](https://learn.microsoft.com/en-us/certifications/resources/sc-900-sample-questions) |
+| Microsoft 365 Fundamentals       |   MS-900   |     [Link](https://learn.microsoft.com/en-us/certifications/resources/ms-900-sample-questions) |
+
+
+
 
 For that I'm referring to this blog:
 
