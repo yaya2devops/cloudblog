@@ -88,7 +88,8 @@ I attempted to gather the certification topics into a single scrollable [page](h
  Last but not least, before the exam day you need to practice some tests, it's a good confidence boost  and really helps passing the exam.
  
  You can check Microsoft Official questions:
- | Microsoft Certifications  | Exam Code  |  MeasureUp Practice questions |
+ 
+| Microsoft Certifications  | Exam Code  |  MeasureUp Practice questions |
 |:-------- |:--------:| --------:|
 | Microsoft Azure Fundamentals      |  AZ-900   |     [Link](https://learn.microsoft.com/en-us/certifications/resources/az-900-sample-questions) |
 | Microsoft Azure Data Fundamentals      |   DP-900   |      [Link](https://learn.microsoft.com/en-us/certifications/resources/dp-900-sample-questions) |
