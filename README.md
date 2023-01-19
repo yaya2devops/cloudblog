@@ -53,15 +53,17 @@ My interests revolve around devops, development, security, and innovation.
 
 <summary> Dev </summary>
 
-- [ ] [Packet Managers, Node, NPM, YARN]() 
+- [ ] [Package Managers, Node, NPM, YARN]() 
 
 - [ ] [Go For DevOps - FULL]() 
+
+- [ ] [Swift Language]()
 
 - [ ] [APIs]() 
 
 - [ ] [Databases, SQL, NOSQL & Scalling]()
 
-- [ ] [Caching]()
+- [ ] [Caching, momento]()
 
 - [ ] [Integration/Unit/Functional Testing, get the use of selenium]()
 
@@ -103,6 +105,7 @@ My interests revolve around devops, development, security, and innovation.
 <br>
  
 This section is purely for entertainment purposes; at the moment, what I am most concerned with is giving back. Certs are therefore for some mini-challenges and to make the most of the available time. Best regards,
+
 - GCP ACE
 
 - AWS SAA-C03
