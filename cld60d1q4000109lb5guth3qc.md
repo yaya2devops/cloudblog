@@ -8,7 +8,7 @@ Go is considered a key player in the DevOps world. **Docker**, **Kubernetes**, *
 
 Concurrency support built into Go makes it simple for developers to create highly performant and efficient systems, which is essential in the DevOps world where speed and reliability are critical.
 
-In this article, I'll walk you through my troubleshooting process for installing Go lang and then running your first project!
+In this article, I'll walk you through my troubleshooting process for installing Go lang and then running your first project.
 
 Installation
 
