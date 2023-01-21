@@ -92,3 +92,26 @@ go run filename.go
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1674307405098/7bab1e0b-eda9-4af1-a0e4-598b68368595.png align="center")
 
 You should be able to successfully set up your development environment and get started on your first project.
+
+### Advanced Go use-cases
+
+* Building web servers and APIs.
+    
+* Developing command-line tools and utilities.
+    
+* Creating concurrent and parallel programs.
+    
+* Building network services and distributed systems.
+    
+* Developing serverless functions.
+    
+* Building and deploying containerized applications.
+    
+* Developing desktop and mobile applications using GUI libraries.
+    
+* Building machine learning and data processing pipelines.
+    
+* Developing blockchain and cryptocurrency applications.
+    
+
+# Bonus, \[Get ChatGPT in Your terminal\]([https://github.com/gofireflyio/aiac](https://github.com/gofireflyio/aiac))
