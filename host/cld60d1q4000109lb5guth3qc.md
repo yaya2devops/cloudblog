@@ -6,15 +6,15 @@ Go is sure to be a major language in the world of programming for years to come.
 
 Go is considered a key player in the DevOps world. **Docker**, **Kubernetes**, **Prometheus**, **Hugo**, **Grafana** and **Terraform** are all built **on top of Go**.
 
-Concurrency support built into Go makes it simple for developers to create highly performant and efficient systems, which is key in the DevOps world where speed and reliability are critical.
+Concurrency support built into Go makes it simple for developers to create highly performant and efficient systems, which is essential in the DevOps world where speed and reliability are critical.
 
-In this article, I'll walk you through my troubleshooting process for installing Go lang and then running your first project!
+In this article, I'll walk you through my troubleshooting process for installing Go lang and then running your first project.
 
 Installation
 
-* I downloaded the exe from the internet and installed it.
+* I downloaded the exe from the internet and installed it, if you wish to install it on Linux, install and extract the [binaries](https://golangdocs.com/install-go-linux).
     
-* set env variable, in git bashand i added this line to `.bashrc`
+* set env variable, in root, I added this line to `.bashrc`
     
 
 ```go
@@ -23,15 +23,13 @@ export GOPATH=C:/go-work
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1674307181891/7e88919c-fc6d-4b98-ad89-9fc87105b2a3.png)
 
-i did it using vim, u can do nano if u wish.
+i did it using vim, u can do [nano](https://www.geeksforgeeks.org/nano-vs-vim-editor-whats-the-difference-between-nano-and-vim-editors/) if u wish.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1674307203752/70e87c1a-0c0f-4f83-b6b9-cda4bebf032e.png)
 
 On windows, u can also type 'edit environment variables' in the start and edit manually.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1674307150187/65eff4b8-5c75-4bb9-8cee-0cb86f8ec387.png)
-
-* I added this line to .bash\_profile or (create one if you don't have one)
+* I added this line to .bash\_profile (create one if you don't have)
     
     \` source ~/.bashrc\`
     
@@ -52,7 +50,6 @@ ls -a
     
 
 ```go
-
 go version
 ```
 
@@ -120,4 +117,4 @@ Go's popularity has been on the rise in recent years, and it has been adopted by
 
 If you are looking for a new language to try, or if you are interested in building systems, web applications, or network services, Go is definitely worth considering. It is a great choice for your next project and you will not regret giving it a try.
 
-Bonus, check this [Get ChatGPT in Your terminal](https://github.com/gofireflyio/aiac), a go-based project that generates ready-to-use devops code such as terraform files, kubernetes manifest files, ansible, and much more with a single command to your terminal.
+Bonus, check this [Get ChatGPT in Your terminal](https://github.com/gofireflyio/aiac), a go-based project that generates ready-to-use devops code such as terraform configurations, kubernetes manifest files, ansible, dockfiles, and much more with a single command.
