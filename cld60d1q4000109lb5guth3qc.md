@@ -114,4 +114,6 @@ You should be able to successfully set up your development environment and get s
 * Developing blockchain and cryptocurrency applications.
     
 
-# Bonus, \[Get ChatGPT in Your terminal\]([https://github.com/gofireflyio/aiac](https://github.com/gofireflyio/aiac))
+In conclusion, Go is a powerful, efficient, and simple programming language that is suitable for a wide range of applications, why not just giving it a try?
+
+Bonus, [Get ChatGPT in Your terminal](https://github.com/gofireflyio/aiac)
