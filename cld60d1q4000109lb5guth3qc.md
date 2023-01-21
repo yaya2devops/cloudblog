@@ -29,8 +29,6 @@ i did it using vim, u can do [nano](https://www.geeksforgeeks.org/nano-vs-vim-ed
 
 On windows, u can also type 'edit environment variables' in the start and edit manually.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1674321956873/2dee42f0-6eed-40ce-80b1-d635164a623a.png align="center")
-
 * I added this line to .bash\_profile or (create one if you don't have one)
     
     \` source ~/.bashrc\`
