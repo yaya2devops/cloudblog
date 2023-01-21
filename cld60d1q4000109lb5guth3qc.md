@@ -119,4 +119,24 @@ Go's popularity has been on the rise in recent years, and it has been adopted by
 
 If you are looking for a new language to try, or if you are interested in building systems, web applications, or network services, Go is definitely worth considering. It is a great choice for your next project and you will not regret giving it a try.
 
-Bonus, check this [Get ChatGPT in Your terminal](https://github.com/gofireflyio/aiac), a go-based project that generates ready-to-use devops code such as terraform configurations, kubernetes manifest files, ansible, dockfiles, and much more with a single command.
+Bonus, check this [Get ChatGPT in Your terminal](https://github.com/gofireflyio/aiac), a go-based project that generates ready-to-use devops code such as terraform configurations, kubernetes manifest files, ansible, dockfiles, and much more with a single command.  
+  
+After building your source code, and connecting to the API, set the PATH variable so you can use the tool anywhere.  
+  
+Powershell as an admin and run this command:
+
+```cpp
+[Environment]::SetEnvironmentVariable("PATH", "C:\YourPathOfc\aiac;" + [Environment]::GetEnvironmentVariable("PATH"), "User")
+```
+
+Restart your terminals.
+
+* Check the tool on Powershell  
+    
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1674341678263/67fd6898-00f6-47b4-bce6-d87c4cd30f94.png align="center")
+
+* check the tool in git:
+    
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1674341692433/fe0555c6-bd2e-4853-a4c3-d4acc434839b.png align="center")
