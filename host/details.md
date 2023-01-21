@@ -20,7 +20,7 @@ My interests revolve around devops, development, security, and innovation.
 
 ## Dev
 
-- [ ] [Packet Managers, Node, NPM, YARN]() 
+- [ ] [Package Managers, Node, NPM, YARN]() 
 - [ ] [Go For DevOps - FULL]() 
 - [ ] [APIs]() 
 - [ ] [Databases, SQL, NOSQL & Scalling]()
