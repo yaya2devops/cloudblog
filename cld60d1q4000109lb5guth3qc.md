@@ -6,7 +6,7 @@ Go is sure to be a major language in the world of programming for years to come.
 
 Go is considered a key player in the DevOps world. **Docker**, **Kubernetes**, **Prometheus**, **Hugo**, **Grafana** and **Terraform** are all built **on top of Go**.
 
-Concurrency support built into Go makes it simple for developers to create highly performant and efficient systems, which is key in the DevOps world where speed and reliability are critical.
+Concurrency support built into Go makes it simple for developers to create highly performant and efficient systems, which is essential in the DevOps world where speed and reliability are critical.
 
 In this article, I'll walk you through my troubleshooting process for installing Go lang and then running your first project!
 
