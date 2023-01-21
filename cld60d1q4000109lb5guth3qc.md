@@ -117,8 +117,6 @@ All in all, Go is a powerful, efficient, and simple programming language that is
 
 Go's popularity has been on the rise in recent years, and it has been adopted by many large companies such as Uber, Netflix, and Dropbox, as well as open-source projects such as Kubernetes and Docker.
 
-If you are looking for a new language to try, or if you are interested in building systems, web applications, or network services, Go is definitely worth considering. It is a great choice for your next project and you will not regret giving it a try.
-
 Bonus, check this [Get ChatGPT in Your terminal](https://github.com/gofireflyio/aiac), a go-based project that generates ready-to-use devops code such as terraform configurations, kubernetes manifest files, ansible, dockfiles, and much more with a single command.
 
 After building your source code, and connecting to the API, set the PATH variable so you can use the tool anywhere.
@@ -140,3 +138,7 @@ Restart your terminals.
     
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1674341692433/fe0555c6-bd2e-4853-a4c3-d4acc434839b.png align="center")
+
+  
+  
+Go is very powerful, If you are looking for a new language to experience, or if you are interested in building systems, web applications, or network services, It is definitely worth considering. It is a great choice for your next project and you will not regret giving it a try.
