@@ -139,6 +139,6 @@ Restart your terminals.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1674341692433/fe0555c6-bd2e-4853-a4c3-d4acc434839b.png align="center")
 
-Good.  
-  
-In summary, if you are looking for a new language to experience, or if you are interested in building systems, web applications, or network services, It is definitely worth considering. It is a great choice for your next project and you will not regret giving it a try.
+Good.
+
+In summary, if you are looking for a new language to experience, or if you are interested in building systems, web applications, or network services, **Go is definitely worth considering**. It is a great choice for your next project and you will not regret giving it a try.
