@@ -119,4 +119,4 @@ Go's popularity has been on the rise in recent years, and it has been adopted by
 
 If you are looking for a new language to try, or if you are interested in building systems, web applications, or network services, Go is definitely worth considering. It is a great choice for your next project and you will not regret giving it a try.
 
-Bonus, check this [Get ChatGPT in Your terminal](https://github.com/gofireflyio/aiac), a go-based project that generates ready-to-use devops code such as terraform files, kubernetes manifest files, ansible, and much more with a single command.
+Bonus, check this [Get ChatGPT in Your terminal](https://github.com/gofireflyio/aiac), a go-based project that generates ready-to-use devops code such as terraform configurations, kubernetes manifest files, ansible, dockfiles, and much more with a single command.
