@@ -14,6 +14,7 @@ Hopefully, this will make it simpler for readers like you to access the entire c
 
 Thank you for stopping by! Happy reading.
 
+- [The Technology Titan Go Language](cld60d1q4000109lb5guth3qc.md)
 - [AWS Certified Developer Associate - Resources](clcphls2u000308l7b4ijcfik.md)
 - [Quickstart Ruby On Rails](clcknrfws000508iga8bqbjpr.md)
 - [Mastering Python and Bash for Next-Level Automation](clc0i6hnw000h08l1auogdwm3.md)
@@ -64,6 +65,7 @@ The blog is distributed [here](https://blog.yahya-abulhaj.dev/) @hashnode.
 
 <!-- HASHNODE_BLOG:START -->
 
+- [The Technology Titan Go Language](https://blog.yahya-abulhaj.dev/the-technology-titan-go-language)
 - [AWS Developer Exam Study Guide: Resources, Tips, and Strategies](https://blog.yahya-abulhaj.dev//aws-developer-exam-study-guide-resources-tips-and-strategies)
 - [Quickstart Ruby On Rails](https://blog.yahya-abulhaj.dev//quickstart-ruby-on-rails)
 - [Mastering Python and Bash for Next-Level Automation](https://blog.yahya-abulhaj.dev//mastering-python-and-bash-for-next-level-automation)
