@@ -39,7 +39,13 @@
 | [500 Practice Tests on Udemy](https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exams-c/) |  | ✔️ |
 | [Rishab Notes](https://notes.rishab.cloud/aws-cloudpractitioner) | ✔️ |  |
 
-# Best regards,
+Before proceeding with the material, please review the awesome AWS display below on how to become certified.
+
+<details>
+<summary>I'm here!</summary>
+<br />
+- [Take me](https://pages.awscloud.com/rs/112-TZM-766/images/2022_AWS_TC_EMEA_Nurture_T3_5_Reasons.pdf?trk=c7b16874-e6c3-47be-b8d8-bab754fc1c9e&amp;sc_channel=em&amp;mkt_tok=MTEyLVRaTS03NjYAAAGJXgvEryooRZOuj8Mz5RjXPaDW2fyZsIldv43odhg_WVBj7BaHqa7VDkodoB9QwVuwd7QOmnkfHXnldbXG1qkUcNt7xIyDmBJ-dRRGhoF_mW5CRv0isvZQ)
+</details>
 
 ---
 
