@@ -106,11 +106,16 @@ My interests revolve around devops, development, security, and innovation.
  
 This section is purely for entertainment purposes; at the moment, what I am most concerned with is giving back. Certs are therefore for some mini-challenges and to make the most of the available time. Best regards,
 
-- GCP ACE
+- SC-100
+
+- MS-900
+
+- MB-910
+
+- MB-920
 
 - AWS SAA-C03
 
-- SC-100
 
 > [Feature Request?](https://feedback.hashnode.com/p/the-total-number-of-blog-views-on-your-hashnode-profile) **If you saw it, please upvote!**
 
