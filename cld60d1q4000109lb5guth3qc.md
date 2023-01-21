@@ -29,6 +29,8 @@ i did it using vim, u can do [nano](https://www.geeksforgeeks.org/nano-vs-vim-ed
 
 On windows, u can also type 'edit environment variables' in the start and edit manually.
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1674321956873/2dee42f0-6eed-40ce-80b1-d635164a623a.png align="center")
+
 * I added this line to .bash\_profile or (create one if you don't have one)
     
     \` source ~/.bashrc\`
@@ -118,4 +120,4 @@ Go's popularity has been on the rise in recent years, and it has been adopted by
 
 If you are looking for a new language to try, or if you are interested in building systems, web applications, or network services, Go is definitely worth considering. It is a great choice for your next project and you will not regret giving it a try.
 
-Bonus, check this [Get ChatGPT in Your terminal](https://github.com/gofireflyio/aiac), a go-based project that generates ready-to-use devops code such as terraform files, kubernetes manifest files, ansible, and much more with a single command to your terminal.
+Bonus, check this [Get ChatGPT in Your terminal](https://github.com/gofireflyio/aiac), a go-based project that generates ready-to-use devops code such as terraform files, kubernetes manifest files, ansible, and much more with a single command.
