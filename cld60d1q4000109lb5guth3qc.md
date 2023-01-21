@@ -2,7 +2,7 @@
 
 Go is sure to be a major player in the world of programming for years to come. Created by Google in 2009, Go is a modern, open-source language that is designed for high performance, reliability, and ease of use
 
-Why GO Programming Language?
+## Why GO Programming Language?
 
 Go is considered a key player in the DevOps world. **Docker**, **Kubernetes**, **Prometheus**, **Hugo**, **Grafana** and **Terraform** are all built **on top of Go**.
 
