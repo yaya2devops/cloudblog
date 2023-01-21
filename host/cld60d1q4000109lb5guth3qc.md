@@ -29,9 +29,11 @@ i did it using vim, u can do [nano](https://www.geeksforgeeks.org/nano-vs-vim-ed
 
 On windows, u can also type 'edit environment variables' in the start and edit manually.
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1674339491254/441a4b06-f619-43b3-8bda-5b15a6dfc171.png)
+
 * I added this line to .bash\_profile (create one if you don't have)
     
-    \` source ~/.bashrc\`
+    `source ~/.bashrc`
     
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1674307253235/3648b98f-adeb-43d1-9e02-590b7baebc95.png)
@@ -115,6 +117,28 @@ All in all, Go is a powerful, efficient, and simple programming language that is
 
 Go's popularity has been on the rise in recent years, and it has been adopted by many large companies such as Uber, Netflix, and Dropbox, as well as open-source projects such as Kubernetes and Docker.
 
-If you are looking for a new language to try, or if you are interested in building systems, web applications, or network services, Go is definitely worth considering. It is a great choice for your next project and you will not regret giving it a try.
-
 Bonus, check this [Get ChatGPT in Your terminal](https://github.com/gofireflyio/aiac), a go-based project that generates ready-to-use devops code such as terraform configurations, kubernetes manifest files, ansible, dockfiles, and much more with a single command.
+
+After building your source code, and connecting to the API, set the PATH variable so you can use the tool anywhere.
+
+Powershell as an admin and run this command:
+
+```cpp
+[Environment]::SetEnvironmentVariable("PATH", "C:\YourPathOfc\aiac;" + [Environment]::GetEnvironmentVariable("PATH"), "User")
+```
+
+Restart your terminals.
+
+* Check the tool in Powershell
+    
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1674341678263/67fd6898-00f6-47b4-bce6-d87c4cd30f94.png)
+
+* check the tool in git:
+    
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1674341692433/fe0555c6-bd2e-4853-a4c3-d4acc434839b.png)
+
+Good.
+
+In summary, if you are looking for a new language to experience, or if you are interested in building systems, web applications, or network services, **Go is definitely worth considering**. It is a great choice for your next project and you will not regret giving it a try.
