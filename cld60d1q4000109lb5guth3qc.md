@@ -114,6 +114,10 @@ You should be able to successfully set up your development environment and get s
 * Developing blockchain and cryptocurrency applications.
     
 
-In conclusion, Go is a powerful, efficient, and simple programming language that is suitable for a wide range of applications, why not just giving it a try?
+In conclusion, Go is a powerful, efficient, and simple programming language that is suitable for a wide range of applications. The language's simplicity and ease of use make it accessible to developers of all skill levels, and its performance and scalability make it suitable for building large, complex systems.
 
-Bonus, [Get ChatGPT in Your terminal](https://github.com/gofireflyio/aiac)
+Go's popularity has been on the rise in recent years, and it has been adopted by many large companies such as Uber, Netflix, and Dropbox, as well as open-source projects such as Kubernetes and Docker.
+
+If you are looking for a new language to try, or if you are interested in building systems, web applications, or network services, Go is definitely worth considering. It is a great choice for your next project and you will not regret giving it a try.
+
+Bonus, check this [Get ChatGPT in Your terminal](https://github.com/gofireflyio/aiac)
