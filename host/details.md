@@ -29,7 +29,7 @@ My interests revolve around devops, development, security, and innovation.
 - [ ] [Cloud Design Patterns deeper includin k8s]()
 
 
-## AWS </summary>
+## AWS 
 
 - [ ] [AWS for DevOps: How to Implement Continuous Integration and Deployment]()
 - [ ] [AWS CloudFormation: Automating Infrastructure Provisioning]()
@@ -51,8 +51,14 @@ My interests revolve around devops, development, security, and innovation.
 
 
 This section is purely for entertainment purposes; at the moment, what I am most concerned with is giving back. Certs are therefore for some mini-challenges and to make the most of the available time. Best regards,
-- GCP ACE
-- AWS SAA-C03
-- SC-100
 
+- [ ] SC-100
+
+- [ ] MS-900
+
+- [ ] MB-910
+
+- [ ] MB-920
+
+- [ ] AWS SAA-C03
 
