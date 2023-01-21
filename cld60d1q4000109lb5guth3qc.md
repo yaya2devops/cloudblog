@@ -29,7 +29,7 @@ i did it using vim, u can do [nano](https://www.geeksforgeeks.org/nano-vs-vim-ed
 
 On windows, u can also type 'edit environment variables' in the start and edit manually.
 
-* I added this line to .bash\_profile or (create one if you don't have one)
+* I added this line to .bash\_profile (create one if you don't have)
     
     \` source ~/.bashrc\`
     
