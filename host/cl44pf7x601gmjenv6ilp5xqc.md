@@ -24,13 +24,11 @@ Azure Cost Management + Billing is a multi-cloud pricing management service that
 ## Cost analysis
 Cost analysis is a feature of Azure Cost Management that allows you to see total costs over time. This view might facilitate you in comprehending your spending patterns.
 
-![costsana.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1654637990371/JRa_yvM9U.png)
 If you want to know how much a service costs right now, or if you're attempting to find out why your bill is greater than you expected, this is the tool to utilize.
 
 ## Azure Advisor 
 A sophisticated tool that gives you environmental advice based on your goals, as well as information on how to improve, save money, expand availability, and safeguard your environment. 
 
-![Azure-Advisor-Recommendations.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1654638337828/EsD11TO-q.jpg)
 ## Budget
 This allows you to create custom cost and usage budgets and receive notifications when those budgets are crossed.
 An Azure subscription budget can be created for a monthly, quarterly, or annual period.
