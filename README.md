@@ -8,7 +8,7 @@ Welcome to my blog, where I'll be sharing insights, thoughts, and experiences ab
  
  
 
-<img class="img" src="Banner.png" alt="Hey">
+<img class="img" src="new.png" alt="Hey">
  
 
 # Current Blog List
