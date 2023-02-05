@@ -1,4 +1,4 @@
-# 💎Quickstart Ruby On Rails💎
+# Quickstart Ruby On Rails💎
 
 # Introduction
 
