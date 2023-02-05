@@ -68,6 +68,13 @@ He is also an inspiring fitness guy who will probably encourage you to start goi
 
 I attempted to gather the certification topics into a single scrollable [page](https://cloud.itzyahya.tech/A-AZ900) that can be used offline; I hope this is useful.
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1675599106094/fb174a29-f5fb-4c6e-bdb1-c7bb7de077e3.png)
+
+|  | Yahya's notes |
+| --- | --- |
+| AZ-900 | [Go Ahead](https://cloud.itzyahya.tech/A-AZ900) |
+| DP-900 | [Go Ahead](https://cloud.itzyahya.tech/B-DP900) |
+| AI-900 | [Go Ahead](https://cloud.itzyahya.tech/C-AI900) |
 
 
 
