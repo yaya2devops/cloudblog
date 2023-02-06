@@ -57,8 +57,8 @@ It was a great experience! ☁️
 
 Here is one of the [pull requests](https://github.com/openupthecloud/open-cloud-dev-box/pull/20) to automate the installation of initial VS code extensions.
 
-Additionally, you can also look at [this document](https://docs.google.com/document/d/19XMyd5zCk7S9QT2q1_Cg-wvbnBwOge7EgzgvtVCgcz0) for a more outline of all of the technologies we'll be discussing each week.
+Additionally, you can look at [this document](https://docs.google.com/document/d/19XMyd5zCk7S9QT2q1_Cg-wvbnBwOge7EgzgvtVCgcz0) for a more outline of all of the technologies we'll be discussing each week.
 
 For students who are already enrolled, the main communication channels are [AWS Ontario Virtual User Group](https://www.meetup.com/fr-FR/aws-ontario-virtual-user-group/), [Discord](https://discord.gg/qkbwvyRp), and [ExamPro YouTube Channel](https://www.youtube.com/c/ExamProChannel/videos).
 
-Be ready; see you!
+**Be** ready; see you!
