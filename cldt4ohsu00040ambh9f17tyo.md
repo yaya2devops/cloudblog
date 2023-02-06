@@ -31,9 +31,16 @@ Along the way, we'll get to experiment with AWS billing, app containerization, c
 
 [A student portal](https://student.cloudprojectbootcamp.com/) is also now available throughout the bootcamp to keep track of all activities for those who have registered.
 
+<details>
+<summary>
+
 I did!
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1675706814169/f33c09bd-5947-42b6-a74a-c0d37988c25f.png align="center")
+</summary>
+
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675706814169/f33c09bd-5947-42b6-a74a-c0d37988c25f.png">
+
+</details>
 
 Further, I had already begun working on supporting this project.  
   
