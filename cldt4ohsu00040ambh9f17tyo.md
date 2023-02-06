@@ -34,7 +34,7 @@ Along the way, we'll get to experiment with AWS billing, app containerization, c
 <details>
 <summary>
 
-I did!
+I did! 🚀
 
 </summary>
 
@@ -46,7 +46,14 @@ Further, I had already begun working on supporting this project.
   
 I collaborated with [Loo](https://twitter.com/loujaybee) on some preliminary configurations to ensure that the necessary tools are installed at the start of the cloud-based code editor, e.g. [Gitpod](https://www.gitpod.io/about).
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1675705961795/cdf505e2-21e5-470d-89cc-855485f68cd6.jpeg align="center")
+<details>
+<summary>
+It was a great experience! ☁️
+</summary>
+
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675705961795/cdf505e2-21e5-470d-89cc-855485f68cd6.jpeg">
+
+</details>
 
 Here is one of the [pull requests](https://github.com/openupthecloud/open-cloud-dev-box/pull/20) to automate the installation of initial VS code extensions.
 
