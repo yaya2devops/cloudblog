@@ -54,7 +54,7 @@ This section is purely for entertainment purposes; at the moment, what I am most
 
 - [ ] SC-100
 
-- [ ] MS-900
+- [x] MS-900
 
 - [ ] MB-910
 
