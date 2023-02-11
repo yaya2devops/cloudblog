@@ -2,7 +2,9 @@
 # CloudBlogs Repo☁
 
 
-Welcome to my blog, where I'll be sharing insights, thoughts, and experiences about cloud computing, DevOps, infrastructure as code, and a variety of other technologies with the community, and I hope that it will be a source of inspiration and learning for others who are interested in these topics.
+Welcome to my blog, where I'll be sharing insights, thoughts, and experiences about cloud computing, DevOps, infrastructure as code, and a variety of other technologies with the community.
+
+I am super passionate about the latest innovations, and I hope that through this you can find a source of inspiration to learn more and get better.
 
  
  
@@ -11,13 +13,11 @@ Welcome to my blog, where I'll be sharing insights, thoughts, and experiences ab
 <img class="img" src="new.png" alt="Hey">
  
 
-# Current Blog List
-I am passionate about the latest innovations, and I hope that through my blog, I can help others to do the same. 
+# Current Blog List; [Happy reading](https://archive.yahya-abulhaj.dev/)
 
-Whether you're just starting out in the tech industry or are a seasoned professional looking to deepen your knowledge, I hope that you will find something of value here. 
+ [You can read directly from GitHub.](/host#welcome-to-my-cloudblogs-repo)
 
-Thank you for stopping by! [Happy reading](https://archive.yahya-abulhaj.dev/).
-> [Read from GitHub.](/host#welcome-to-my-cloudblogs-repo)
+
 <details>  
 
 <summary><b> Loading Blog List </b></summary>
@@ -115,11 +115,9 @@ This section is purely for entertainment purposes; at the moment, what I am most
 - MB-920
 
 - AWS SAA-C03
+> Thank you for stopping by!
 
-
-> [Feature Request?](https://feedback.hashnode.com/p/the-total-number-of-blog-views-on-your-hashnode-profile) **If you saw it, please upvote!**
-
-Please read [about this repository](about.md) for more information.
+Read [about this repository](about.md) for more information.
 
 </details>
 
