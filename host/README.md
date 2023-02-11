@@ -66,6 +66,7 @@ The blog is distributed [here](https://blog.yahya-abulhaj.dev/) @hashnode.
 
 <!-- HASHNODE_BLOG:START -->
 
+- [AWS Cloud Project Bootcamp](https://blog.yahya-abulhaj.dev/aws-cloud-project-bootcamp)
 - [The Technology Titan Go Language](https://blog.yahya-abulhaj.dev/the-technology-titan-go-language)
 - [AWS Developer Exam Study Guide: Resources, Tips, and Strategies](https://blog.yahya-abulhaj.dev//aws-developer-exam-study-guide-resources-tips-and-strategies)
 - [Quickstart Ruby On Rails](https://blog.yahya-abulhaj.dev//quickstart-ruby-on-rails)
