@@ -2,7 +2,7 @@
 # CloudBlogs Repo☁
 
 
-Welcome to my blog, where I'll be sharing insights, thoughts, and experiences about cloud computing, DevOps, infrastructure as code, and a variety of other technologies with the community.
+Welcome to my blog, where I'll be sharing my insights, thoughts, and experiences about cloud computing, DevOps, infrastructure as code, and a variety of other technologies with the community.
 
 I am super passionate about the latest innovations, and I hope that through this you can find a source of inspiration to learn more and get better.
 
