@@ -1,8 +1,8 @@
 ---
-title: "Explaining Packages To 5-Year-Old"
+title: "Explaining Packages To A-5Year-Old"
 datePublished: Sun Mar 19 2023 20:22:05 GMT+0000 (Coordinated Universal Time)
 cuid: clffugcsv000609lb1opo13xd
-slug: explaining-packages-to-5-year-old
+slug: explaining-packages-to-a-5year-old
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1679257217849/52e0051b-2513-45b4-b10d-04a670440774.png
 tags: npm, package, node, nkde
 
