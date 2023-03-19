@@ -110,7 +110,8 @@ Serve it locally:
 docisfy serve your-project
 ```
 
-I built this using [Docsify.](https://istic.computer-engineering.tech/#/)
+I built [this](https://istic.computer-engineering.tech/#/) using Docsify.
+
 You can now start to generate your websites.
 
 
