@@ -40,7 +40,9 @@ If Node.js is installed, you will see its version number printed to the console.
 ```
 brew install node
 ```
-2. Alternatively, you can download the macOS Installer from the [official Node.js website](https://nodejs.org/en/download/).
+
+2. Alternatively, you can download the Linux Binaries from the [official Node.js website](https://nodejs.org/en/download/).
+
 3. Open Terminal and run the following command to check if Node.js is installed:
 
 ```
@@ -56,8 +58,7 @@ node -v
 sudo apt-get install nodejs
 ```
 
-2. Alternatively, you can download the Linux Binaries from the [official Node.js website](https://nodejs.org/en/download/).
-3. Open Terminal and run the following command to check if Node.js is installed:
+2. Open Terminal and run the following command to check if Node.js is installed:
 
 ```
 node -v
