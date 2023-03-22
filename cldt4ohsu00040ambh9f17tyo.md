@@ -1,4 +1,12 @@
-# AWS Cloud Project Bootcamp
+---
+title: "AWS Cloud Project Bootcamp"
+datePublished: Mon Feb 06 2023 18:09:56 GMT+0000 (Coordinated Universal Time)
+cuid: cldt4ohsu00040ambh9f17tyo
+slug: aws-cloud-project-bootcamp
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675707786864/15a8d9eb-4376-461a-85d3-6e1367084b32.png
+tags: twitter, aws, technology, bootcamp, twitter-like
+
+---
 
 Hey friends, I'm officially a participant in the [AWS Cloud Project Bootcamp](https://aws.cloudprojectbootcamp.com/), WO-HO🎉🎉🎉.
 
@@ -27,20 +35,23 @@ Along the way, we'll get to experiment with AWS billing, app containerization, c
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1675706654419/66fca4aa-ef27-415b-a00c-0b9dfd7dbaad.png)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1675706654419/66fca4aa-ef27-415b-a00c-0b9dfd7dbaad.png align="center")
 
 [A student portal](https://student.cloudprojectbootcamp.com/) is also now available throughout the bootcamp to keep track of all activities for those who have registered.
+
 
 <details>
 <summary>
 
-I did! 🚀
+Indeed! 🚀
 
 </summary>
 
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675706814169/f33c09bd-5947-42b6-a74a-c0d37988c25f.png">
 
 </details>
+
+Student Portal Tour from [here](https://github.com/yaya2devops/aws-cloud-project-bootcamp/blob/main/journal/student-portal.md#student-portal-tour).
 
 Further, I had already begun working on supporting this project.  
   
@@ -62,3 +73,30 @@ Additionally, you can look at [this document](https://docs.google.com/document/d
 For students who are already enrolled, the main communication channels are [AWS Ontario Virtual User Group](https://www.meetup.com/fr-FR/aws-ontario-virtual-user-group/), [Discord](https://discord.gg/qkbwvyRp), and [ExamPro YouTube Channel](https://www.youtube.com/c/ExamProChannel/videos).
 
 **Be** ready; see you!
+
+
+
+---
+
+
+## Bootcamp Tracker
+
+| Technologies   | My Journal  |
+| :--- | :---: |
+| Bootcamp Overview and Introduction to Cloud Spend | [Week 0](https://github.com/yaya2devops/aws-cloud-project-bootcamp/blob/main/journal/week0.md) |
+| Docker and App Containerization | [Week 1](https://github.com/yaya2devops/aws-cloud-project-bootcamp/blob/main/journal/week1.md) |
+| Distributed Tracing | [Week 2](https://github.com/yaya2devops/aws-cloud-project-bootcamp/blob/main/journal/week2.md) |
+| Decentralized Authentication | [Week 3](https://github.com/yaya2devops/aws-cloud-project-bootcamp/blob/main/journal/week3.md) |
+| SQL Database | Doing |
+| NoSQL Database | Doing |
+| Deploying Serverless Containers (Part 1/2) | Coming |
+| Solving CORS with a Custom Domain and Load Balancing (Part 2/2) | Coming |
+| Serverless Image Processing | Coming |
+| CI/CD | Coming |
+| CloudFormation (Part 1/2) | Coming |
+| CloudFormation (Part 2) | Coming |
+| Modern APIs | Coming |
+
+
+
+
