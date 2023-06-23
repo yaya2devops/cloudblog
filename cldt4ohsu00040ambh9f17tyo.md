@@ -22,48 +22,32 @@ It's worth noting that the app will be called **CRUDDUR**, say it then forget it
 
 <details>
 <summary>
-
-Nope, I didn't. 😊
-
-</summary>
-
-<img src="https://raw.githubusercontent.com/yaya2devops/aws-cloud-project-bootcamp/main/_docs/assets/cruddur-screenshot.png">
-
-</details>
+<p>Nope, I didn
 
 Along the way, we'll get to experiment with AWS billing, app containerization, caching, CI/CD with AWS CodePipeline, CodeBuild, and CodeDeploy, modern APIs, and IaC, to name a few.
-
----
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1675706654419/66fca4aa-ef27-415b-a00c-0b9dfd7dbaad.png align="center")
 
 [A student portal](https://student.cloudprojectbootcamp.com/) is also now available throughout the bootcamp to keep track of all activities for those who have registered.
 
-
 <details>
 <summary>
-
-Indeed! 🚀
-
+<p>Indeed! 🚀</p>
 </summary>
-
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675706814169/f33c09bd-5947-42b6-a74a-c0d37988c25f.png">
-
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675706814169/f33c09bd-5947-42b6-a74a-c0d37988c25f.png" />
 </details>
 
 Student Portal Tour from [here](https://github.com/yaya2devops/aws-cloud-project-bootcamp/blob/main/journal/student-portal.md#student-portal-tour).
 
-Further, I had already begun working on supporting this project.  
-  
+Further, I had already begun working on supporting this project.
+
 I collaborated with [Loo](https://twitter.com/loujaybee) on some preliminary configurations to ensure that the necessary tools are installed at the start of the cloud-based code editor, e.g. [Gitpod](https://www.gitpod.io/about).
 
 <details>
 <summary>
 It was a great experience! ☁️
 </summary>
-
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675705961795/cdf505e2-21e5-470d-89cc-855485f68cd6.jpeg">
-
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675705961795/cdf505e2-21e5-470d-89cc-855485f68cd6.jpeg" />
 </details>
 
 Here is one of the [pull requests](https://github.com/openupthecloud/open-cloud-dev-box/pull/20) to automate the installation of initial VS code extensions.
@@ -73,30 +57,3 @@ Additionally, you can look at [this document](https://docs.google.com/document/d
 For students who are already enrolled, the main communication channels are [AWS Ontario Virtual User Group](https://www.meetup.com/fr-FR/aws-ontario-virtual-user-group/), [Discord](https://discord.gg/qkbwvyRp), and [ExamPro YouTube Channel](https://www.youtube.com/c/ExamProChannel/videos).
 
 **Be** ready; see you!
-
-
-
----
-
-
-## Bootcamp Tracker
-
-| Technologies   | My Journal  |
-| :--- | :---: |
-| Bootcamp Overview and Introduction to Cloud Spend | [Week 0](https://github.com/yaya2devops/aws-cloud-project-bootcamp/blob/main/journal/week0.md) |
-| Docker and App Containerization | [Week 1](https://github.com/yaya2devops/aws-cloud-project-bootcamp/blob/main/journal/week1.md) |
-| Distributed Tracing | [Week 2](https://github.com/yaya2devops/aws-cloud-project-bootcamp/blob/main/journal/week2.md) |
-| Decentralized Authentication | [Week 3](https://github.com/yaya2devops/aws-cloud-project-bootcamp/blob/main/journal/week3.md) |
-| SQL Database | Doing |
-| NoSQL Database | Doing |
-| Deploying Serverless Containers (Part 1/2) | Coming |
-| Solving CORS with a Custom Domain and Load Balancing (Part 2/2) | Coming |
-| Serverless Image Processing | Coming |
-| CI/CD | Coming |
-| CloudFormation (Part 1/2) | Coming |
-| CloudFormation (Part 2) | Coming |
-| Modern APIs | Coming |
-
-
-
-
