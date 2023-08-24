@@ -18,11 +18,11 @@ The platform will be built for scale and will allow users to share thoughts, pos
 
 I forked the initial template as instructed by Andrew, and I'll keep working on the project continuously [from here.](https://github.com/yaya2devops/aws-cloud-project-bootcamp)
 
-It's worth noting that the app will be called **CRUDDUR**, say it then forget it.
+It's worth noting that the app will be called **CRUDDUR**, say it then forget it
 
 <details>
 <summary>
-<p>Nope, I didn
+Nope, I didnt!</summary></details>
 
 Along the way, we'll get to experiment with AWS billing, app containerization, caching, CI/CD with AWS CodePipeline, CodeBuild, and CodeDeploy, modern APIs, and IaC, to name a few.
 
@@ -32,7 +32,7 @@ Along the way, we'll get to experiment with AWS billing, app containerization, c
 
 <details>
 <summary>
-<p>Indeed! 🚀</p>
+Indeed! 🚀<p></p>
 </summary>
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675706814169/f33c09bd-5947-42b6-a74a-c0d37988c25f.png" />
 </details>
@@ -50,9 +50,11 @@ It was a great experience! ☁️
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675705961795/cdf505e2-21e5-470d-89cc-855485f68cd6.jpeg" />
 </details>
 
-Here is one of the [pull requests](https://github.com/openupthecloud/open-cloud-dev-box/pull/20) to automate the installation of initial VS code extensions.
 
+
+Here is one of the [pull requests](https://github.com/openupthecloud/open-cloud-dev-box/pull/20) to automate the installation of initial VS code extensions.
 Additionally, you can look at [this document](https://docs.google.com/document/d/19XMyd5zCk7S9QT2q1_Cg-wvbnBwOge7EgzgvtVCgcz0) for a more outline of all of the technologies we'll be discussing each week.
+
 
 For students who are already enrolled, the main communication channels are [AWS Ontario Virtual User Group](https://www.meetup.com/fr-FR/aws-ontario-virtual-user-group/), [Discord](https://discord.gg/qkbwvyRp), and [ExamPro YouTube Channel](https://www.youtube.com/c/ExamProChannel/videos).
 
