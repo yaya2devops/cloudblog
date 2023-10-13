@@ -13,7 +13,7 @@ I am super passionate about the latest innovations, and I hope that through this
 <img class="img" src="new.png" alt="Hey">
  
 
-# Current Blog List; [Happy reading](https://archive.yahya-abulhaj.dev/)
+# Current Blog List; [Happy reading](https://archive.ya-ya.tech/)
 
  [You can read directly from GitHub.](/host#welcome-to-my-cloudblogs-repo)
 
