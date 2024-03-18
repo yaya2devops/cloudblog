@@ -20,6 +20,34 @@ I am super passionate about the latest innovations, and I hope that through this
 
 <details>  
 
+<summary> <b>Planning To-Take Certifications </b></summary>
+
+<br>
+ 
+This section is purely for entertainment purposes; at the moment, what I am most concerned with is giving back. Certs are therefore for some mini-challenges and to make the most of the available time. Best regards,
+
+- [x] SC-100
+- [x] MS-900
+- [x] MB-910
+- [x] MB-920
+- [ ] SC-400
+- [ ] SC-300
+- [ ] AWS SAA-C03
+- [ ] SysOps
+- [ ] AWS DevOps
+
+Modern work
+- [ ] MD-102
+- [ ] MS-102
+- [x] MS-700
+- [x] MS-701
+      
+Specialities
+- [ ] AZ-140
+- [ ] AZ-120
+
+<details>  
+
 <summary><b> Loading Blog List </b></summary>
 <br>
 I'm constantly getting ideas, so I try to write down what I'd like time with and what I believe will be beneficial to the community.
@@ -98,23 +126,7 @@ My interests revolve around devops, development, security, and innovation.
 
 </details>
 
-<details>  
-
-<summary> <b>Planning To-Take Certifications </b></summary>
-
-<br>
- 
-This section is purely for entertainment purposes; at the moment, what I am most concerned with is giving back. Certs are therefore for some mini-challenges and to make the most of the available time. Best regards,
-
-- SC-100
-
-- MS-900
-
-- MB-910
-
-- MB-920
-
-- AWS SAA-C03
+      
 > Thank you for stopping by!
 
 Read [about this repository](about.md) for more information.
