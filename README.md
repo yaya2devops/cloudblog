@@ -30,6 +30,7 @@ This section is purely for entertainment purposes; at the moment, what I am most
 - [x] MS-900
 - [x] MB-910
 - [x] MB-920
+- [ ] GCP PCA (next)
 - [ ] SC-400
 - [ ] SC-300
 - [ ] AWS SAA-C03
