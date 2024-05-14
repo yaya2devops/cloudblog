@@ -2,7 +2,7 @@ There is no such thing as fear. It is an emotion that exists solely in the mind.
 
 
 
-
+ 
 Fear doesn't exist anywhere except in the mind.--
 Dale Carnegie
 
