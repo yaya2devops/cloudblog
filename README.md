@@ -1,5 +1,5 @@
 
-# Cloud Blogs - Early Days Trial Repo ☁  
+# ☁ Cloud Blogs - Early Days Trial Repo ☁  
 
 
 Welcome to my blog, where I'll be sharing my insights, thoughts, and experiences about cloud computing, DevOps, infrastructure as code, and a variety of other technologies with the community.
