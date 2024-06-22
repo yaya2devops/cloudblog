@@ -1,7 +1,7 @@
 
 # Welcome to My CloudBlogs Repo
 
-Hey, this is an archive of the blogs I wrote that helped lift me up during the 2022-2023 from February to March. 
+Hey, this is an archive of the blogs I wrote that helped lift me up and somehow saved m a a $ $ during the 2022-2023 from February to March. 
 
 So many events happened in between, and I'm thankful for the ideas I generated here regardless.
 
